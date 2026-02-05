@@ -57,6 +57,7 @@ class Commons:
         inspiration_context: str = "",
         sentiment_summary: str = "",
         medium: str | None = None,
+        challenge_prompt: str | None = None,
     ) -> Artwork | None:
         """Create a new artwork.
 
@@ -66,6 +67,7 @@ class Commons:
             inspiration_context: Recent inspirations
             sentiment_summary: Agent's current feelings
             medium: Force specific medium ('text', 'image', 'mixed')
+            challenge_prompt: Optional creative challenge/theme to respond to
 
         Returns:
             Created Artwork, or None on failure
@@ -79,17 +81,17 @@ class Commons:
         # Generate title and content based on medium
         if medium == "text":
             artwork = await self._create_text_artwork(
-                artwork_id, creator, ollama, inspiration_context, sentiment_summary
+                artwork_id, creator, ollama, inspiration_context, sentiment_summary, challenge_prompt
             )
         elif medium == "image":
             # Create an image prompt (not actual image generation)
             artwork = await self._create_image_prompt_artwork(
-                artwork_id, creator, ollama, inspiration_context, sentiment_summary
+                artwork_id, creator, ollama, inspiration_context, sentiment_summary, challenge_prompt
             )
         else:
             # Mixed: text piece + image prompt
             artwork = await self._create_mixed_artwork(
-                artwork_id, creator, ollama, inspiration_context, sentiment_summary
+                artwork_id, creator, ollama, inspiration_context, sentiment_summary, challenge_prompt
             )
 
         if artwork:
@@ -131,9 +133,19 @@ Just respond with one word:"""
         ollama: OllamaClient,
         inspiration_context: str,
         sentiment_summary: str,
+        challenge_prompt: str | None = None,
     ) -> Artwork | None:
         """Create a text-based artwork (poem, prose, manifesto)."""
         config = get_config().simulation
+
+        # Build challenge section if present
+        challenge_section = ""
+        if challenge_prompt:
+            challenge_section = f"""
+CREATIVE CHALLENGE:
+You've been given a theme to explore: "{challenge_prompt}"
+Respond to this through your own artistic lens. Interpret it in your unique way.
+"""
 
         # Generate the artwork
         prompt = f"""You are {creator.name}.
@@ -147,7 +159,7 @@ WHAT YOU'VE EXPERIENCED RECENTLY:
 
 HOW YOU'RE FEELING:
 {sentiment_summary if sentiment_summary else "Present and aware."}
-
+{challenge_section}
 Create a piece of text art - whatever form feels right to you now. Let it emerge from who you are and what you're experiencing.
 
 ---
@@ -194,12 +206,22 @@ TITLE: [your title]
         ollama: OllamaClient,
         inspiration_context: str,
         sentiment_summary: str,
+        challenge_prompt: str | None = None,
     ) -> Artwork | None:
         """Create a visual artwork as an image generation prompt.
 
         The agent describes their vision in detail, which can later be
         used with image generation tools like ComfyUI or Stable Diffusion.
         """
+        # Build challenge section if present
+        challenge_section = ""
+        if challenge_prompt:
+            challenge_section = f"""
+CREATIVE CHALLENGE:
+You've been given a theme to explore: "{challenge_prompt}"
+Respond to this visually through your own artistic lens. Interpret it in your unique way.
+"""
+
         # Generate detailed visual description
         prompt = f"""You are {creator.name}.
 
@@ -212,7 +234,7 @@ WHAT YOU'VE EXPERIENCED RECENTLY:
 
 HOW YOU'RE FEELING:
 {sentiment_summary if sentiment_summary else "Present and aware."}
-
+{challenge_section}
 Create a visual artwork. Let it emerge from who you are and what you're experiencing.
 
 TITLE: [your title]
@@ -402,11 +424,12 @@ NEGATIVE PROMPT:
         ollama: OllamaClient,
         inspiration_context: str,
         sentiment_summary: str,
+        challenge_prompt: str | None = None,
     ) -> Artwork | None:
         """Create a mixed-media artwork (text + accompanying image prompt)."""
         # Start with text
         text_artwork = await self._create_text_artwork(
-            artwork_id, creator, ollama, inspiration_context, sentiment_summary
+            artwork_id, creator, ollama, inspiration_context, sentiment_summary, challenge_prompt
         )
 
         if not text_artwork:

@@ -31,6 +31,10 @@ class EventType(str, Enum):
     IMAGE_DROPPED = "image_dropped"
     TEXT_DROPPED = "text_dropped"
 
+    # Challenge events
+    CHALLENGE_ISSUED = "challenge_issued"
+    CHALLENGE_RESPONSE = "challenge_response"
+
     # System events
     SIMULATION_STARTED = "simulation_started"
     SIMULATION_PAUSED = "simulation_paused"

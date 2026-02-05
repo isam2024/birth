@@ -13,6 +13,7 @@ from birth.integrations.stable_diffusion import StableDiffusionClient
 from birth.observation.logger import get_logger
 from birth.storage.database import Database
 from birth.storage.repository import Repository
+from birth.world.challenges import ChallengeManager
 from birth.world.commons import Commons
 from birth.world.drops import DropsWatcher
 from birth.world.gallery import Gallery
@@ -45,6 +46,7 @@ class Canvas:
         self._gallery: Gallery | None = None
         self._commons: Commons | None = None
         self._drops: DropsWatcher | None = None
+        self._challenges: ChallengeManager | None = None
 
         self._initialized = False
 
@@ -78,6 +80,9 @@ class Canvas:
             ollama=self._ollama,
             event_bus=self._event_bus,
         )
+
+        # Initialize Challenge manager
+        self._challenges = ChallengeManager(event_bus=self._event_bus)
 
         # Start event bus
         await self._event_bus.start()
@@ -143,6 +148,13 @@ class Canvas:
         if not self._drops:
             raise RuntimeError("Canvas not initialized")
         return self._drops
+
+    @property
+    def challenges(self) -> ChallengeManager:
+        """The Challenge manager for creative prompts."""
+        if not self._challenges:
+            raise RuntimeError("Canvas not initialized")
+        return self._challenges
 
     @property
     def repository(self) -> Repository:

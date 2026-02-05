@@ -40,7 +40,7 @@ def create_status_display(engine) -> Table:
     return table
 
 
-async def run_interactive(agent_count: int) -> None:
+async def run_interactive(agent_count: int, challenge: str | None = None) -> None:
     """Run simulation with interactive status display."""
     from birth.core.engine import SimulationEngine
     from birth.integrations.ollama import get_ollama_client, close_ollama_client
@@ -96,6 +96,13 @@ async def run_interactive(agent_count: int) -> None:
         for agent in engine.agents:
             console.print(f"  • {agent.name}")
         console.print()
+
+        # Issue challenge if provided
+        if challenge:
+            console.print(f"\n[bold yellow]CREATIVE CHALLENGE ISSUED:[/bold yellow]")
+            console.print(f"[yellow]\"{challenge}\"[/yellow]")
+            console.print("[dim]All agents will respond with their interpretation...[/dim]\n")
+            await canvas.challenges.issue_challenge(challenge)
 
         # Run with live status updates
         snapshot_interval = 50  # Take snapshot every N cycles
@@ -239,6 +246,13 @@ Examples:
         help="Set log level (default: INFO)",
     )
 
+    parser.add_argument(
+        "--challenge",
+        type=str,
+        default=None,
+        help="Issue a creative challenge/theme for all agents to respond to",
+    )
+
     args = parser.parse_args()
 
     # Load config first so we can modify it
@@ -266,7 +280,7 @@ Examples:
         if args.headless:
             asyncio.run(run_headless(agent_count, args.duration))
         else:
-            asyncio.run(run_interactive(agent_count))
+            asyncio.run(run_interactive(agent_count, challenge=args.challenge))
         return 0
 
     except KeyboardInterrupt:

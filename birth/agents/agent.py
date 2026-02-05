@@ -463,12 +463,21 @@ TARGET: [if applicable, the target agent or artwork ID]"""
         recent = self._memory.get_by_type(MemoryType.PERCEPTION, limit=5)
         inspiration_context = "\n".join(m.content for m in recent) if recent else "Nothing specific."
 
+        # Check for active challenge
+        challenge_prompt = None
+        challenge = self._canvas.challenges.get_challenge_for_agent(self.id)
+        if challenge:
+            challenge_prompt = challenge.prompt
+            self._canvas.challenges.mark_agent_responded(self.id)
+            self._logger.action("responding_to_challenge", challenge_id=challenge.id)
+
         # Generate artwork
         artwork = await self._canvas.commons.create_artwork(
             creator=self._data,
             ollama=self._ollama,
             inspiration_context=inspiration_context,
             sentiment_summary=self._sentiment.summarize(),
+            challenge_prompt=challenge_prompt,
         )
 
         if artwork:
