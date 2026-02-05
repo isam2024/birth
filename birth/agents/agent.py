@@ -483,6 +483,11 @@ TARGET: [if applicable, the target agent or artwork ID]"""
         if artwork:
             self._logger.creation(artwork.id, artwork.title, artwork.medium)
 
+            # Track style tags for gallery evolution
+            if artwork.style_tags:
+                for tag in artwork.style_tags:
+                    self._canvas.gallery.track_style_tag(tag)
+
             # Publish event
             await self._event_bus.publish(Event(
                 type=EventType.ARTWORK_CREATED,
@@ -524,6 +529,14 @@ TARGET: [if applicable, the target agent or artwork ID]"""
                 await self._sentiment.update("artwork", art.id, opinion)
                 await self._sentiment.update("agent", art.creator_id, opinion * 0.5)
                 observed.append(art.id)
+
+                # Peer nomination: highly praised works get added to gallery
+                if opinion >= 0.7 and art.content_text:
+                    self._canvas.gallery.nominate_artwork(
+                        artwork_title=art.title,
+                        excerpt=art.content_text,
+                        nominator_name=self.name,
+                    )
 
         return {
             "action": "observe_commons",

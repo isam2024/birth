@@ -1,10 +1,17 @@
-"""Gallery - Repository of inspirational assets.
+"""Gallery - Emergent repository of inspirational assets.
 
-The Gallery is the "outside world" that agents can observe for inspiration.
-It contains pre-seeded texts, concepts, and ideas.
+The Gallery evolves over time through agent contributions:
+- Peer-nominated: Highly praised works get added
+- Style evolution: Frequently used tags become concepts
+
+Initial seed content provides artistic vocabulary, but the gallery
+grows organically from what agents create and value.
 """
 
+import json
 import random
+from collections import Counter
+from datetime import datetime
 from pathlib import Path
 
 from birth.config import get_config
@@ -200,6 +207,118 @@ class Gallery:
         concept = {"theme": theme, "elements": elements}
         if concept not in self._concepts:
             self._concepts.append(concept)
+
+    # ========== Emergent Gallery Features ==========
+
+    def nominate_artwork(self, artwork_title: str, excerpt: str, nominator_name: str) -> bool:
+        """Add a peer-nominated artwork excerpt to the gallery.
+
+        Called when an agent highly praises another's work.
+
+        Args:
+            artwork_title: Title of the nominated work
+            excerpt: Memorable excerpt from the work (first ~200 chars)
+            nominator_name: Name of the agent who nominated it
+
+        Returns:
+            True if added, False if already exists
+        """
+        # Create inspiration from the excerpt
+        inspiration = f"{excerpt[:200]}..." if len(excerpt) > 200 else excerpt
+
+        # Don't add duplicates
+        if inspiration in self._texts:
+            return False
+
+        self._texts.append(inspiration)
+
+        # Save to emergent file
+        emergent_file = self._dir / "texts" / "emergent.txt"
+        emergent_file.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(emergent_file, "a") as f:
+            f.write(f"\n\n# Nominated by {nominator_name} - {datetime.utcnow().strftime('%Y-%m-%d')}\n")
+            f.write(f"# From: {artwork_title}\n")
+            f.write(inspiration)
+
+        logger.info(
+            "artwork_nominated",
+            title=artwork_title,
+            nominator=nominator_name,
+            excerpt_len=len(inspiration),
+        )
+        return True
+
+    def track_style_tag(self, tag: str) -> None:
+        """Track a style tag for evolution tracking.
+
+        Args:
+            tag: Style tag from an artwork
+        """
+        if not hasattr(self, "_tag_counts"):
+            self._tag_counts: Counter = Counter()
+
+        self._tag_counts[tag] += 1
+
+        # When a tag reaches threshold, promote it to a concept
+        threshold = 5  # Appears in 5+ artworks
+        if self._tag_counts[tag] == threshold:
+            self._promote_tag_to_concept(tag)
+
+    def _promote_tag_to_concept(self, tag: str) -> None:
+        """Promote a frequently-used tag to a gallery concept.
+
+        Args:
+            tag: The tag to promote
+        """
+        # Check if already a concept theme
+        existing_themes = [c.get("theme", "").lower() for c in self._concepts]
+        if tag.lower() in existing_themes:
+            return
+
+        # Create a new concept from the tag
+        concept = {
+            "theme": tag,
+            "elements": [tag],  # Start with just the tag itself
+            "emergent": True,  # Mark as agent-created
+            "emerged_at": datetime.utcnow().isoformat(),
+        }
+        self._concepts.append(concept)
+
+        # Save to emergent concepts file
+        emergent_file = self._dir / "concepts" / "emergent.json"
+        emergent_file.parent.mkdir(parents=True, exist_ok=True)
+
+        emergent_concepts = []
+        if emergent_file.exists():
+            try:
+                emergent_concepts = json.loads(emergent_file.read_text())
+            except Exception:
+                pass
+
+        emergent_concepts.append(concept)
+        emergent_file.write_text(json.dumps(emergent_concepts, indent=2))
+
+        logger.info("tag_promoted_to_concept", tag=tag, total_concepts=len(self._concepts))
+
+    def get_emergent_stats(self) -> dict:
+        """Get statistics about emergent gallery content.
+
+        Returns:
+            Dict with counts of seeded vs emergent content
+        """
+        emergent_texts = sum(1 for t in self._texts if "Nominated by" in t) if self._texts else 0
+        emergent_concepts = sum(1 for c in self._concepts if c.get("emergent")) if self._concepts else 0
+
+        return {
+            "total_texts": len(self._texts),
+            "seeded_texts": len(self._texts) - emergent_texts,
+            "emergent_texts": emergent_texts,
+            "total_concepts": len(self._concepts),
+            "seeded_concepts": len(self._concepts) - emergent_concepts,
+            "emergent_concepts": emergent_concepts,
+            "top_tags": dict(getattr(self, "_tag_counts", Counter()).most_common(10)),
+        }
 
     @property
     def text_count(self) -> int:
