@@ -1,5 +1,6 @@
 """Structured logging for Birth simulation."""
 
+import logging
 import sys
 from pathlib import Path
 
@@ -7,6 +8,28 @@ import structlog
 from rich.console import Console
 
 from birth.config import get_config
+
+# Log level name to numeric mapping
+LOG_LEVELS = {
+    "DEBUG": logging.DEBUG,
+    "INFO": logging.INFO,
+    "WARNING": logging.WARNING,
+    "ERROR": logging.ERROR,
+}
+
+
+def _level_filter(min_level: str):
+    """Create a filter that drops logs below min_level."""
+    min_numeric = LOG_LEVELS.get(min_level, logging.INFO)
+
+    def filter_by_level(logger, method_name, event_dict):
+        level_name = method_name.upper()
+        level_numeric = LOG_LEVELS.get(level_name, logging.INFO)
+        if level_numeric < min_numeric:
+            raise structlog.DropEvent
+        return event_dict
+
+    return filter_by_level
 
 
 def setup_logging() -> structlog.stdlib.BoundLogger:
@@ -20,6 +43,7 @@ def setup_logging() -> structlog.stdlib.BoundLogger:
     processors = [
         structlog.contextvars.merge_contextvars,
         structlog.processors.add_log_level,
+        _level_filter(config.log_level),  # Filter by configured level
         structlog.processors.TimeStamper(fmt="iso"),
         structlog.processors.StackInfoRenderer(),
         structlog.processors.format_exc_info,
@@ -57,12 +81,18 @@ def get_logger(name: str | None = None) -> structlog.stdlib.BoundLogger:
 
 
 class AgentLogger:
-    """Logger wrapper for agent-specific logging."""
+    """Logger wrapper for agent-specific logging.
+
+    Respects config settings:
+    - agent_log_level: Filter agent logs by level
+    - quiet_mode: Only show creations, reflections, errors (skip routine actions)
+    """
 
     def __init__(self, agent_id: str, agent_name: str):
         self._logger = get_logger("birth.agent")
         self._agent_id = agent_id
         self._agent_name = agent_name
+        self._config = get_config()
 
     def _bind(self) -> structlog.stdlib.BoundLogger:
         return self._logger.bind(
@@ -70,20 +100,38 @@ class AgentLogger:
             agent_name=self._agent_name,
         )
 
+    def _should_log(self, level: str) -> bool:
+        """Check if we should log at this level given agent_log_level."""
+        level_numeric = LOG_LEVELS.get(level, logging.INFO)
+        min_numeric = LOG_LEVELS.get(self._config.agent_log_level, logging.INFO)
+        return level_numeric >= min_numeric
+
     def perception(self, content: str, **kwargs) -> None:
-        """Log a perception event."""
-        self._bind().info("perception", content=content, **kwargs)
+        """Log a perception event. (DEBUG level, skipped in quiet mode)"""
+        if self._config.quiet_mode or not self._should_log("DEBUG"):
+            return
+        self._bind().debug("perception", content=content, **kwargs)
 
     def thought(self, content: str, **kwargs) -> None:
-        """Log a thought/internal process."""
+        """Log a thought/internal process. (DEBUG level, skipped in quiet mode)"""
+        if self._config.quiet_mode or not self._should_log("DEBUG"):
+            return
         self._bind().debug("thought", content=content, **kwargs)
 
     def action(self, action_type: str, **kwargs) -> None:
-        """Log an action taken."""
+        """Log an action taken. (INFO level, skipped in quiet mode for routine actions)"""
+        # In quiet mode, only log significant actions
+        if self._config.quiet_mode:
+            significant = ["create_art", "reflect", "critique_art", "message_agent"]
+            if action_type not in significant:
+                return
+        if not self._should_log("INFO"):
+            return
         self._bind().info("action", action_type=action_type, **kwargs)
 
     def creation(self, artwork_id: str, title: str, medium: str, **kwargs) -> None:
-        """Log artwork creation."""
+        """Log artwork creation. (Always shown - important event)"""
+        # Creations always shown regardless of quiet mode
         self._bind().info(
             "creation",
             artwork_id=artwork_id,
@@ -95,7 +143,9 @@ class AgentLogger:
     def sentiment_change(
         self, target_type: str, target_id: str, old_score: float, new_score: float
     ) -> None:
-        """Log a sentiment change."""
+        """Log a sentiment change. (DEBUG level, skipped in quiet mode)"""
+        if self._config.quiet_mode or not self._should_log("DEBUG"):
+            return
         self._bind().debug(
             "sentiment_change",
             target_type=target_type,
@@ -106,7 +156,8 @@ class AgentLogger:
         )
 
     def reflection(self, insight: str, memory_count: int) -> None:
-        """Log a reflection event."""
+        """Log a reflection event. (Always shown - important event)"""
+        # Reflections always shown regardless of quiet mode
         self._bind().info(
             "reflection",
             insight=insight,
@@ -116,7 +167,11 @@ class AgentLogger:
     def interaction(
         self, interaction_type: str, target_agent_id: str, **kwargs
     ) -> None:
-        """Log an interaction with another agent."""
+        """Log an interaction with another agent. (INFO level)"""
+        if self._config.quiet_mode and interaction_type not in ["critique", "message"]:
+            return
+        if not self._should_log("INFO"):
+            return
         self._bind().info(
             "interaction",
             interaction_type=interaction_type,
@@ -125,7 +180,7 @@ class AgentLogger:
         )
 
     def error(self, message: str, **kwargs) -> None:
-        """Log an error."""
+        """Log an error. (Always shown)"""
         self._bind().error(message, **kwargs)
 
 

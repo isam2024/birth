@@ -222,24 +222,41 @@ Examples:
     parser.add_argument(
         "--debug",
         action="store_true",
-        help="Enable debug logging",
+        help="Enable debug logging (all messages)",
+    )
+
+    parser.add_argument(
+        "-q", "--quiet",
+        action="store_true",
+        help="Quiet mode - only show creations, reflections, and errors",
+    )
+
+    parser.add_argument(
+        "--log-level",
+        type=str,
+        choices=["DEBUG", "INFO", "WARNING", "ERROR"],
+        default=None,
+        help="Set log level (default: INFO)",
     )
 
     args = parser.parse_args()
 
-    # Setup logging
-    setup_logging()
-
-    if args.debug:
-        import structlog
-        structlog.configure(
-            wrapper_class=structlog.stdlib.BoundLogger,
-            context_class=dict,
-            logger_factory=structlog.PrintLoggerFactory(),
-        )
-
-    # Load config
+    # Load config first so we can modify it
     config = reload_config()
+
+    # Apply command line overrides
+    if args.debug:
+        config.log_level = "DEBUG"
+        config.agent_log_level = "DEBUG"
+    elif args.log_level:
+        config.log_level = args.log_level
+        config.agent_log_level = args.log_level
+
+    if args.quiet:
+        config.quiet_mode = True
+
+    # Setup logging (uses config settings)
+    setup_logging()
 
     # Determine agent count
     agent_count = args.agents or config.simulation.initial_agent_count

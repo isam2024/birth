@@ -73,7 +73,9 @@ class Config(BaseSettings):
 
     # Logging
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"
+    agent_log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"  # Separate control for agent verbosity
     log_to_file: bool = True
+    quiet_mode: bool = False  # Suppress routine agent actions, show only creations/reflections
 
     # Sub-configurations
     ollama: OllamaSettings = Field(default_factory=OllamaSettings)
