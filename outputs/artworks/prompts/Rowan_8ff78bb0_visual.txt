@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: 8ff78bb0-ef48-4255-b6ce-5c12d7e79e71
-
-## Image Prompt
-"A shattered mirror lies on the ground, its fragments scattered around it like the shards of broken promises. The mirror's surface is cracked and distorted, reflecting fragmented images of people from different walks of life. The glass is a dull silver-gray, with hints of blue undertones that evoke a sense of melancholy. In the background, a cityscape looms large, its skyscrapers towering above the broken glass like monoliths of oppression. The fragments of the mirror seem to be pulling away from each other, as if trying to escape the gravity of their own reflections. The image is rendered in a gritty, low-resolution style, with bold brushstrokes and heavy textures that give it a rough, hand-drawn feel."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

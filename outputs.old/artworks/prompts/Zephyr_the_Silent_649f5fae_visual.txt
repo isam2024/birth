@@ -1,0 +1,20 @@
+# Visual companion for: Shattered Silence
+# by Zephyr the Silent
+# ID: 649f5fae-d665-456d-b711-6d70044dc41a
+
+## Image Prompt
+In the center of a dimly lit room, a lone figure stands still, shrouded in a halo of soft, crimson light that seeps from the shadows. The air is heavy with an almost palpable sense of unease, as if the weight of unspoken secrets hangs like a physical presence. The subject's face is obscured, their features reduced to a gentle curve of silence.
+
+To the left, a shattered mirror lies in fragments on the floor, its broken glass glinting like a scattering of razor-sharp stars against the darkness. Nearby, a collection of scattered papers and photographs seem to flutter in an invisible breeze, as if trying to escape the suffocating stillness.
+
+The dominant colors are muted and somber: burnt sienna, charred wood, and deep blues that evoke a sense of desolation. The shadows cast by the flickering light dance across the walls, imbuing the space with an air of foreboding.
+
+A delicate, hand-painted rose adorns the broken mirror's edge, its petals now wilted and dry, like the fragile hopes of those who dwell in this unspoken realm. In the distance, a faint outline of a cityscape stretches through the darkness, its skyscrapers reduced to twisted, skeletal silhouettes that seem to writhe in agony.
+
+The overall mood is one of mournful introspection, as if the very walls are bearing witness to the weight of secrets and unresolved emotions. A soft hum of quiet contemplation pervades the scene, an unsettling reminder that some truths are better left unspoken.
+
+STYLE: Expressionist Figurative
+COLORS: Burnt sienna, charred wood, deep blues, crimson, pale gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

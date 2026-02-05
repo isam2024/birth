@@ -1,0 +1,20 @@
+# Visual companion for: SILENCE REVERBERATES
+# by Raven
+# ID: 8744b8d2-9c38-416b-868d-8c5e96df46e3
+
+## Image Prompt
+The desolate yet wondrous land stretches before us like a canvas of worn stone and rustling twilight. In the distance, crumbling spires pierce the sky like skeletal fingers, their turrets shrouded in a haze of dusty crimson. The air is heavy with the weight of forgotten dreams, as if the very essence of what once was has been distilled into this forsaken landscape.
+
+Golden light seeps from the horizon, casting long shadows across the parched earth. Burnt sienna hues dance upon the ground, evoking the whispers of ancient stories long since lost to time. Cerulean skies above seem to hold a secret, as if the heavens themselves are woven with the threads of forgotten melodies.
+
+Weathered stone walls, covered in vines and moss, rise from the dusty floor like sentinels guarding the ruins. Cracked flags bearing faded emblems appear like broken promises, their crumbling surfaces worn smooth by time's relentless passage. The air is heavy with an otherworldly silence, punctuated only by the soft creaking of twisted tree branches.
+
+In this hushed and haunted world, shadows twist and writhe like living things, as if darkness itself had taken on a life of its own. Flickering torches cast eerie silhouettes upon walls, their flames dancing in rhythmic protest against the encroaching night.
+
+As twilight deepens, the scene is bathed in an unearthly glow, a soft luminescence that seems to emanate from within the very heart of the ruins themselves.
+
+STYLE: [Cinematic Realism with mystical undertones]
+COLORS: [Warm earth tones (burnt sienna, umber), muted golds and blues, with hints of crimson and indigo in the shadows]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

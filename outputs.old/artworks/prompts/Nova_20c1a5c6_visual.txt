@@ -1,0 +1,26 @@
+# Visual companion for: Fractured Cartographies
+# by Nova
+# ID: 20c1a5c6-a6f0-4a27-9098-98af16c41cb5
+
+## Image Prompt
+The scene unfolds like a shattered mirror, reflecting shards of reality into a void. A sprawling metropolis sprawls across the canvas, its skyscrapers and streets reduced to jagged silhouettes that writhe like tortured limbs. The horizon is distorted, as if seen through a funhouse lens, where buildings twist and contort in impossible ways.
+
+Crimson-hued streetlights flicker to life, casting long shadows that stretch like grasping fingers across the pavement. Burnt sienna tones seep from crumbling brickwork, imbuing the air with an eerie, industrial glow. Celestial bodies above are obscured by a sickle moon, its pale light struggling to penetrate the veil of clouds.
+
+Metallic hues glisten on slick skyscrapers and street signs, reflecting shards of cerulean sky. The ground beneath is dry and cracked, like ancient parchment, and littered with detritus: torn posters, discarded newspaper, abandoned umbrellas – all bearing witness to a city's fractured psyche.
+
+Scattered throughout the landscape, fragments of human activity: broken glass, shattered mirrors, a single rain-soaked umbrella blown inside out, its metal ribs twisted into a surreal pose. The air is heavy with the scent of smoke and wet asphalt.
+
+A shiver runs down the viewer's spine as if awakened by an unseen presence. Disorientation reigns, like a disease spreading its tendrils through the city's derelict streets.
+
+STYLE: Expressionist Cubism
+COLORS:
+- Crimson (streetlights)
+- Burnt Sienna (brickwork)
+- Cerulean (sky and water)
+- Earthy Tones (dirt, pavement)
+- Metallic Hues (skyscrapers, signs)
+- Muted Greys (background)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

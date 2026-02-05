@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: 6ca33008-7427-40b5-ac13-fee9c089ed17
+
+## Image Prompt
+"Echoes of Ash": A haunting, charcoal-drawn illustration of Zephyr standing amidst a ravaged landscape, surrounded by the ruins of their home. The sky above is a deep, foreboding grey, with tendrils of ash and smoke billowing upwards like skeletal fingers. In the foreground, the artist's feet are bare, standing on the charred remains of what once was. The background, once warm and inviting, now burns with an eerie, orange-red glow, as if the very flames that consumed their home have taken on a life of their own. Zephyr's face is obscured, lost in thought, their eyes fixed upon some invisible point in the distance.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

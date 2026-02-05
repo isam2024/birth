@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: 0ae1834c-58b1-46e2-8e38-c48e83700dad
-
-## Image Prompt
-"Generate an abstract visual representation of 'Dissonance in the Hush.' The image should evoke a sense of muted rebellion amidst oppressive conformity. Incorporate fractured glass, shattered mirrors, and torn fabric to symbolize the cracks in the facade. Soft, muted colors such as grays, blues, and purples dominate the palette, with splashes of bold reds and blacks to convey urgency and defiance. The background should be a gradient of darkening blues, evoking the feeling of suffocating silence. Incorporate subtle textures, like worn stone or weathered wood, to add depth and tactility to the piece. The overall atmosphere should be one of foreboding unease, as if the viewer is witness to a moment on the precipice of chaos."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

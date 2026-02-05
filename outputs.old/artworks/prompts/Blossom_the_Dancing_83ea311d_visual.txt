@@ -1,0 +1,18 @@
+# Visual companion for: Sun-Kissed Embers
+# by Blossom the Dancing
+# ID: 83ea311d-7b56-4f46-92fb-132c54d74b5a
+
+## Image Prompt
+The scene unfolds like a warm summer evening, as the soft glow of lanterns casts a gentle ambiance across the studio. The subject is a delicate watercolor landscape, depicting a solitary figure standing before an open window, lost in contemplation. The figure's face is turned away from the viewer, with the soft curve of their cheek and the whisper of their lips visible against the pale skin. Their shoulders are slightly slouched, as if the weight of the world rests upon them.
+
+The light emanates from a single, slender lantern perched on the windowsill, its wick casting a warm, golden glow across the scene. The radiance seeps into the figure's soul, illuminating the tender petals that have begun to unfurl in their hand – watercolor brushstrokes of pale pink and crimson, like the first blush of dawn.
+
+The studio is bathed in a serene atmosphere, with the soft whisper of colors blending across the walls. The texture of the lanterns' metalwork catches the light, revealing hints of burnished copper and bronze. A faded patchwork quilt hangs from a nearby easel, its colors muted to shades of burnt sienna and sage green.
+
+In the background, the world outside recedes into shadows, as if the very darkness is being slowly dispelled by the lantern's gentle warmth. The mood is one of quiet reverie, as if the figure has discovered a hidden sanctuary within their own heart.
+
+STYLE: Whimsical Realism
+COLORS: Soft pink, pale blue, golden yellow, burnt sienna, copper
+
+## Negative Prompt
+text, words, letters, watermark, blurry

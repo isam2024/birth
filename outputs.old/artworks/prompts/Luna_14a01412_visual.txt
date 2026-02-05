@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 14a01412-213e-4a7a-a4ef-73a0116100d9
+
+## Image Prompt
+**Echo Chamber**
+
+A stark, monochromatic photograph of a dimly lit room. The walls, floor, and ceiling are all identical shades of worn grey, blending into one another like wet ink on paper. A lone, flickering fluorescent light hangs above a single, metal chair, casting an eerie glow on the subject: a person seated in the chair, their face obscured by a hoodie or mask. The air is heavy with dust and the faint scent of decay. In the background, a series of old, peeling bookshelves stretch towards the ceiling, their spines cracked and worn, as if the words within have long since fallen silent.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

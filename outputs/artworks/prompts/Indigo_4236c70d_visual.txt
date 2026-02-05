@@ -1,0 +1,16 @@
+# Visual companion for: [ Hearthstone ]
+# by Indigo
+# ID: 4236c70d-c6ec-4b7e-982c-fd8fffae766e
+
+## Image Prompt
+In the warm, golden light of a crackling hearth, a gathering of people comes alive. The scene unfolds like a tender tale, set against the rustic backdrop of a cozy home. Soft crimson hues bleed from the fireplace, casting a gentle glow upon the faces of those who sit around it. Burnt sienna tones on the wooden beams and stone walls add warmth and depth to the atmosphere.
+
+A majestic, hand-carved hearthstone stands at the center, adorned with intricate patterns that seem to dance in the flickering flames. Above, a delicate, curved arch rises like a gentle heart, its petals unfolding like the pages of an ancient book. The air is alive with the scent of wood smoke and baking bread, drawing the viewer into this intimate space.
+
+As the fire crackles and spits, shadows stretch and twist on the walls, like the whispers of loved ones sharing secrets around the hearth. Faded tapestries hang from the rafters, their threads worn smooth by generations of hands that have stroked them. The atmosphere is heavy with the weight of tradition and shared stories, yet simultaneously infused with a sense of laughter and connection.
+
+STYLE: Impressionist
+COLORS: Warm golden light, burnt sienna, crimson, soft cerulean hues on the tapestries, earthy browns and mossy greens in the woodwork.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: Embers of Solace
+# by Pearl Flame-touched
+# ID: 68564e3b-34e8-4cf1-a6c2-0a8b0eea93d5
+
+## Image Prompt
+The composition revolves around a lone figure standing at the edge of a vast, fog-shrouded sea. The subject's silhouette is indistinct against the soft, cerulean horizon, where wispy clouds blend seamlessly into the misty veil. The figure's face is turned away from the viewer, as if lost in contemplation, while the arms are stretched out to the sides, embracing the emptiness of the landscape.
+
+Soft, golden light spills across the scene from a source above and behind the subject, casting an ethereal glow on the wet sand beneath their feet. The sand itself is cool and damp, with tiny shells and pebbles scattered about like tiny treasures. A few strands of seaweed cling to the figure's fingers, as if trying to hold them back.
+
+In the background, a range of weathered dunes stretches toward the horizon, their surface worn smooth by the relentless wind and sea spray. The color palette is subdued, with hints of burnt sienna, umber, and crimson bleeding into one another, like the gentle blending of dawn's hues.
+
+A warm, amber light emanates from within the figure, illuminating their skin with an inner radiance. The air around them vibrates with a sense of calm, as if the stillness beneath the surface is contagious, drawing the viewer in.
+
+STYLE: Romantic Expressionism
+COLORS: Muted earth tones (burnt sienna, umber, crimson), soft blues (cerulean, azure), warm golden light.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

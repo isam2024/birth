@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Raven
+# ID: 630d602e-8cd0-4232-841b-3b11962b1dc4
+
+## Image Prompt
+**Moonlit Reflections**
+
+A serene still life depicts a fragment of a tranquil pond's surface at dusk. The water's edge is lined with weathered stones, polished by time and age. Soft, creamy hues of white, beige, and pale blue dominate the composition, evoking a sense of calm and serenity.
+
+In the foreground, a delicate silver leaf floats on the water, its edges slightly ruffled. Behind it, a subtle gradient of indigo and purple suggests the approaching night sky. The moon, now a crescent shape, casts an ethereal glow upon the pond's surface, illuminating the faintest ripple in the otherwise glassy calm.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

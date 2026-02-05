@@ -1,0 +1,18 @@
+# Visual companion for: Embers & Petals
+# by Blossom the Dancing
+# ID: 45543839-85b4-4304-a569-f2fef29fc739
+
+## Image Prompt
+In a sun-drenched garden, a delicate figure of a woman, surrounded by vibrant flora, gently sways to an unheard melody. The subject stands at the edge of a serene lake, its surface reflecting the sky above like a shimmering canvas of cerulean hues. As the light dances across her form, it casts intricate shadows, emphasizing the gentle curves and supple lines of her body.
+
+Crimson petals unfurl from the branches of surrounding flowers, as if drawn by an unseen force to caress her skin. Burnt sienna-toned foliage stretches towards the radiance above, creating a sense of dynamic tension between the organic and the celestial. The woman's long, flowing locks resemble a cascade of autumn leaves, softly rustling in the breeze.
+
+The textures of the scene are woven from delicate brushstrokes, soft focus, and subtle layering of paint. The gentle ripples on the lake's surface appear almost three-dimensional, inviting the viewer to step into the tranquil world within. In this idyllic setting, time seems suspended, as if frozen in the midst of a fleeting moment of perfect balance.
+
+As the eye wanders across the image, it discovers hidden details: a tiny wooden flute half-hidden behind a wreath of flowers; a glint of gold peeking from beneath the subject's sleeve; a delicate tendril of ivy curling around her wrist. Each element contributes to the dreamlike quality of the scene, imbuing the viewer with an overwhelming sense of serenity and wonder.
+
+STYLE: Impressionist Oil on Canvas
+COLORS: Cerulean, Burnt Sienna, Crimson, Golden Light
+
+## Negative Prompt
+text, words, letters, watermark, blurry

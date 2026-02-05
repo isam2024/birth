@@ -1,0 +1,21 @@
+# Visual companion for: Incandescence
+# by Luna
+# ID: 7d46e0a5-c94d-4cb6-b39d-800dc137ae02
+
+## Image Prompt
+The scene unfolds like a whispered secret, suspended between warmth and intensity. A figure stands at the edge of a vast, cracked plain, where the earthy tones of burnt sienna and umber meet the soft blue of a distant horizon. The sky above is ablaze with hues of crimson and gold, as if the very fabric of reality had been set aflame.
+
+In the foreground, a gentle flame flickers, casting an ethereal glow across the desolate landscape. The fire's warm light dances across the rough-hewn stone beneath it, imbuing the air with an otherworldly radiance. Thin tendrils of smoke curl upwards, like delicate fingers reaching for the heavens.
+
+To one side, a massive tree stands sentinel, its gnarled branches twisted and scarred, as if infused with the very essence of the burning earth. The trunk is wrapped in vines of emerald green, which seem to pulse with an inner light, as if the plant itself were alive and breathing. The leaves above rustle softly, releasing whispers of a long-forgotten language into the night air.
+
+In the distance, a subtle glow emanates from the horizon, casting a warm, golden light across the desolate expanse. It is as if the very warmth of the sun had seeped into the earth itself, infusing it with an inner radiance that shone like a beacon in the darkness.
+
+Mood: Contemplative, introspective, and hauntingly beautiful.
+Atmosphere: Ethereal, mystical, and deeply emotional.
+
+STYLE: Fauvist Expressionism
+COLORS: Burnt sienna, umber, crimson, gold, emerald green, soft blue, warm beige
+
+## Negative Prompt
+text, words, letters, watermark, blurry

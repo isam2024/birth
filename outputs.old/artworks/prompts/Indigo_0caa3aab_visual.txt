@@ -1,0 +1,18 @@
+# Visual companion for: Whispers of the Hearth
+# by Indigo
+# ID: 0caa3aab-759e-494f-af59-2f153fa7f0e1
+
+## Image Prompt
+In the warm, golden light of a sun-drenched afternoon, a gentle fire crackles and spits in the hearth, casting a mesmerizing dance of shadows on the walls. The air is alive with the soft murmur of conversation, laughter, and the occasional creak of wooden furniture.
+
+The scene unfolds against a muted crimson backdrop, deep and rich as a warm sunset on a autumnal evening. Burnt sienna hues infuse the worn stone fireplace, its rough texture giving way to smooth, creamy white marble that tops the hearth. Soft, golden light spills from within, casting an inviting glow across the room.
+
+To one side, a plush, cream-colored armchair beckons with soft, downy cushions and frayed throw pillows in shades of mossy green and weathered wood. A delicate lace tablecloth wraps around a sturdy wooden table, upon which a steaming teapot and a plate of warm, golden-brown biscuits sit invitingly.
+
+The walls, adorned with an eclectic mix of family heirlooms and faded tapestries, seem to whisper stories of generations past, their soft, muted colors weaving together in a rich tapestry of tradition and comfort. The atmosphere is one of cozy intimacy, where the warmth of a crackling fire and the gentle hum of conversation create a sense of belonging.
+
+STYLE: Impressionist
+COLORS: Warm golden light (soft yellows and oranges), deep crimson, burnt sienna, mossy green, weathered wood, creamy whites
+
+## Negative Prompt
+text, words, letters, watermark, blurry

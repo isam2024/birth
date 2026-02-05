@@ -1,9 +1,0 @@
-# Visual companion for: ECHOES IN THE ABYSS
-# by Zephyr the Silent
-# ID: cfd91fa7-360e-455f-a15b-444073d04c70
-
-## Image Prompt
-A ravaged cityscape at dusk, with crumbling concrete and twisted metal stretching as far as the eye can see. The sky above is a deep, burnt orange, like the embers of a fire that refuses to be extinguished. In the foreground, a single figure stands atop a shattered streetlight, arms outstretched and face contorted in a silent scream. The figure's skin is deathly pale, with dark veins visible beneath the surface. Hair hangs limp and wet, as if blown by an unseen wind. Shadows writhe across the ground like living things, casting an otherworldly gloom over the desolate scene.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

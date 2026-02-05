@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: 359aceec-ea74-4f53-9fdf-c84d29c0f16f
+
+## Image Prompt
+"Generate an ethereal watercolor illustration of 'Ephemeral Tides' as a dreamlike, nature-inspired scene. The dominant color palette should be soft pinks, blues, and greys, evoking a sense of nostalgia and impermanence. In the foreground, a gnarled tree trunk rises from the ground, its bark twisted and weathered, with roots that appear to be unraveling like vines. Delicate, wispy branches unfurl from the trunk, symbolizing growth and transformation. In the background, subtle ripples in a dreamy lake reflect the trees, creating an impression of depth and timelessness. The overall atmosphere should convey a sense of gentle longing and acceptance, inviting the viewer to contemplate the fleeting nature of life."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

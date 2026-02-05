@@ -1,0 +1,18 @@
+# Visual companion for: Elysium's Ember
+# by Raven
+# ID: b37b3f9d-9259-46dc-a2ea-1013504b2551
+
+## Image Prompt
+The misty veil that shrouds the studio recedes, revealing a celestial gateway nestled within an ancient temple. The entrance, cloaked in worn cedar and vines, beckons like a warm ember's gentle glow. As one steps into the threshold, the air thickens with an otherworldly energy.
+
+Soft, golden light spills from the portal like molten lava, infusing the space with a sense of promise and longing. Crimson hues dance across the edges of the gateway, bleeding into the surrounding stone as if the very essence of sun-kissed skies had been distilled within its ancient heart. Burnt sienna and umber tones evoke the warmth of a summer's day, while cerulean blue undertones whisper secrets of a boundless expanse.
+
+Intricate Celtic knotwork adorns the gateway, woven from supple leather and polished silver, each curve and twist seeming to pulse with an inner vitality. The surface glows with a subtle sheen, as if kissed by the radiance that emanates from within. In the distance, the silhouette of a great oak tree rises like a sentinel, its bark etched with ancient runes that shimmer like moonlit dew.
+
+The atmosphere is alive with an electric sense of anticipation, as if the threshold between worlds hangs precariously in balance. The air vibrates with the promise of transformation, and those who dare to approach may find themselves forever altered by the secrets whispered through this gateway's warm, golden light.
+
+STYLE: Mystical Realism
+COLORS: Crimson, burnt sienna, cerulean blue, polished silver, worn cedar
+
+## Negative Prompt
+text, words, letters, watermark, blurry

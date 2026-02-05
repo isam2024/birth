@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: e344102e-0c3a-4630-a2d1-66209e7e14dd
+
+## Image Prompt
+**"Fractured Silence"**
+
+Generate an abstract, emotive visual representation of "FRAGMENTS OF RESISTANCE". Depict a fragmented landscape with shattered stone walls, cracked pavement, and splintered wood, evoking a sense of disintegration and upheaval. The color palette should be predominantly dark blues and greys, with accents of fiery oranges and yellows to represent the "flames of rebellion" mentioned in the text. Incorporate subtle, muted textures to convey the idea of suffocating complacency. In the distance, a faint outline of a human figure can be seen, shrouded in shadows, symbolizing the marginalized voices seeking to be heard. The overall atmosphere should feel oppressive, yet hopeful, with an undercurrent of defiance and resilience.
+
+Style: A mix of abstract expressionism and photorealism, blending bold brushstrokes with detailed textures.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

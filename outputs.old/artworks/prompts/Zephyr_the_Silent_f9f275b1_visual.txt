@@ -1,0 +1,23 @@
+# Visual companion for: [ Silent screams echoing in the darkness ]
+# by Zephyr the Silent
+# ID: f9f275b1-5e06-4e13-a9e5-f117d94bc01d
+
+## Image Prompt
+The scene unfolds like a macabre waltz, set against a backdrop of deep, foreboding crimson. The walls, painted with layers of burnt sienna and umber, seem to absorb the faint light that filters through the narrow slit above. This feeble beam casts an eerie glow on the subject, bathing it in an otherworldly radiance.
+
+In the center, a figure stands motionless, its body shrouded in a flowing black cloak with crimson trim. The fabric drapes elegantly around the limbs, like a dark, lifeless flower. The face, obscured by the hood, appears as a void, a chasm of silence that threatens to consume all light.
+
+Visible beneath the cloak are wisps of worn leather and thin strands of wire, which suggest a frame, a skeletal structure that holds together the figure's very essence. Tattered threads of blue-gray fabric cling to the edges, like the ghostly remnants of a long-forgotten prayer.
+
+The air is heavy with an unspoken presence, as if something – or someone – stirs beneath the surface. The atmosphere is oppressive, weighted by the promise of secrets kept and truths revealed. Shadows writhe on the walls, taking on lives of their own, like living darkness that pulses with a malevolent energy.
+
+In the background, faint symbols etched into the stone walls seem to pulse with a sickly green light, casting an eerie luminescence over the scene. The room appears to be in a state of suspended animation, as if time itself has been twisted and distorted by some unseen force.
+
+TEXTURES: rough-hewn stonework, tattered fabric, worn leather
+MATERIALS: dark wood, metal wire frame, crimson-trimmed cloak
+
+STYLE: Expressionist gothic
+COLORS: Burnt sienna, umber, crimson, blue-gray, green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: 3f773e81-ddfe-4180-b592-6895a83d059a
-
-## Image Prompt
-A worn, black leather satchel sits on a cracked, concrete floor, its zipper torn and frayed. The bag's interior is empty except for a single, crumpled leaf, its edges curled and wilted. A faint scent of damp earth clings to the air. The walls surrounding the satchel are painted a dull, grayish-yellow, with peeling, white trim. The atmosphere is heavy with neglect and abandonment. A sliver of sunlight cuts through the grimy window above the satchel, casting an uneven beam that highlights the dust motes dancing in the faint light.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

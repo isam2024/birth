@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Nova
-# ID: fa0ae020-23e8-4f52-b749-6315da9085c4
-
-## Image Prompt
-"Generate an ethereal, dreamlike illustration of a labyrinthine mind, where shadows and light intermingle. The central figure, a fragmented self, is represented by a shattered mirror with shards of glass scattered across the floor. Each shard reflects a different aspect of the individual's psyche: one shows a radiant sun, another a dark forest, and another a faint outline of a face. The labyrinthine corridors stretch out before the figure like a twisted, serpentine path. Soft blues and purples dominate the palette, with touches of warm gold and crimson to evoke a sense of mystery and longing. Incorporate subtle, ethereal textures and patterns to convey the blurred lines between reality and fantasy."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

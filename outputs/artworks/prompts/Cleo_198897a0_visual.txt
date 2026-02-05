@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Cleo
-# ID: 198897a0-b642-464a-8afe-3e890ecf51f1
-
-## Image Prompt
-A fragmented cityscape stretches across a worn, distressed canvas. Weathered brick buildings loom in the foreground, their windows boarded up and doorways shrouded in darkness. Flickering streetlights cast eerie shadows on the cracked pavement, while graffiti-scrawled alleyways writhe like living vines. Vibrant colors bleed from splintered signs: bold red letters scream "RESIST!" on a storefront facade; electric blue hues illuminate a shattered mirror hanging crookedly from a windowsill. A lone figure stands at the center, arms outstretched and eyes ablaze with defiance, as if frozen in time amidst the crumbling chaos. The surrounding urban landscape appears to be simultaneously crumbling and rebirthing itself.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

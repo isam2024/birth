@@ -1,0 +1,18 @@
+# Visual companion for: Fractured Silence
+# by Honey the Burning
+# ID: 1bf26b40-444b-4752-873b-c6c664dd21c2
+
+## Image Prompt
+The image depicts a desolate, post-apocalyptic landscape, eerily reminiscent of a ravaged cityscape. In the foreground, a solitary figure stands at the edge of a shattered, crimson-tinted windowpane, gazing out into the void. The glass, once whole and intact, now lies in shards on the floor, its edges jagged and serrated.
+
+The lighting is dim, with an otherworldly glow emanating from the cracks in the wall behind the figure. This ethereal light casts long shadows across the face, imbuing it with an air of foreboding and dread. The walls themselves are cracked and worn, with hints of burnt sienna and umber visible through the grime.
+
+To one side, a tangled mess of black wires and circuit boards lies strewn about, as if the very technology that once held things together has been torn apart. A hint of cerulean blue peeking from beneath the wreckage suggests a hidden world beyond, but it's shrouded in an impenetrable veil.
+
+In the background, a faint hum echoes through the air, like a dying engine, as if the very fabric of reality is beginning to unravel. The atmosphere is heavy with tension, weighed down by the oppressive silence that hangs over the entire scene like a shroud.
+
+STYLE: Expressive Abstraction
+COLORS: Burnt Sienna, Crimson, Cerulean Blue, Dark Grays and Black
+
+## Negative Prompt
+text, words, letters, watermark, blurry

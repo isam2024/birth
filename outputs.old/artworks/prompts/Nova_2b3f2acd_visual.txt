@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Nova
+# ID: 2b3f2acd-7c2f-4fb0-8541-175c7f61264c
+
+## Image Prompt
+In "Echoes in the Abyss," a vast, dark expanse of ultramarine and indigo sprawls across the canvas like an endless ocean. A lone, ghostly figure stands at the water's edge, shrouded in a hooded cloak that billows behind them like smoke. The sky above is a deep, burnt orange, with hints of coral pink at the horizon. Twisted, skeletal tree limbs writhe like living serpents from the darkness, their bark a mass of writhing, iridescent scales. The air is heavy with an otherworldly mist that seems to seethe and pulse with a life of its own.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

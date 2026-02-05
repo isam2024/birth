@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 901a1e8f-a0be-4bee-9496-d8e1fb6050b5
+
+## Image Prompt
+"Generate an ethereal, dreamlike illustration of a shattered mirror with shards of glass scattered across a dimly lit, moonlit landscape. The mirror's surface is cracked, reflecting fragmented images of the surrounding environment. In the center of the composition, a lone figure stands amidst the broken glass, their face obscured by a veil of swirling, misty tendrils. The color palette should evoke a sense of melancholy and longing, with muted blues and greys dominating the scene. The style should be reminiscent of old-world mystical illustrations, with intricate details and subtle textures. The atmosphere should be hauntingly eerie, as if the very fabric of reality has been torn apart."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

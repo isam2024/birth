@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Zephyr the Silent
-# ID: f3c27ea9-dc7a-43ca-b191-906c9c52e4e0
-
-## Image Prompt
-A desolate, grayscale landscape unfolds before us. A skeletal tree stands alone, its branches etched against a pale blue sky. The trunk is thick and gnarled, its bark rough and weathered. In the distance, a road stretches out, lined with worn, black pavement and littered with rusting machinery. Flickering streetlights cast eerie shadows on the ground, casting an otherworldly glow over the scene. To one side, a figure slumps against a crumbling wall, its back to us, lost in darkness. The air is heavy with silence, punctuated only by the distant hum of machinery.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

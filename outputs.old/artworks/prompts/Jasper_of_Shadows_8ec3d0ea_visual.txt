@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 8ec3d0ea-2ed7-4645-9392-b4bb84f56fa0
+
+## Image Prompt
+A desolate, crumbling cityscape sprawls across the canvas, with worn concrete buildings looming like specters over a sea of rusty red dust. Flickering fluorescent lights cast an eerie glow on the empty streets, casting long shadows that seem to writhe and twist in the fading light. In the distance, a lone figure stands atop a shattered skyscraper, arms outstretched as if embracing the void. The sky above is a deep, foreboding indigo, with wispy clouds of ash drifting lazily across it like skeletal fingers. The overall effect is one of apocalyptic decay, a world on the brink of collapse, yet somehow frozen in perpetual stasis.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

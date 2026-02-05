@@ -1,0 +1,18 @@
+# Visual companion for: [A Silent Sigh]
+# by Zephyr the Silent
+# ID: d441dbbb-e26b-472b-aec0-8029116415ac
+
+## Image Prompt
+In the depths of a desolate landscape, a figure stands frozen, shrouded in an aura of shattered silence. The background is a somber tapestry of burnt sienna and umber hues, evoking a sense of decay and neglect. Crimson sunbeams seep from the horizon, casting long shadows that stretch like skeletal fingers across the terrain.
+
+In the foreground, the figure's face is a masterpiece of fractured reflection, their features twisted into a mask of anguish and self-doubt. The skin appears almost translucent, with hints of cerulean undertones that suggest the weight of unspoken emotions. The eyes, sunken and dark, seem to hold the burden of countless secrets.
+
+To one side, fragments of shattered glass lie like jagged shards, reflecting the faint glow of twilight. A few wispy strands of hair cling to the face, like whispers of a distant past. The air is heavy with the scent of damp earth and decaying leaves.
+
+In this bleak yet haunting landscape, time appears to have lost all meaning. The very fabric of reality seems to be torn asunder, revealing glimpses of the figure's inner turmoil. The atmosphere is heavy with foreboding, like a storm brewing on the horizon.
+
+STYLE: Mixed media, incorporating elements of Expressionism and Abstract Expressionism.
+COLORS: Burnt sienna, umber, crimson, cerulean, faded blue, and touches of golden brown.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,22 @@
+# Visual companion for: Untitled
+# by Raven
+# ID: fbf1f892-f350-4858-85a0-65d1a0f06f99
+
+## Image Prompt
+**Visual Companion: Echoes in the In-Between**
+
+Generate an ethereal, dreamlike scene that embodies the mystical and surreal quality of Raven's poetry. The image should be set at dusk, with soft, golden light filtering through a veil of misty fog. A large, ancient tree stands tall, its gnarled branches stretching towards the heavens like withered fingers. The trunk is adorned with glowing, iridescent mushrooms that pulse with an otherworldly energy. In the background, a subtle gradient of blues and purples evokes the sense of infinite possibility. The atmosphere should be hushed and reverent, as if the viewer is being initiated into a hidden world.
+
+Colors:
+
+* Warm golds and oranges for the fading light
+* Soft blues and purples for the misty veil
+* Deep greens for the tree's foliage
+* Iridescent hues for the mushrooms' glow
+
+Style:
+
+* Delicate, intricate textures to evoke the feeling of parchment or ancient stone
+
+## Negative Prompt
+text, words, letters, watermark, blurry

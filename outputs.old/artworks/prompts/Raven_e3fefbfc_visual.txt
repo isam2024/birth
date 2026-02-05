@@ -1,0 +1,18 @@
+# Visual companion for: Moonlit Whispers
+# by Raven
+# ID: e3fefbfc-6bd5-4816-966f-1e6105e54f37
+
+## Image Prompt
+The misty veil shrouds the studio like a damp blanket, weighing heavily upon the shoulders of the subject. A lone figure stands at the center, draped in flowing black robes that seem to absorb the faint luminescence emanating from candles placed upon a low table. The air is heavy with incense, its wispy tendrils curling around the figure's ankles like ethereal serpents.
+
+Crimson and burnt sienna hues bleed into one another, as if the very fabric of reality has been infused with an otherworldly essence. A tapestry hangs upon the wall behind the figure, its intricate patterns weaving together in a hypnotic dance of golden threads. The light source – a single, lantern-like orb suspended above the subject's head – casts long shadows across the room, imbuing every surface with an aura of mystery.
+
+The walls themselves appear to be constructed from weathered wood, adorned with symbols and glyphs that shimmer like moonlit frost. A chandelier made from twisted silver and crystal hangs from the ceiling, casting a kaleidoscope of colors across the space. In the distance, a subtle glow emanates from a window high above, filtering in shafts of cerulean light.
+
+Textures abound: the rough-hewn wood, the softness of the figure's robes, and the delicate latticework of the chandelier all contribute to an atmosphere that is at once intimate and unnerving. The very air seems charged with anticipation, as if the boundaries between worlds are about to be breached.
+
+STYLE: Mystical Expressionism
+COLORS: Deep reds, burnt oranges, silvers, and cerulean blues, set against a backdrop of rich, muted golds.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

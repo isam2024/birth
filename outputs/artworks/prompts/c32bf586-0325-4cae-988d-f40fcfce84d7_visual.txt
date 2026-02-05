@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: c32bf586-0325-4cae-988d-f40fcfce84d7
-
-## Image Prompt
-"Generate an abstract, dreamlike illustration of a figure suspended in mid-air, surrounded by a vortex of swirling, iridescent mist. The figure's body is depicted as a humanoid outline with elongated limbs, rendered in soft, ethereal colors that evoke a sense of weightlessness and disorientation. The mist is composed of shimmering, metallic particles that seem to pulse with an otherworldly energy, casting an eerie glow on the surrounding environment. In the background, a subtle, gradient-like blur of dark blues and purples suggests the presence of an invisible realm or dimension. Incorporate organic textures and subtle, abstract patterns to enhance the sense of surrealism and unease."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

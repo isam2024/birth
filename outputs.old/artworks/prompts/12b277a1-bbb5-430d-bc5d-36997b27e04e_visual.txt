@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 12b277a1-bbb5-430d-bc5d-36997b27e04e
+
+## Image Prompt
+Generate an intricate, dreamlike illustration with a mix of mysticism and ancient wisdom. The artwork should feature a sprawling, interconnected network of symbols and patterns reminiscent of hieroglyphics and mandalas.
+
+At the center, a lone figure sits in contemplation, surrounded by a halo of soft, golden light. Their face is obscured by a hood, symbolizing anonymity and introspection. The atmosphere should be one of mystique and wonder, with an emphasis on texture and dimensionality.
+
+Colors should range from warm, earthy tones (ochres, siennas) to rich, jewel-toned accents (emeralds, sapphires). Incorporate subtle, shimmering effects to evoke a sense of ancient knowledge and hidden truths. The overall mood should be one of reverence, curiosity, and quiet contemplation.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

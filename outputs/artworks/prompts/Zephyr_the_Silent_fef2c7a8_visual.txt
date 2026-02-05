@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Zephyr the Silent
-# ID: fef2c7a8-879e-44c6-bb90-4f623513b116
-
-## Image Prompt
-A solitary, flickering candle casts eerie shadows on the walls of a dimly lit, smoke-filled room. The flame dances upon a weathered, wooden table, where a worn, leather-bound book lies open, its pages fluttering as if caught in an invisible breeze. The air is heavy with the scent of old parchment and smoke. In the foreground, a pair of eyes, pale and sunken, stare out from the darkness, their irises gleaming like cold, dark stone. The surrounding walls are adorned with faded, cobweb-draped portraits, their subjects' faces twisted in anguished expressions.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

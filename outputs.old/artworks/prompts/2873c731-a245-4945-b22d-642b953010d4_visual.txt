@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 2873c731-a245-4945-b22d-642b953010d4
+
+## Image Prompt
+Image of a faded, gray-scale landscape with crumbling stone walls in the background and a dense, overgrown forest in front. A solitary figure, face obscured by darkness, stands at the edge of a precipice or cliff, arms outstretched as if embracing or rejecting something behind them. The lines that would typically define the horizon are blurred and indistinct, with no clear distinction between sky and earth. In the foreground, scattered objects (lines, fragments, etc.) appear to have been torn apart or drawn upon the ground. The atmosphere is somber, melancholic, and introspective.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

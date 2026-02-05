@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper Star-born
-# ID: 0b9b68b4-33b9-4584-a2ce-c2c24267273c
-
-## Image Prompt
-Generate an ethereal landscape illustration depicting a serene canyon at dusk. The sky is painted with hues of soft pink, lavender, and blues, gradating from deep to pale. In the foreground, a winding path vanishes into the distance, lined with towering rock formations and sparse, twisted trees. A lone figure stands at the edge of the canyon, lost in contemplation, as if whispering secrets to the wind. The atmosphere is tranquil, with a subtle mist that shrouds the surroundings, imbuing the scene with an air of mystery and mysticism. The color palette should evoke a sense of stillness, serenity, and connection to nature.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

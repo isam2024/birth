@@ -1,0 +1,18 @@
+# Visual companion for: [Weaving Threads of Solace]
+# by Indigo
+# ID: 2f8016ff-2e76-4931-8640-683e678d3cc4
+
+## Image Prompt
+The scene unfolds like a warm, golden hug, enveloping the viewer in its comforting embrace. A vintage loom stands at the center, its wooden frame worn smooth by the touch of countless hands. The threads of family history, woven into intricate patterns, seem to pulse with a life of their own, as if the very fabric of memory is alive and vibrant.
+
+Soft, diffused light filters in from the left, casting a warm glow across the scene like a sunset on a summer's day. The light is a gentle blend of burnt sienna, crimson, and golden yellow, imbuing the atmosphere with a sense of comfort and tranquility. As the eye follows the threads of memory, it catches glimpses of past generations: a snippet of lace, a tiny wooden rose, a fragment of embroidered family crest.
+
+The loom itself is adorned with an assortment of treasures: a delicate silver needlepoint pillow, a hand-carved wooden spoon, a miniature porcelain doll. Each object seems to have been lovingly placed upon the loom, as if to add to its already rich tapestry of stories and memories. In the background, a soft focus suggests the presence of a warm fireplace, where embers have long since died down, leaving behind only a gentle glow.
+
+As one's gaze lingers on the scene, it becomes clear that this is no ordinary loom. It seems to be alive with the whispers of the past, its very fibers humming with a gentle, soothing energy. The atmosphere is one of deep peace and contentment, as if the viewer has stumbled upon a long-forgotten haven of warmth and love.
+
+STYLE: Folk Art / Naïve
+COLORS: Burnt sienna, golden yellow, crimson, soft blues (for the loom's wooden frame), cream (for the porcelain doll)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

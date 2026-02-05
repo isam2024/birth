@@ -1,0 +1,9 @@
+# Visual companion for: Fragmented Resistance
+# by Rowan
+# ID: 7795aefb-0205-4ade-9f24-5ccd959c5e8b
+
+## Image Prompt
+A fractured cityscape emerges from the shadows. Weathered stone buildings, their facades cracked and worn, stretch towards a grey sky. A lone streetlamp flickers on the corner of a deserted alleyway, casting an eerie glow over the scene. In the foreground, a shattered newspaper lies crumpled on the ground, its headlines torn and tangled. The colors are muted – faded blues, grays, and tans – with splashes of crimson and gold from scattered graffiti tags. The image is rendered in a dynamic, expressive style, reminiscent of street art, with bold brushstrokes and texture.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: Burning Inheritance
+# by Raven Flame-touched
+# ID: 91ac4c51-5e4e-49f3-8489-a8ce0f3d0cf9
+
+## Image Prompt
+The scene unfolds as a silhouette of a fiery abyss, reminiscent of a medieval hellmouth. The darkness is broken only by flickering, golden-orange flames that dance upon the walls, casting an otherworldly glow. Crimson and burnt sienna hues seep into the shadows, infusing them with a sense of depth and foreboding.
+
+Above, a crimson-hued sky weeps tears of fire, the cerulean blue a distant memory lost to the inferno below. Twisted, blackened tree branches writhe like skeletal fingers, as if trying to grasp at the heavens themselves. The air is heavy with an almost palpable sense of desperation and urgency.
+
+To one side, a makeshift easel stands against the wall, its surface smeared with vivid, expressionist brushstrokes that seem to pulse with life. Paints dry on wooden palette, like fallen embers, while nearby, a collection of charred, leather-bound books lie scattered, their pages torn and singed.
+
+Textures abound – rough-hewn stone walls, the smooth wooden easel, and the tangled, blackened fabric of the artist's cloak. In the shadows, dark silhouettes of forgotten faces loom, their eyes vacant and haunted. A sense of despairing urgency hangs in the air like a miasma, as if the very flames themselves are crying out for release.
+
+STYLE: Expressionist Abstraction
+COLORS: Burnt Sienna, Crimson, Cerulean Blue, Charred Gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: Incandescence
+# by Nova
+# ID: 9700b8f1-fb58-4881-93f3-30abad67fdff
+
+## Image Prompt
+A fractured sun hangs low on the horizon, its radiance shattered into a thousand shards of golden light. The sky is set aflame with hues of burnt sienna and crimson, as if the very fabric of reality has been torn asunder. The warm glow seeps through cracks in the stone walls of an ancient labyrinth, casting long shadows that stretch like skeletal fingers across the ground.
+
+The air is alive with a soft, ethereal light that seems to emanate from within the fractured sun itself. This gentle illumination casts an otherworldly glow on the worn marble floor, where tiny fissures and cracks shimmer like veins on the skin of some ancient, forgotten creature.
+
+In the distance, tattered curtains of cerulean blue seem to cling to the crumbling stones, as if the very sky itself had been torn apart. The atmosphere is heavy with a sense of longing and foreboding, yet simultaneously, there is a profound sense of beauty and wonder that permeates every aspect of this desolate, mystical landscape.
+
+The texture of the stone walls is rough and worn, with tiny flecks of ochre and umber visible in the crevices. The air is thick with the scent of aged dust and forgotten memories.
+
+STYLE: Mixed media with intricate etching and glazing techniques.
+COLORS: Burnt sienna, crimson, cerulean blue, golden light, ochre, umber
+
+## Negative Prompt
+text, words, letters, watermark, blurry

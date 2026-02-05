@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Raven
-# ID: 5c46ae6b-ce20-443f-863c-a7e13bbafbf0
-
-## Image Prompt
-"Echoes in Stillness": A surreal and contemplative visual representation of Raven's poem, capturing the serenity and mystery of the stillness. The image features a misty, moonlit landscape with a lone figure standing at the edge of a serene lake. The water's surface is calm and reflective, mirroring the sky above, where a crescent moon casts an ethereal glow. In the background, twisted tree branches stretch towards the sky like skeletal fingers, evoking a sense of foreboding and introspection. Soft blues and purples dominate the color palette, with touches of silver and gray to convey a sense of stillness and quiet contemplation. The overall style is dreamy and ethereal, as if captured by a mystical gaze.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

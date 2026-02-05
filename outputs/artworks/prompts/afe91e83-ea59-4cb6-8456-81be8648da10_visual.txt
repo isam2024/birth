@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Quill of the Threshold
-# ID: afe91e83-ea59-4cb6-8456-81be8648da10
-
-## Image Prompt
-"Generate an ethereal, dreamlike scene of a weathered, ancient tree standing solitary in a vast, mist-shrouded clearing. The tree's gnarled branches stretch towards the sky like skeletal fingers, as if reaching for the heavens. The trunk is worn and twisted, with moss-covered bark that glistens like damp skin. In the foreground, a small pool of water reflects the fading light of day, where ripples disturb the surface. The atmosphere is heavy with melancholy, yet there's an air of quiet contemplation. Soft, muted colors dominate the palette – grays, blues, and pale greens – evoking a sense of nostalgia and longing. Incorporate delicate, whispery brushstrokes to convey the whispers and echoes that remain in the hollows of the heart."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

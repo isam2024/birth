@@ -1,0 +1,18 @@
+# Visual companion for: Fractures in the Labyrinth
+# by Luna
+# ID: cbecdea7-6a00-4e25-8f7c-d53afbe49995
+
+## Image Prompt
+The scene unfolds like a fragmented mirror, shattered into shards that refract and reflect light. The dominant crimson hue seeps from the cracks, bleeding onto the surrounding canvas. Burnt sienna and umber tones dominate the shadows, deepening the sense of foreboding.
+
+As the eye navigates this fractured landscape, cerulean whispers seem to emanate from the broken glass, like the gentle lapping of a distant wave against the shore. The glimmering threads of truth weave in and out of the fragments, glistening with an ethereal light that seems almost otherworldly.
+
+The subject itself appears as a disintegrated figure, silhouetted against the eerie glow of the stillness. Its presence is both haunting and ephemeral, like a whispered secret on the wind. In this hushed moment, time stands frozen, suspended between past and future.
+
+Textured paper and torn fabric scraps hang from the shards like ghostly ornaments, imbuing the scene with an air of melancholy fragility. Glistening droplets cling to the surface, each one a tiny mirror reflecting a fragment of reality. The overall atmosphere is heavy with unresolved questions, as if the very act of reflection has unleashed an abyss of introspection.
+
+STYLE: Mixed media collage
+COLORS: Cerulean blue (#87CEEB), Burnt sienna (#A52A2A), Crimson red (#8B0A1A), Iridescent silver (#B1B1B1)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

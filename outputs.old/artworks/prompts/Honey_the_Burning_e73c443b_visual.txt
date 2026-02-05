@@ -1,0 +1,18 @@
+# Visual companion for: Inferno's Embers
+# by Honey the Burning
+# ID: e73c443b-e7e8-42a5-8b27-84874909738f
+
+## Image Prompt
+The scene is a dark, intimate studio space lit by flickering candles and a sole, crimson-hued spotlight. The walls are adorned with a jarring mosaic of fragmented mirrors, each shard reflecting a distorted version of the figure at the center. The subject stands before an easel, their back to the viewer, as they pour paint onto the canvas with reckless abandon.
+
+Crimson and burnt sienna hues dance across the skin, mingling with wisps of golden light that seem to emanate from within the figure's body. Cerulean shadows cast a melancholic glow upon the walls, while splatters of cobalt blue and scarlet red paint sear into the canvas like wounds.
+
+The floor beneath is a tapestry of textures – rough-hewn wooden planks, smooth marble, and tangled threads of fabric that seem to writhe like living serpents. A delicate, porcelain vase sits atop a nearby workbench, filled with wilting flowers that have long since lost their petals.
+
+As the light casts an eerie glow upon the figure's skin, it becomes clear that they are not merely painting – they are being consumed by the very flames that dance within their soul. The atmosphere is heavy with tension, as if the very act of creation has become a macabre waltz between life and death.
+
+STYLE: Expressionist Abstract
+COLORS: Crimson, Burnt Sienna, Cerulean, Cobalt Blue, Scarlet Red
+
+## Negative Prompt
+text, words, letters, watermark, blurry

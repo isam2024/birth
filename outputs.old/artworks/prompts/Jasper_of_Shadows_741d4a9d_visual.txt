@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 741d4a9d-d281-4fdb-8753-bd802624af6d
+
+## Image Prompt
+"Fractured Landscape"
+
+A haunting, dreamlike scene unfolds on a cracked and weathered terrain. The sky above is a deep, foreboding indigo, with wispy clouds that resemble torn flesh. In the foreground, jagged rock formations stretch towards the heavens like shattered teeth, their rust-red hues bleeding into a stark white. Amidst this desolate expanse, a lone figure – shrouded in tattered darkness – stands at the precipice, arms outstretched as if embracing the void. The air is heavy with an otherworldly mist that clings to the rocks and drapes around the figure like a mournful veil.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

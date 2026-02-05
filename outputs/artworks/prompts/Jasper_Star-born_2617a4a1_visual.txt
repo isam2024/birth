@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper Star-born
-# ID: 2617a4a1-419f-4d6c-8a66-533f0de8a1d2
-
-## Image Prompt
-A hauntingly beautiful landscape unfolds before you. In the foreground, a withered tree stands as a sentinel, its branches like bony fingers reaching towards the sky. The trunk is weathered and gray, adorned with vibrant orange lichen that seems to pulse with an otherworldly energy. To the left, a crescent moon casts an ethereal glow on the mist-shrouded hills, while a scattering of autumn leaves dance in the gentle breeze like Nature's own confetti. In the distance, the silhouette of a forest, veiled in a shroud of emerald green, beckons to the horizon like a whispered secret.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

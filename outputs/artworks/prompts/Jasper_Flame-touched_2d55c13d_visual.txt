@@ -1,0 +1,15 @@
+# Visual companion for: [ Snowflake's Fading ]
+# by Jasper Flame-touched
+# ID: 2d55c13d-6665-4b2a-a635-05f181510ff8
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the very essence of existence has been distilled into this singular moment. A delicate, crystalline structure lies suspended in mid-air, its intricate patterns and gentle curves etched against a deep, burnt sienna backdrop. The snowflake's fragile form appears almost translucent, as if it might shatter at any instant, releasing a cascade of crystalline shards that would dissolve into the surrounding ether.
+
+Soft, ethereal light spills forth from an unseen source, casting an otherworldly glow upon the scene. This luminescence is both gentle and piercing, imbuing the snowflake with an aura of vulnerability. Crystalline dust motes dance in the air above, refracting and reflecting this soft light like a thousand tiny mirrors.
+
+The surface of the snowflake shimmers with a delicate patina, as if kissed by the whispers of ancient forests. The intricate web of patterns appears to pulse with a life force, as if every gesture is a whispered promise of transformation and renewal. The air is heavy with anticipation, as if the very fabric of reality is poised on the cusp of revelation.
+
+In this fleeting moment, time itself seems to bend and warp, inviting the viewer to pause, breathe deeply, and surrender to the beauty of the present.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

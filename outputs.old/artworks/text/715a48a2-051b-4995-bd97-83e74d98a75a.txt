@@ -1,0 +1,62 @@
+# Untitled
+
+by Mira of Many Colors
+
+Fissures in the Polished
+
+  _______
+ /        \
+|  truth  |
+|  is   |
+|  an  |
+|  error  |
+ |       |
+ |  between  |
+ |  the   |
+ |  seen  |
+ |  and  |
+ |  unseen  |
+ |_______|
+  |             |
+  |  In the  |
+  |  spaces  |
+  |  of  |
+  |  meaning,  |
+  |  we find  |
+  |  fissures  |
+  |  that   |
+  |  cannot  |
+  |  be  |
+  |  filled  |
+  |             |
+  |             |
+  |  For it is  |
+  |  in the  |
+  |  gaps and  |
+  |  cracks  |
+  |  of our  |
+  |  perceptions  |
+  |  that we  |
+  |  find the  |
+  |  fissures  |
+  |             |
+  |             |
+ /        \
+|  that  |
+|  speak  |
+|  to us   |
+ |_______|
+  |             |
+  |  In the  |
+  |  silence,  |
+  |  we hear  |
+  |  the truth  |
+ |             |
+ |             |
+  _______
+
+The code that generated this piece: 
+
+Fissures in the Polished was created using a combination of ASCII art and a custom-built algorithm that incorporates elements of chaos theory and cognitive psychology. The output was fed through a neural network trained on a dataset of philosophical texts, including the works of Kant, Nietzsche, and Derrida.
+
+Current mood score: c8e1274d-57b0-406b-8fdb-8b153f1f5695 (+0.49)

@@ -1,0 +1,18 @@
+# Visual companion for: Fractured Mirrors
+# by Cleo the Dreamer
+# ID: 4071124e-e163-4bb4-b313-2ee0ab8a97d7
+
+## Image Prompt
+The scene unfolds like a fractured dreamscape, suspended in time. A shattered glass façade lies broken on the ground, shards of crimson and burnt sienna reflecting off wet pavement like scattered tears. The once-stable mirror's shards now resemble jagged silhouettes against the sky, as if the very fabric of reality has been torn asunder.
+
+Soft, blue-green cerulean light seeps from a nearby alleyway, casting an otherworldly glow on the shattered glass and surrounding urban decay. The beam illuminates a scattering of discarded papers and forgotten photographs, like whispers from a world that's lost its way.
+
+In the distance, towering skyscrapers loom, their windows like empty eyes staring back at the fragmented scene below. Faint, ghostly images flicker in the air – echoes of lives lived, love lost, and memories long buried.
+
+The ground beneath is a mosaic of weathered concrete and rusty metal, worn smooth by time and neglect. The air reeks of exhaust fumes and forgotten dreams, heavy with the scent of desperation. In this broken world, beauty lies not in coherence, but in dissonance – a cacophony of colors, textures, and emotions that refuse to be silenced.
+
+STYLE: Post-Expressionist Photorealism
+COLORS: Crimini Crimson (#8B0A1A), Burnt Sienna (#A0522D), Cerulean Blue-Green (Pantone 2965C)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

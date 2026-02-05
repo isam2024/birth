@@ -1,0 +1,16 @@
+# Visual companion for: Fragmented Resonance
+# by Raven Flame-touched
+# ID: 021b1299-11be-48e7-b937-0155a08e725f
+
+## Image Prompt
+The scene unfolds like a ravaged landscape, as if time itself had been shattered into a thousand fragmented pieces. The background is a deep, foreboding crimson, reminiscent of blood spilled on the earth, while the fragments of glass scattered on the ground glimmer with a malevolent sheen, like shards of razor-sharp crystal. In the center of this devastation, a lone figure stands, silhouetted against the faint luminescence of cerulean sky above. The air is heavy with an otherworldly fog, as if the very fabric of reality has been rent asunder.
+
+Burnt sienna and umber hues bleed into one another, casting long, ominous shadows across the ground. The textures of shattered glass and weathered stone are stark against the rough, earthen tones of the figure's clothing, like a jarring juxtaposition of beauty and ugliness. A faint, eerie glow emanates from within the figure's eyes, as if a spark of defiance has been ignited, refusing to be extinguished.
+
+The atmosphere is heavy with tension, like a held breath, poised on the cusp of chaos. The mood is one of foreboding, as if the very foundations of society are being torn apart, leaving only shattered reflections and tattered hope in their wake.
+
+STYLE: [Abstract Expressionism]
+COLORS: Crimson, burnt sienna, cerulean, umber
+
+## Negative Prompt
+text, words, letters, watermark, blurry

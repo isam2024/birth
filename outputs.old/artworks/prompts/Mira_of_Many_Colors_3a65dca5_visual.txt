@@ -1,0 +1,20 @@
+# Visual companion for: PARALLAXIA
+# by Mira of Many Colors
+# ID: 3a65dca5-15d5-4825-b328-8cc51ecdaa99
+
+## Image Prompt
+The scene unfolds like a shattered mirror, reflecting shards of reality that refuse to coalesce into a unified whole. A sprawling cityscape sprawls across the canvas, its skyscrapers twisting and contorting like molten metal. Crimson light pours down from above, casting long shadows that stretch and distort the urban landscape.
+
+Burnt sienna hues bleed from the cracks in the pavement, like wounds that refuse to heal. Cerulean skies above are flecked with wisps of smoke, as if the very fabric of reality is unraveling. The air is heavy with an unsettling mist that clings to the surfaces like a damp shroud.
+
+Rusty metal and weathered concrete textures evoke a sense of worn, forgotten grandeur. In the distance, a highway stretches out like a serpent, its asphalt veins pulsating with a faint, otherworldly glow. Ahead, skyscrapers loom, their peaks hiding in the clouds like skeletal fingers.
+
+To one side, a fractured facade reveals glimpses of a world within: a child's playroom, abandoned and still; a library shelf, toppled and scattered books lying like fallen leaves; a bathroom mirror, shattered and reflecting shards of broken identity. The scene pulsates with an undercurrent of disquiet, as if the very foundations of reality are shifting beneath one's feet.
+
+Mood: Unsettling Disquiet
+
+STYLE: Surrealist Mixed Media
+COLORS: Burnt Sienna, Crimson, Cerulean, Rusty Metal
+
+## Negative Prompt
+text, words, letters, watermark, blurry

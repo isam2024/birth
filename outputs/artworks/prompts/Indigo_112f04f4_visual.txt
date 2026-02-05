@@ -1,0 +1,18 @@
+# Visual companion for: Sun-Kissed Hearth
+# by Indigo
+# ID: 112f04f4-bf76-428d-a308-603d783c27a8
+
+## Image Prompt
+The scene unfolds as a warm and inviting vignette, set against the gentle glow of a setting sun. The focal point is a traditional hearth, adorned with worn, golden wood accents and a rich, burnt sienna finish. A soft, crimson-colored rug lies before the hearth, its plush fibers inviting all who enter to sit and linger awhile.
+
+The sunlight pours in from above, casting long shadows across the room and illuminating the textures of the space. The walls, painted a soothing cerulean hue, seem to absorb the radiance of the sun, while the wooden beams above appear weathered to a silvery gray. A few carefully arranged, antique family heirlooms – a vintage vase, a silver locket, and a hand-carved wooden box – add a touch of nostalgia to the scene.
+
+As the light dances across the room, it highlights the delicate patterns on the rug, casting intricate shadows that seem to shift and move like the gentle breeze outside. The air is alive with the whispers of past conversations and shared laughter, creating an atmosphere of warmth, comfort, and community.
+
+The overall mood of the image is one of serene tranquility, as if time itself has slowed to accommodate the simple pleasures of gathering 'round the fire.
+
+STYLE: Whimsical Realism
+COLORS: Warm neutrals (burnt sienna, golden brown), soft crimson, soothing cerulean, silvery grays.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

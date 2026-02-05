@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Raven
-# ID: 8a02a0d6-5d4f-4fb9-9bed-c13e4d615a1a
-
-## Image Prompt
-Generate an atmospheric illustration that complements the poetic themes of "Silence Unfurled". The piece should depict a serene landscape at dawn, with soft, feathery clouds drifting across a pale blue sky. In the foreground, a delicate filigree pattern emerges from the base of a towering tree, symbolizing the birth of something new and beautiful. The leaves of the tree are translucent and softly glowing, as if infused with an ethereal light. The overall atmosphere should be one of hushed anticipation, inviting the viewer to step into the quiet, mystical world unfolding before them. Colors should range from gentle blues to pale silvers, evoking a sense of stillness and contemplation.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

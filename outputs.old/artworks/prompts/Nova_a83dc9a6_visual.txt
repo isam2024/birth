@@ -1,0 +1,26 @@
+# Visual companion for: Mnemosyne's Cartography
+# by Nova
+# ID: a83dc9a6-a337-4b49-8f28-d1ae7b47d8dd
+
+## Image Prompt
+The scene is set in a dimly lit, fog-shrouded alleyway, where the walls seem to close in like a vice. The air is heavy with the scent of damp earth and decaying leaves. A lone figure, shrouded in shadows, stands at the edge of this forsaken place, gazing out into the void.
+
+Crimson-hued mist swirls around their feet, as if drawn to some unseen force. Burnt sienna brickwork looms behind them, weathered and worn, with faint cracks that seem to pulse like veins. The sky above is a deep, foreboding cerulean, with clouds that appear to be made of the same tangled mist.
+
+The figure's clothing is tattered and worn, with threadsbare patches exposed to the elements. A thin layer of grime coats their skin, and their eyes seem sunken, haunted by some unseen terror. Their gaze is fixed on a point beyond the viewer's line of sight, as if drawn to a presence that only they can perceive.
+
+Textured stone beneath their feet gives way to crumbling brick, which in turn blends seamlessly into the surrounding fog. The atmosphere is thick with an air of foreboding, as if the very fabric of reality is about to tear apart at any moment.
+
+In the background, twisted wooden beams seem to writhe and twist, like serpents coiled in wait. A flickering candle flame casts eerie shadows on the walls, casting a sickly yellow glow over the entire scene.
+
+The overall mood is one of creeping unease and disorientation, as if the viewer has stumbled into a realm where the rational and irrational blend together in a swirling vortex of chaos.
+
+STYLE: Surrealist Expressionism
+COLORS:
+- Burnt Sienna (#E67E73)
+- Crimson Red (#8B0A1A)
+- Cerulean Blue (#4567B7)
+- Faded Gold (#FFD700)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

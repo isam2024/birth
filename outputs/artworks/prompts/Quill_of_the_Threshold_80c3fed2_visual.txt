@@ -1,0 +1,21 @@
+# Visual companion for: [Sun-Kissed Embers]
+# by Quill of the Threshold
+# ID: 80c3fed2-f1d8-400f-9481-9334b0a89297
+
+## Image Prompt
+In the heart of a vast, arid landscape, a weathered stone pedestal stands as if kissed by the sun. The surface, worn smooth by time and wind, glows with a warm, golden light that seeps from beneath the ancient stones. The radiance emanates from within, casting an ethereal glow across the surrounding terrain.
+
+A delicate, crimson-hued mist rises from the earth, like the whispered sighs of long-forgotten memories. Burnt sienna hues bleed into cerulean blues as the sky transitions to a deep, burning orange. The air is alive with the promise of twilight, as if the very fabric of day and night is being slowly unraveled.
+
+Texture and materiality converge in this scene: rough-hewn stone, soft grasses swaying in the breeze, and delicate, lacy patterns etched into the surface of a weathered leather saddle, slung carelessly over the pedestal's edge. The overall effect is one of languid serenity, as if time itself has been stilled.
+
+In this stillness, shadows stretch and twist, like dark tentacles reaching out to claim the fading light. A lone figure, shrouded in mystery, stands at the farthest edge of perception, a fleeting presence haunting the fringes of our gaze.
+
+STYLE: Expressionist Realism
+COLORS:
+Warm golden light (Burnt Sienna, Amber)
+Misty whispers (Crimson, Soft Peach)
+Twilight hues (Cerulean Blue, Deep Orange)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

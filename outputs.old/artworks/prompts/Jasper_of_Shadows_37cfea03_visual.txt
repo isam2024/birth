@@ -1,0 +1,18 @@
+# Visual companion for: Fractured Reflections
+# by Jasper of Shadows
+# ID: 37cfea03-d85d-47ee-8153-ccddb35688fe
+
+## Image Prompt
+In the heart of a dimly lit studio, a figure stands resolute amidst a tapestry of rebellious color. The subject, cloaked in shadows, is set against a backdrop of burning crimson and smoldering ember tones, as if the very walls themselves are aflame with indignation. Soft, cerulean hues seep through the cracks, hinting at a world beyond the confines of this oppressive space.
+
+The light source is a flickering, golden glow that seems to emanate from within the figure's being, casting an otherworldly radiance across their visage. Eyes ablaze with intensity, they gaze forth with an unyielding resolve, as if the very soul itself is a burning flame.
+
+Rough-hewn textures of wooden beams and weathered canvas mingle with the dark, cool tones of paint-stained aprons, creating a rich tapestry of tactile contrast. The air is heavy with the scent of turpentine and linseed oil, imbuing the atmosphere with an almost palpable sense of creativity and resistance.
+
+In this fiery crucible, shadows writhe like living things, as if the very darkness itself were a manifestation of the turmoil within. The overall mood is one of fierce urgency, a sense that the moment hangs precariously on the cusp of transformation.
+
+STYLE: Expressionist
+COLORS: Burnt Sienna, Cerulean Blue, Crimson Red, Golden Yellow
+
+## Negative Prompt
+text, words, letters, watermark, blurry

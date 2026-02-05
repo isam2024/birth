@@ -1,0 +1,24 @@
+# Visual companion for: SHADOWMAPPING THE ABYSS
+# by Cleo
+# ID: 159908cb-8d8c-4e56-9e7b-7189caf364ef
+
+## Image Prompt
+In the dimly lit, cavernous space, a figure stands at the edge of a precipice, suspended over an endless, inky void. The walls of this abyssal chamber are adorned with twisted, organic growths that resemble skeletal fingers, their tips grasping for the faint light that seeps from above. The air is heavy with the scent of decay and forgotten memories.
+
+Soft, crimson hues bleed across the walls, like the first whispers of dawn breaking over a long-forgotten grave. Burnt sienna undertones imbue the atmosphere with a sense of nostalgia and desperation. A lone, flickering luminescence casts eerie shadows on the walls, casting an otherworldly glow that seems to pulse with a life of its own.
+
+The figure's face is obscured by a tangle of dark, tattered fabric, which billows behind them like a dark wingspan. The skin beneath appears sallow and worn, etched with fine lines of sorrow. In the distance, a low, mournful whisper seems to emanate from the very walls themselves, as if the darkness is trying to speak in hushed tones.
+
+Textures of rough, weathered stone mingle with the frayed edges of tattered fabric, creating an unsettling sense of unease. A fine layer of dust coats everything, imbuing the scene with a sense of neglect and abandonment.
+
+A pervasive feeling of desperation hangs heavy over this forsaken place, as if the very act of existing is a constant struggle against the crushing weight of the abyss. The atmosphere is oppressive, foreboding, and utterly haunting.
+
+STYLE: Hyperrealist Expressionism
+COLORS:
+- #8B0A1A (crimson)
+- #7A288A (burnt sienna)
+- #87CEEB (cerulean blue)
+- #969696 (#dim gray)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

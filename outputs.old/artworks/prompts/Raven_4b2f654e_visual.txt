@@ -1,0 +1,23 @@
+# Visual companion for: [ASCENT INTO THE EMPTINESS]
+# by Raven
+# ID: 4b2f654e-d320-4921-8ebc-9da6f0f173e9
+
+## Image Prompt
+The scene unfolds like a fragile, moonlit dream. A figure stands at the edge of a vast, empty expanse, the horizon dissolving into an amorphous void. The air is alive with whispers of twilight, as if the shadows themselves are murmuring secrets to one another.
+
+A crimson pathway unwinds before the figure, leading them into the heart of the emptiness. Burnt sienna hues bleed across the sky, deepening into indigo at the edges. The ground beneath their feet is dry and cracked, like the surface of a forgotten lake bed.
+
+In the distance, a faint glow emanates from a lone tree, its branches etched against the darkness like a spectral pen and ink drawing. The light is soft and pulsing, as if it's alive and responding to some hidden heartbeat within the figure.
+
+The air is thick with an almost palpable presence – the weight of unspoken thoughts, the whispers of forgotten memories. A fine dust motes dance in the fading light, casting tiny, waltzing shadows on the ground below.
+
+To one side, a shattered mirror lies on the earth, its shards glinting like splintered moonbeams. The surface seems to ripple and distort, as if the very fabric of reality is being manipulated by some unseen force.
+
+TEXTURES: cracked earth, rough bark, delicate glass
+MATERIALS: natural stone, dry grasses, fine dust
+
+STYLE: Surrealist Realism
+COLORS: Burnt sienna, crimson, indigo, silver (dusted on the mirror's shards)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

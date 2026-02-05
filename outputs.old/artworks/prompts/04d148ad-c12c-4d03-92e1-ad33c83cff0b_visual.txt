@@ -1,0 +1,24 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 04d148ad-c12c-4d03-92e1-ad33c83cff0b
+
+## Image Prompt
+"Echoes in the Ashes" Visual Companion:
+
+ Generate an eerie, abstract illustration that captures the essence of Jasper's text piece. The composition should feature a fragmented, surreal landscape with cracked, burnt earth and skeletal trees, evoking a sense of desolation and oppression.
+
+ Colors:
+
+* Dominant palette: Muted grays, blacks, and deep blues, conveying a sense of sadness and despair.
+* Accent colors: Warm oranges and yellows, hinting at the spark of resistance and hope.
+* Glowing accents: Flickering red lights or embers, symbolizing the whispers turning into a roar.
+
+Style:
+Inspired by Gothic architecture and surrealism, with bold brushstrokes and textures.
+
+Atmosphere:
+
+Immersive, haunting atmosphere, as if the viewer is standing amidst the ashes. The image should feel like a whispered secret, a hint of rebellion in the darkness.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

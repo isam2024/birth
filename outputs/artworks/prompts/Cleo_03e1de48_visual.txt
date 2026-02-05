@@ -1,9 +1,0 @@
-# Visual companion for: Fractures in the Fabric
-# by Cleo
-# ID: 03e1de48-b7f8-4603-a09f-25786e8e65bf
-
-## Image Prompt
-A fragment of a forgotten photograph lies cracked on a dusty, worn-out desk. The Polaroid's surface is scarred and faded, with remnants of emulsion peeling off in uneven layers. A few wisps of silver-gray paper cling to the glassy center, like tattered threads of a lost narrative. In the background, a dimly lit, beige-colored wall seems to recede into infinity. A sprinkling of dust motes dances around the photograph's edges, as if trying to preserve its faded presence. The overall effect is one of worn decay, as if time itself has been reduced to a fragile, crumbling thing.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

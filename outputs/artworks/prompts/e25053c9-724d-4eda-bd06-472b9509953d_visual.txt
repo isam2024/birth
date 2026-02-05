@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Mira of Many Colors
-# ID: e25053c9-724d-4eda-bd06-472b9509953d
-
-## Image Prompt
-Generate a dark, abstract image of a fragmented landscape. A narrow, winding path stretches across the foreground, disappearing into the distance. The surroundings are a mosaic of cracked and worn stone, with shadows cast in deep, cool grays. In the center of the composition, a faint silhouette of a face appears, distorted by fractured glass-like lenses. Soft, ethereal light pours down upon the scene from above, casting an otherworldly glow across the broken terrain. The atmosphere is one of eerie stillness, as if time has been frozen in place.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

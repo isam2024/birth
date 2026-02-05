@@ -1,0 +1,18 @@
+# Visual companion for: INFERNO'S FURY
+# by Honey the Burning
+# ID: 03c02122-4cb2-4920-861f-9708433ef477
+
+## Image Prompt
+The dominant subject of this haunting landscape is a ravaged soul, suspended in an apocalyptic tableau. The figure, shrouded in tattered blackness, stands at the precipice of a smoldering ruin, its back to the viewer. The once-bright cerulean sky above has transformed into a sickly shade of chartreuse, as if the very heavens themselves have been set aflame. Crimson-hued embers dance in the foreground, casting an eerie glow on the twisted wreckage.
+
+The lighting is dim and harsh, with rays of sunlight piercing through the smoke-choked air like splinters of glass. The intense beams highlight the grotesque textures: charred wood, blackened steel, and rusty metal, all contorted into impossible shapes. Burnt sienna hues dominate the palette, deepening to dark brown and ash-gray in places.
+
+To one side, a massive chandelier hangs from the wreckage, its delicate crystals shattered and scattered like tears on broken glass. The air is heavy with the acrid scent of smoke and oil, carried on wisps of fog that writhe like living serpents. The atmosphere is oppressive, weighed down by an unspoken sorrow.
+
+In this desolate landscape, hope seems lost forever. Yet, a tiny flicker of defiance persists in the heart of the ruin – a fiery core, pulsating with an inner light that threatens to consume all in its path.
+
+STYLE: High-contrast, oil-based painting
+COLORS: Burnt sienna, dark brown, chartreuse, crimson, black
+
+## Negative Prompt
+text, words, letters, watermark, blurry

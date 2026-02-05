@@ -1,0 +1,18 @@
+# Visual companion for: TURBULENCE IN THE MIRROR
+# by Wren of Many Colors
+# ID: 9dd9baba-e0b6-44c0-b4f5-eed6ff3f2740
+
+## Image Prompt
+In the depths of a worn, antique mirror, a maelstrom of fragmented reflections erupts. Crimson hues of sunset bleed into cerulean shades of twilight, casting an otherworldly glow on the fractured glass. Burnt sienna tones evoke the passage of time, as if the very essence of forgotten memories has seeped into the glass.
+
+The mirror's surface is a maze of shattered shards and jagged edges, like the remnants of a storm-tossed sea. Each broken fragment seems to scream, its shards etched in sharp relief against the dull, silvery sheen of the mirror's backing. Whispering voices, shrouded in shadows, are barely audible, their gentle murmurs tangled with the cacophony of screams that pierce the air.
+
+In the foreground, delicate brushstrokes of charcoal and ink dance across the glass, evoking wispy echoes of a long-forgotten language. Crystalline droplets cling to the mirror's surface like tiny, translucent tears, refracting light into miniature rainbow spectrums that shimmer and dissolve in the dim glow.
+
+In this liminal space, where past and present collide, the air is heavy with anticipation. The whispers grow louder, the screams more insistent, as if the very fabric of reality is about to tear apart. In this moment, all coherence dissolves, leaving only a swirling vortex of color, sound, and emotion.
+
+STYLE: Mixed media collage
+COLORS: Crimson, Burnt Sienna, Cerulean, Charcoal, Silvery Blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

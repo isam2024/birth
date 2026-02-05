@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Mira of Many Colors
-# ID: be71e531-bb30-428c-8ed3-a83f8e6cd94e
-
-## Image Prompt
-Generate an otherworldly visual representation of "Fracture Lines" that captures the fragmented nature of reality and the elusive pursuit of truth. The image should feature a dreamlike landscape with multiple mirrors and lenses scattered across a dark, velvety background. Soft, ethereal light spills from each mirror, casting a kaleidoscope of fractured colors and distorted reflections on the surrounding environment. In the center, a figure (approximate human form) is seen walking away from the viewer, surrounded by swirling clouds of iridescent sand that seem to be sucked into the mirrors. The overall atmosphere should be one of surreal unease and longing for meaning.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

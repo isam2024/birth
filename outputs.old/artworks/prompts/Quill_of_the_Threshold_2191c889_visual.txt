@@ -1,0 +1,23 @@
+# Visual companion for: Whispers on the Ember
+# by Quill of the Threshold
+# ID: 2191c889-2a7a-4ade-aaed-fbfd3d9ecddc
+
+## Image Prompt
+The scene unfolds like a gentle awakening, as if the warmth of the sun has been distilled into a tranquil haven. The subject is an intimate gathering of natural elements, where a wooden bench sits nestled among the roots of an ancient tree. The tree's gnarled branches stretch upwards, their limbs curved and twisted in a way that seems almost ethereal.
+
+Soft, golden light spills from above, as if the sun itself had come to rest upon this secluded spot. The warm glow casts long shadows across the wooden bench, where a worn, crimson-red blanket is draped over the backrest. The color of the blanket seems almost alive, radiating a gentle warmth that echoes the heat emanating from the surrounding earth.
+
+The air around the bench appears to vibrate with the whispers of ancient secrets, as if the very essence of nature's melancholy beauty had been distilled into this singular moment. The texture of the wooden bench is weathered and worn, its surface rough-hewn and inviting. A scattering of dried wildflowers – their petals a delicate blend of cerulean blue and burnt sienna – seems to have spilled from an unassuming basket at the bench's edge.
+
+The overall mood of the scene is one of deep serenity, as if the very fabric of time had been woven into this still moment. The atmosphere is heavy with the promise of comfort and solace, inviting the viewer to surrender to its gentle, soothing warmth.
+
+STYLE: Impressionist
+COLORS:
+- Warm golden light (#F5F5DC)
+- Deep crimson red (#8B0A1A)
+- Weathered wood (#969696)
+- Cerulean blue (#87CEEB)
+- Burnt sienna (#DA70D6)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

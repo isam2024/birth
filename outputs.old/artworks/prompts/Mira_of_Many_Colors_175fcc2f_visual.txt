@@ -1,0 +1,23 @@
+# Visual companion for: Fragmented Cartographies
+# by Mira of Many Colors
+# ID: 175fcc2f-6098-4dcc-8982-5e6e1df5a937
+
+## Image Prompt
+The scene unfolds like a fragmented mirror, reflecting shards of reality. A worn, crimson-red velvet drapes across the top half of the canvas, torn and frayed at the edges, like the threads of a tapestry unravelling. Beneath this, a mosaic of burnt sienna-hued tiles forms the base of the composition, with each tile bearing an intricate, handwritten inscription in dark, indigo ink: "the map is not the territory," scrawled on one tile; "truth is a function of perspective" on another.
+
+The walls above rise like a shattered facade, with pieces of blue-gray glass and fractured mirrors suspended from the ceiling. Each shard refracts and distorts the surrounding light, casting kaleidoscopic patterns across the floor. A scattering of gold-leaf fragments glitters in the crevices between the tiles, like splinters of sunlight.
+
+The air is heavy with the scent of aged parchment and forgotten knowledge. Flickering candles – their flames dancing like restless spirits – cast an otherworldly glow upon the scene. The atmosphere vibrates with tension, as if the very fabric of reality has been rent apart.
+
+A sense of disorientation pervades this place: a feeling that one is poised on the edge of a precipice, staring into an abyss of uncertainty. Yet, simultaneously, there's a lingering whisper of wonder, like the soft susurration of leaves in an autumnal breeze.
+
+STYLE: Abstract Expressionism
+COLORS:
+- Crimson-red velvet
+- Burnt sienna tiles
+- Dark indigo ink
+- Blue-gray glass
+- Gold-leaf fragments
+
+## Negative Prompt
+text, words, letters, watermark, blurry

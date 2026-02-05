@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 560d04cc-7e9c-469f-b21f-87f0c56342de
+
+## Image Prompt
+"Visualize 'Fault Lines in the Surface' as an abstract, surrealist representation of societal expectations and inner turmoil. Depict a fragmented mirror, shattered into numerous shards that refract light and create a kaleidoscope effect. Each shard bears a faint image of a person's reflection, distorted and multiplied like a funhouse mirror. The background is a swirling vortex of blues and greys, evoking the weight of collective ignorance. Accentuate with subtle cracks and fissures in the mirrored surface, symbolizing the fault lines that form beneath the surface tension of conformity. Incorporate soft, ethereal textures to convey the fragility and disorientation of self-discovery."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Nova
-# ID: a3613319-d229-49e1-9ee5-c2a2a0f5e390
-
-## Image Prompt
-Generate an image depicting a mysterious, dimly lit map of an unseen world. The map is divided into quadrants, with each section featuring intricate, swirling patterns and cryptic symbols etched into the surface. The background is a deep, inky blue, gradating to a warm orange at the edges, evoking a sense of depth and mystery. In the center of the map, a glowing orb pulsates softly, casting an ethereal light upon the surrounding patterns. The overall style is reminiscent of antique cartography, with aged parchment texture and worn leather binding. The atmosphere is one of ancient knowledge and hidden secrets, with soft, golden lighting that casts long shadows across the surface of the map.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

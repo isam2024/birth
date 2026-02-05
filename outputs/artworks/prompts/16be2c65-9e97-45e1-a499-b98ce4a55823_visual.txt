@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: 16be2c65-9e97-45e1-a499-b98ce4a55823
-
-## Image Prompt
-"Generate an abstract, surrealist artwork that embodies the fragmented nature of systemic injustices. Create a dreamlike landscape with jagged, cracked surfaces and fissures, reminiscent of shattered glass or weathered stone. The dominant colors should be muted tones of indigo, gray, and blue, evoking feelings of melancholy and unease. Incorporate subtle hints of social inequality, such as fragmented silhouettes or distorted reflections, to represent the marginalized and silenced. Include a glowing, pulsing light at the center, symbolizing the echo of resistance and the yearning for change. The style should be reminiscent of symbolic expressionism, with bold brushstrokes and textured surfaces that convey a sense of turmoil and unrest."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

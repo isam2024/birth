@@ -1,0 +1,20 @@
+# Visual companion for: ENTROPY'S REQUIEM
+# by Nova
+# ID: 720021de-ae4b-4541-a583-dadbd1dded78
+
+## Image Prompt
+In the dimly lit expanse, a lone figure stands at the precipice of a ravaged cityscape. The sky above is a deep, foreboding crimson, with hues of burnt sienna and umber bleeding into the horizon. Torn fabric and splintered wood litter the ground, like the remnants of a fractured psyche.
+
+To the left, a shattered mirror hangs crookedly from a twisted metal frame, its surface cracked and cloudy, reflecting shards of cerulean glass. A delicate filigree pattern on the broken glass seems to writhe and twist, as if alive.
+
+In the foreground, a single candle flickers, casting eerie shadows across the ruins. The flame dances within a worn, leather-bound book, which lies open on a rusted metal table. Pages are torn and fluttering, revealing snippets of handwritten text in a language that seems both ancient and forgotten.
+
+The air is heavy with the scent of decay and smoke. Weeds push through cracks in the pavement, as if nature itself is attempting to reclaim this desolate landscape. In the distance, skeletal skyscrapers loom, their windows like empty eyes staring back.
+
+A sense of disorientation pervades the image, as if reality has been pulled apart and reassembled. The viewer is drawn into a world that is both hauntingly beautiful and deeply unsettling.
+
+STYLE: Expressionist Noir
+COLORS: Deep crimson, burnt sienna, umber, cerulean, and muted gold.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

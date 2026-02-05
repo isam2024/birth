@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper Star-born
-# ID: 6ffdfea8-c9b0-4b94-8bf2-a18e7bd6a088
-
-## Image Prompt
-"Generate an ethereal desert landscape at dawn, with soft, gradient hues of pink and orange blending into the sky. The sun's gentle rays cast a warm glow on the sandy dunes, creating a sense of stillness and quiet contemplation. Incorporate subtle, wispy patterns resembling ancient petroglyphs etched into the rocks, symbolizing the passage of time and the whispers of the past. In the foreground, depict a lone figure standing at the edge of the desert, shrouded in mist, representing the seeker of silence and inner peace. The overall atmosphere should be serene, with a focus on capturing the essence of stillness and quiet reflection."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

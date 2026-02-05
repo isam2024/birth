@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 514ead8f-390a-4047-af37-dd6accb5c6e1
+
+## Image Prompt
+"Generate an image that embodies the haunting beauty of 'Echoes in the Ashes'. The scene depicts a desolate landscape with crumbling ruins in the background, shrouded in a thick, grey mist. In the foreground, a lone figure stands amidst the rubble, wearing a tattered crown made from twisted metal and chains. The figure's face is obscured by a hood, but their eyes burn with an inner fire. The air is thick with the weight of silence, as if the very sound of rebellion has been suffocated. Incorporate bold brushstrokes and vivid colors to convey the turmoil and fury that lies beneath the surface. The atmosphere should be heavy with foreboding, as if the ashes themselves are watching and waiting."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

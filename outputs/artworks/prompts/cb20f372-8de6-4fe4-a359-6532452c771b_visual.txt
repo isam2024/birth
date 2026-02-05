@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper Star-born
-# ID: cb20f372-8de6-4fe4-a359-6532452c771b
-
-## Image Prompt
-"Generate an abstract, dreamlike illustration that embodies the ebb and flow of life, death, and rebirth. The dominant color palette should be muted, with shades of indigo, gray, and misty blue, evoking a sense of melancholy and serenity. Incorporate organic forms, such as twisted tree branches and roots, which stretch up towards a darkening sky with swirling clouds. The background should feature subtle, wispy textures that resemble the gentle rustle of leaves or the gentle lapping of waves. At the center, depict a delicate, almost translucent sap flow, symbolizing life's fragile thread, amidst decaying, charred tree trunks and ancient stone ruins. Style is reminiscent of surrealism, with bold brushstrokes and subtle abstract expressionism."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

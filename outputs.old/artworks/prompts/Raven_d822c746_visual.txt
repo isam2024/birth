@@ -1,0 +1,18 @@
+# Visual companion for: Embers of Solace
+# by Raven
+# ID: d822c746-bdf3-4479-9969-785ae939f01b
+
+## Image Prompt
+In the heart of a serene landscape, a tranquil figure stands amidst a whispering wilderness. The subject, cloaked in simple yet elegant attire, is surrounded by the gentle lapping of water against weathered stone walls. Soft, golden light emanates from a distant sunbeam filtering through the foliage above, casting an ethereal glow upon the scene.
+
+The lighting is warm and diffused, as if the sun's rays are wrapped in silk, gently caressing the subject's skin. A sprinkling of crimson and burnt sienna hues dance across the atmosphere, like a soft blush on a summer's day. The cerulean hue of the sky above deepens to a rich blue towards the horizon, where it meets the earthy tones of the stone walls.
+
+The textures present in this scene are diverse – rough-hewn stone, smooth wooden beams, and the delicate lace of the subject's attire. The rustling leaves and whispering wind create an almost palpable sense of movement, as if life itself is stirring from a long slumber.
+
+This space exudes a profound stillness, one that speaks to the soul on a deep level. It is as if time has stood still within these ancient walls, allowing the visitor to breathe in the quiet reverence that permeates this sacred place.
+
+STYLE: Dreamlike Realism
+COLORS: Burnt sienna, Crimson, Cerulean Blue, Golden Honey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

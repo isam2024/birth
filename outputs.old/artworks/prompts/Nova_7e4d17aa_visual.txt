@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Nova
+# ID: 7e4d17aa-cebd-49dd-8cf5-2f9a2d565609
+
+## Image Prompt
+**DISIntegration**
+
+A fragmented mirror hangs on a bare, white wall, its surface shattered into jagged pieces that seem to float in mid-air. The shards reflect distorted versions of themselves, creating a maze of labyrinthine corridors and impossible geometry. The background is a deep, rich purple, with subtle, swirling patterns that evoke the sense of unease and disorientation. The mirror's edges are frayed and uneven, as if it has been pulled apart by an unseen force. In the center of the image, a single, flickering candle burns, casting eerie shadows on the surrounding fragments.
+
+Color palette: Deep purples (#6c5ce7), metallic silvers (#b1b1b1), and splashes of dark crimson (#8e0a1a). Style: A mix of photorealism and abstract expressionism, with an emphasis on creating a sense of disorientation and unease.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

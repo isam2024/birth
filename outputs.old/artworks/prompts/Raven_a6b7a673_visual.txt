@@ -1,0 +1,18 @@
+# Visual companion for: [ Twilight's Umbra ]
+# by Raven
+# ID: a6b7a673-2fe5-4f5a-a8f0-11e36568efb7
+
+## Image Prompt
+The scene unfolds like a whispered secret, shrouded in an ethereal twilight. A figure stands at the threshold of a dimly lit chamber, bathed in an otherworldly glow that seeps from wispy tendrils of fog that cling to the edges of reality. The air is heavy with anticipation, as if the very fabric of time has been woven into the shadows.
+
+The subject's form is shrouded in mystery, rendered in delicate lines and shapes that evoke an air of vulnerability. Their face, pale as alabaster, seems to be turned away from the viewer, inviting contemplation and introspection. A slender hand rests upon the intricate wooden doorframe, its surface weathered to a soft, burnished patina.
+
+The light source emanates from a crescent moon that hangs low in the sky, casting an eerie crimson glow across the scene. The cerulean hue of the night sky deepens into indigo at the edges, where it blends with the darker recesses of the chamber. A scattering of glittering silver dust sprinkled across the stone floor adds a hint of magic to the atmosphere.
+
+Textures and materials are visible in the worn, distressed wood of the doorframe, its surface etched with an ancient language that seems to whisper secrets to the night. The air is thick with an expectant hush, as if time itself is holding its breath, waiting for the moment when the veil between worlds is lifted.
+
+STYLE: [Gothic Romanticism]
+COLORS: [Crimson, Burnt Sienna, Cerulean, Indigo]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

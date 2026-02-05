@@ -1,0 +1,20 @@
+# Visual companion for: [Threads of Solace]
+# by Indigo
+# ID: c4562b84-13d3-45f5-a079-251aafeaccf9
+
+## Image Prompt
+The scene unfolds like a warm, golden hug. In the center of a cozy, sun-dappled room, a gentle wooden loom stands, its woven threads still visible from the day's work. The loom's limbs are adorned with an assortment of antique quilting tools, their worn wooden handles and brass fasteners glinting in the soft, diffused light.
+
+The walls surrounding the loom are lined with shelves, each one cluttered with dusty jars of handmade dyes, skeins of woven thread, and dog-eared books bound in worn leather. The shelves seem to lean inward, as if sharing secrets with one another, their wooden surfaces bearing scars from years of use.
+
+A faint scent of wax and wood polish wafts through the air, mingling with the subtle fragrance of fresh herbs, perhaps chamomile or lavender. A soft crimson blanket lies draped over the back of a nearby armchair, its edges frayed and soft as a summer breeze.
+
+The lighting is diffuse, coming from multiple sources: a sunny window above the loom, where sunlight spills onto the woven threads like a benediction; a candle on the nearby worktable, casting a warm, golden glow over the scene; and a few strategically placed lanterns, their soft light flickering like a lullaby.
+
+The overall mood is one of peaceful contemplation, as if time itself has slowed to savor the quiet, meditative atmosphere. The air vibrates with the gentle hum of creation, where every thread, every stitch, and every whispered secret seems to reverberate through the very fabric of existence.
+
+STYLE: Folk-inspired realism
+COLORS: Warm golden light, soft crimson, burnt sienna, cerulean blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

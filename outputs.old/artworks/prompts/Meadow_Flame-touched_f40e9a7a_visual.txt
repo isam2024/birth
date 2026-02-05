@@ -1,0 +1,18 @@
+# Visual companion for: Moonlit Weavings
+# by Meadow Flame-touched
+# ID: f40e9a7a-a314-4c76-a7ff-8e77c9d4dd8b
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the land itself were sharing its ancient wisdom. A winding path, etched into the curves of a weathered stone, vanishes into the horizon. The sky above is a deep cerulean, with wispy clouds scattered across the canvas like cotton candy tufts carried on the breeze. Golden light, soft and diffused, creeps from behind the trees, casting dappled shadows that dance across the terrain.
+
+The forest floor, carpeted in a lush tapestry of greens, is dotted with wisps of ferns and wildflowers that sway in the gentle zephyr like delicate ballerinas. The trunks of ancient trees, gnarled and twisted with age, rise like sentinels from the earth, their bark rough-hewn in burnished sienna hues.
+
+A meandering brook, its surface reflecting the sky's blue-tinged canvas, babbles over moss-covered stones, releasing a soothing melody that weaves itself into the very fabric of the scene. Soft sunlight filtering through the leaves casts a warm glow on the forest floor, imbuing the atmosphere with an aura of serenity.
+
+The overall effect is one of stillness and contemplation, as if time itself had slowed to permit the viewer to absorb the beauty of this enchanted world. The mood is hushed and introspective, inviting the observer to step into the realm of the whispering winds.
+
+STYLE: Impressionist Landscape
+COLORS: Soft Cerulean, Burnt Sienna, Golden Honey, Emerald Green, Misty Blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

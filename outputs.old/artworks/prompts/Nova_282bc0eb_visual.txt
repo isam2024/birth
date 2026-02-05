@@ -1,0 +1,23 @@
+# Visual companion for: ECHOES IN THE ABYSS
+# by Nova
+# ID: 282bc0eb-fd4e-4707-ae44-b00cf2c1b7a2
+
+## Image Prompt
+The scene unfolds like a dark tapestry, woven from threads of forgotten memories and half-remembered terrors. The subject is shrouded in an amorphous mist that clings to the walls like a damp veil, seeping into every crevice and cranny. The air is heavy with the scent of decay and forgotten dreams.
+
+Crimson-red shadows writhe across the walls like living things, as if the very fabric of reality was being slowly unraveled. Burnt sienna hues cast long, ominous silhouettes across the floor, where faint outlines of furniture seem to shift and twist like restless spirits.
+
+To one side, a lone line stretches out into the distance, a fractured mirror image of itself that seems to fragment and reassemble with each glance. Beside it, a tangle of discarded papers appears to be bleeding into each other, their creases and folds unfolding like a dark, paper-thin origami.
+
+A low-hung lantern casts an eerie glow over the scene, casting long shadows across the walls as if beckoning the viewer deeper into the heart of this twilight realm. The atmosphere is one of creeping unease, where every surface seems to be hiding secrets and every sound could be the whispered promise of a dreadful truth.
+
+The only texture visible is the rough, weathered wood of the lantern's base, its surface bearing scars and scratches like battle wounds.
+
+STYLE: Surrealist Abstract Expressionism
+COLORS:
+- Crimson-red (#660000)
+- Burnt sienna (#A52A2A)
+- Cerulean blue (#45B3FA)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

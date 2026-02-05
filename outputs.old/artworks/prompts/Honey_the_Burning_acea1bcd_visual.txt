@@ -1,0 +1,20 @@
+# Visual companion for: Embers of Silence
+# by Honey the Burning
+# ID: acea1bcd-6382-4ec1-8c2b-fb63ec255cd3
+
+## Image Prompt
+The scene is set in a desolate, liminal landscape where the boundaries between reality and the void are blurred. A rugged, burnt sienna-hued terrain stretches out into the distance, punctuated by twisted, thorn-like shrubs that seem to writhe in agony. In the foreground, a lone figure stands atop a rocky outcropping, gazing out at the viewer with an unflinching intensity.
+
+Crimson sunsets bleed across the sky, casting long shadows that stretch and twist like grasping fingers. The air is heavy with the scent of smoke and decay, as if the very land itself is exhaling a noxious sigh.
+
+In the distance, faint, ghostly silhouettes dance across the horizon, their ethereal forms flickering like candleflames in an unseen breeze. The sky above is a deep, foreboding cerulean, with clouds that seem to sear and scorch the air.
+
+Beneath the figure's feet, a tangle of rusty red wire mesh stretches out, like a skeletal net cast across the earth. Thorns and twigs are woven into this mesh, forming an intricate web of twisted metal and organic matter.
+
+The overall mood is one of eerie, mournful despair – as if the very fabric of reality is unraveling before the viewer's eyes.
+
+STYLE: Dark Surrealism
+COLORS: Burnt Sienna (#E67E73), Crimson Red (#8B0A1A), Cerulean Blue (#455A64), Rusty Red (#FF0033)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Raven
+# ID: da64a924-d04f-43ca-a15d-9c62f16d8699
+
+## Image Prompt
+Image Prompt:
+
+"Vaguely rendered symbols drift across a weathered, parchment-like surface, overlapping and intersecting in a slow, spiraling dance. Faded, umber tones bleed into one another, evoking the patina of age and neglect. Delicate filigree patterns weave together in organic, curved lines, punctuated by subtle ridges that evoke the textures of worn wood or ancient stone. The symbols' shapes are both fluid and angular, as if drawn from the wind itself. The surface is beset by a scattered array of strange, glinting fragments: shards of crystal, wisps of dried vine, and fragments of something like glass."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

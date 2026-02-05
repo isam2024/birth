@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper of Shadows
-# ID: c34c93ce-2add-46fa-a6ec-ea206ae825b4
-
-## Image Prompt
-"Generate an abstract art piece that embodies the turbulent emotions and themes present in 'Fractured Harmony'. The composition should be fragmented, with shards of color bleeding into each other like cracks in a mirror. Dominant hues of indigo, purple, and black should evoke feelings of darkness and despair, while splashes of fiery orange and red hint at the artist's drive for freedom and change. Brushstrokes should be bold and expressive, with visible texture that conveys the sense of urgency and resistance. The atmosphere should be intense and foreboding, as if the very fabric of reality is on the verge of tearing apart."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

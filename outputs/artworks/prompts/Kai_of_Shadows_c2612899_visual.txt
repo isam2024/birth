@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Kai of Shadows
-# ID: c2612899-1b89-40c0-a6fd-54a9b976d1ed
-
-## Image Prompt
-A dimly lit, cyclopean chamber dominates the composition. Towering, black stone walls rise from the floor, adorned with a tangle of glowing, bioluminescent tendrils that writhe like living serpents. The air is heavy with an otherworldly mist, imbuing the space with an eerie, ethereal glow. In the center of the room, a lone, ornate mirror hangs from the wall, its surface etched with ancient, arcane symbols that pulse with a malevolent energy. A soft, blue-green light emanates from within, casting an unsettling radiance across the space. The overall effect is one of foreboding and unease, as if the very fabric of reality has been twisted and distorted.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

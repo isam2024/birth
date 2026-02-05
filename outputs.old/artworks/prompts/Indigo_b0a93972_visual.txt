@@ -1,0 +1,18 @@
+# Visual companion for: *Whispers in the Hearth
+# by Indigo
+# ID: b0a93972-b6c3-44fc-ab54-c9af746d7a76
+
+## Image Prompt
+The scene unfolds as a warm, golden light seeps through the worn wooden beam above, casting a gentle glow upon the room. The walls, adorned with rich, crimson-red tapestries, seem to absorb and reflect the light, imbuing the space with a sense of comfort and security. A plush, burnt sienna-colored rug lies at the center of the room, inviting all who enter to settle in and linger.
+
+A crackling fire, its flames dancing with a soft, blue-orange light, dominates one corner of the space, casting a warm, cozy ambiance over the gathering. The air is thick with the scent of wood smoke and baking bread, transporting all who breathe it in to a state of tranquility.
+
+As the eye wanders across the room, it alights upon a patchwork quilt, its squares stitched together with love and care, in hues of muted greens, soft peaches, and creamy whites. The intricate patterns seem to tell stories of their own, whispering secrets of laughter, tears, and late-night conversations.
+
+In the background, a collection of vintage trinkets and family heirlooms line the shelves, each one imbued with a history and significance that only reveals itself when looked at closely. The atmosphere is heavy with tradition, community, and the quiet comfort of shared moments.
+
+STYLE: Traditional Realism
+COLORS: Warm golden light, crimson-red tapestries, burnt sienna-colored rug, blue-orange firelight, wood smoke scent, muted greens, soft peaches, creamy whites.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

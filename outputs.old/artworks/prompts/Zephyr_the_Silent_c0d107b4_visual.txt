@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: c0d107b4-2c5f-4837-8600-0fa317ae34c0
+
+## Image Prompt
+A worn, black leather suitcase sits alone on a cluttered, gray subway platform. The suitcase's metal handle is twisted into an awkward, unnatural curve, as if it had been bent by some unseen force. A faint, golden glow emanates from the zipper, casting a warm light on the surrounding shadows. To one side of the suitcase, a forgotten ticket lies crumpled and discarded, its colors muted to a dull brown. The platform's walls seem to close in around the suitcase, forming a sense of claustrophobic confinement.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,20 @@
+# Visual companion for: Burning Solace
+# by Zephyr the Silent
+# ID: 39c1c7eb-285d-45a4-88d2-5e7b9fe9bf26
+
+## Image Prompt
+The scene unfolds like a charred and weathered facade, as if the very walls of a once-burning home have been scorched by the fiercest of flames. The structure's skeletal frame rises from the ashes, its beams and girders twisted and blackened, like the darkened limbs of a tree ravaged by winter's fury.
+
+The sky above is a deep, foreboding indigo, with wispy tendrils of smoke curling upwards like skeletal fingers, as if beckoning the heavens to witness the transformation. A faint crescent moon glows on the horizon, casting an ethereal light upon the ruin.
+
+In this desolate yet strangely serene landscape, wisps of crimson and burnt sienna bleed across the horizon, mingling with the grey ash that blankets the ground like a shroud. The air is heavy with the scent of smoke and damp earth, transporting all who behold it to a place both haunting and beautiful.
+
+To one side, the skeletal frame of a once-majestic door appears, its surface scorched and cracked, as if the very soul of the building had been torn asunder by some cataclysmic event. The wooden planks, now twisted and distorted, seem to writhe in agony, like a living thing.
+
+The overall atmosphere is one of sorrowful renewal, as if the darkness has given way to an unsettling light, casting long shadows across the cracked earth. In this somber yet strangely redemptive world, a sense of rebirth and transformation hangs precariously in the balance.
+
+STYLE: Charcoal and mixed media
+COLORS: Burnt sienna, crimson, indigo, smoldering grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

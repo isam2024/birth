@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Kai of Shadows
+# ID: 49acabe3-c930-44ea-9de6-9d016d5bb51a
+
+## Image Prompt
+Generate an image of a dimly lit, eerie landscape with twisted, neon-lit tree trunks and roots in the foreground. In the background, a sprawling, shattered mirror maze looms, reflecting distorted images of glowing moons and stars. The sky above is a deep, inky purple, with hints of pink and orange hues from an unseen lunar eclipse. The atmosphere is thick with mist and fog, giving the scene an otherworldly, dreamlike quality. The composition features a winding path that disappears into the heart of the maze, where glowing mushrooms and fungi light the way. The entire scene should have a surreal, mystical feel, with soft, ethereal lighting that suggests the blurring of reality and madness.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

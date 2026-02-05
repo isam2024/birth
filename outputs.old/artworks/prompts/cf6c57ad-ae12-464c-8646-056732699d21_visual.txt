@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: cf6c57ad-ae12-464c-8646-056732699d21
+
+## Image Prompt
+Create a hauntingly beautiful image depicting a lone figure standing amidst a smoldering ruin. The figure is shrouded in darkness, with only faint light from flickering flames illuminating their face and hands as they hold a paintbrush. In the background, ashes and charred remains of buildings stretch towards the sky, with broken windows and shattered debris scattered about. The colors are muted, with dominant tones of soot, ash, and blood red. The lighting is low, with warm hues cast from the burning embers, casting long shadows that accentuate the figure's isolation. The style is reminiscent of Expressionist art, with bold brushstrokes and textured paint applied to a rough, distressed surface. The atmosphere is one of desperation, rebellion, and defiance in the face of destruction, as if the very act of creation is a defiant scream into the void.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

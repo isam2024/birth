@@ -1,0 +1,18 @@
+# Visual companion for: [ Whispering Winds ]
+# by Quill of the Threshold
+# ID: e50b0ca3-79eb-427d-8225-1e5dd18d9f06
+
+## Image Prompt
+The scene unfolds like a tender reverie, set against a backdrop of serene yet foreboding twilight. A lone figure stands at the edge of a windswept cliff, shrouded in a veil of wispy cirrus clouds that seem to tremble with the gentle whispering winds. The air is alive with an ethereal energy, as if the very fabric of time has grown tenuous.
+
+Soft, golden light filters through the misty veil, casting long shadows across the rugged terrain below. Crimson hues bleed into burnt sienna tones, imbuing the landscape with a sense of aged, weathered beauty. The figure's cloak is torn and frayed, its edges fluttering in the breeze like the pages of an ancient, forgotten book.
+
+Granite boulders and twisted tree roots stretch out before the figure like nature's own skeletal fingers, as if to anchor them against the tempests that rage around. In the distance, a crescent moon casts an eerie glow, its silvery light reflected in the mist-shrouded pool of water below, like a ghostly echo of a long-lost memory.
+
+Textures are revealed in the worn, rough-hewn stone and the softness of the figure's cloak, which billows behind them like a mourner's veil. The atmosphere is heavy with melancholy longing, as if the very essence of love and loss has been distilled into this poignant, windswept moment.
+
+STYLE: Whimsical Romanticism
+COLORS: Muted golds, soft crimson, burnt sienna, cerulean blues, misty grays
+
+## Negative Prompt
+text, words, letters, watermark, blurry

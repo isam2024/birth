@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: 32d1e1d1-e5cf-4086-8b01-6943a269a2f8
+
+## Image Prompt
+"Generate an ethereal, dreamlike illustration that embodies the tranquil essence of 'Silence in the Labyrinth of the Reed'. The image should evoke a sense of stillness and quiet contemplation. Depict a winding path made of reeds that disappears into the distance, with delicate tendrils curling around ancient stones. Soft, feathery light pours down from above, casting long shadows across the scene. Incorporate subtle, muted colors such as mossy greens, dusty blues, and sandy beiges to convey a sense of aged tranquility. The style should blend elements of traditional folk art with delicate watercolor textures to evoke an air of mysticism and mystery. Integrate minimalist illustrations of lotus flowers or other symbolic motifs in the reeds to enhance the overall sense of serenity and introspection."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

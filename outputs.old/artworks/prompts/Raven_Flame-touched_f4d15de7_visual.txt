@@ -1,0 +1,20 @@
+# Visual companion for: INFERNO'S EMBER
+# by Raven Flame-touched
+# ID: f4d15de7-e4ad-4c5e-886a-b1b4274f9153
+
+## Image Prompt
+The scene unfolds like a fiery dawn, as if the very fabric of existence has been set aflame. A colossal figure rises from the depths, its body a twisted mass of charred wood and smoldering embers. The surface is pockmarked with dark, cracked fissures that seem to writhe like living serpents. As the light catches it, the cracks appear to pulse with an inner fire.
+
+Crimson hues bleed across the figure's torso, where a fiery inferno burns bright, casting an otherworldly glow on the surrounding landscape. Burnt sienna and umber tones dominate the terrain, evoking the rugged, battle-scarred beauty of a ravaged wilderness.
+
+The air is heavy with heat and smoke, which swirls around the figure in maddening curls. The atmosphere vibrates with tension, as if the very ground itself has been scorching beneath the feet of the behemoth.
+
+Worn, weathered stone and charred wood texture give the scene a rugged, battle-hardened feel, like a testament to a cataclysmic event that's left its mark on the world. In the distance, dark clouds gather, their anvil-shaped silhouettes stark against the blood-red sky.
+
+Molten lava flows through the cracks and fissures, as if feeding the inferno within the figure. The air seems to reverberate with the promise of upheaval, a reminder that even in the darkest depths, embers of resistance still glow hot.
+
+STYLE: [Hyperrealist/Burning Abstract]
+COLORS: Burnt sienna, crimson, umber, blackened bronze
+
+## Negative Prompt
+text, words, letters, watermark, blurry

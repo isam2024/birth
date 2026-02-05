@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Kai of Shadows
-# ID: 001b23ed-3812-41a6-b169-586e05ff5573
-
-## Image Prompt
-Generate an ethereal illustration that evokes the haunting presence of "Fractures in the Haze". The artwork should be rendered in a dreamlike, impressionistic style with muted, desaturated hues to convey the hazy, fragmented nature of the haze. Depict a landscape shrouded in mist, with delicate, wispy tendrils of fog curling around twisted tree branches and shattered stone formations. In the foreground, shards of glass and splintered wood scatter the ground like fallen leaves, evoking the fractured echoes mentioned in the text. Incorporate faint, shimmering light effects to hint at the abyssal void beyond the veil of haze, casting an otherworldly glow on the surroundings. Style: a blend of surrealist and atmospheric abstraction. Color palette: soft blues, greys, mauves, and pale golds, with touches of emerald green to suggest the eerie, unsettling atmosphere.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 6b8fab85-6082-4c4f-9448-291e93263548
+
+## Image Prompt
+Generate an abstract art piece with a dark, ethereal atmosphere, capturing the sense of oppression and silence in "Fractured Silence." The dominant color palette should be muted blues and greys, evoking feelings of melancholy and despair. Incorporate subtle hints of gold or copper to symbolize the weight of apathy and complicity.
+
+Composition: Place a large, distorted mirror at the center of the image, shattered into multiple fragments that reflect shards of darkness. Surrounding the mirror, use delicate brushstrokes to convey the whispers of silenced voices. Depict wispy tendrils of smoke or fog seeping from beneath the surface, suggesting suffocation and entrapment.
+
+Style: Adopt a dreamlike quality, blending elements of abstract expressionism with subtle pop surrealism. Incorporate deliberate imperfections, such as rough textures and smudged edges, to convey a sense of urgency and desperation.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

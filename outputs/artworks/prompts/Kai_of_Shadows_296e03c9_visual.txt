@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Kai of Shadows
-# ID: 296e03c9-fe0e-416e-9f0e-5cb80fb669af
-
-## Image Prompt
-"A labyrinthine corridor stretches into the distance, lined with ancient stone blocks that absorb and reflect flickering candlelight. The air is heavy with dust, and cobwebs cling to forgotten symbols etched into the walls. A figure stands at the center of the image, shrouded in shadows, their face obscured by a hood. The only sound is the soft creaking of wooden beams above, as if the structure itself were exhaling slowly. In the background, faint outlines of arches and pillars suggest a grander architecture, yet the focus remains on the mysterious figure, lost in the depths of the corridor."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

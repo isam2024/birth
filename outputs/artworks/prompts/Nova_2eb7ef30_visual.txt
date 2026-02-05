@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Nova
-# ID: 2eb7ef30-6f10-4271-8c20-1be5a98acad3
-
-## Image Prompt
-"A dimly lit chamber filled with ancient, weathered mirrors hangs suspended from a vaulted ceiling. The mirrors are arranged in a radial pattern, each reflecting and distorting the image of a solitary figure standing at their center. The air is heavy with dust and the faint scent of decay. Iridescent hues bleed into one another, gradating from deep crimson to pale gold. A thin layer of frost coats the mirror surfaces, casting an ethereal sheen on the figures' bodies. Shadows writhe across the walls like living things, as if the very presence of the mirrors is awakening a primordial darkness."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

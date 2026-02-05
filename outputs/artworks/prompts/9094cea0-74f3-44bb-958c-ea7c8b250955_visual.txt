@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Jasper Star-born
-# ID: 9094cea0-74f3-44bb-958c-ea7c8b250955
-
-## Image Prompt
-"Generate an ethereal illustration depicting the silhouettes of dunes at dawn, bathed in a warm, golden light. The sandy forms should stretch towards the horizon like giant, slumbering sentinels, as if awakening from a dream. Soft, feathery brushstrokes and muted colors should evoke a sense of stillness and quiet reverence. Shadows should be long and sinuous, with hints of movement suggesting the dunes are alive. In the distance, a subtle crescent moon glows, casting an otherworldly glow over the landscape. The atmosphere should be hushed and expectant, as if the world is holding its breath in anticipation of a new day."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: _______
+# by Zephyr the Silent
+# ID: 3b8ca42d-fa42-4fbf-9710-0be17143dcc8
+
+## Image Prompt
+The scene unfolds like a dark, velvety shroud, draped over a decrepit, ancient stone wall. The walls themselves appear to be made of worn, cracked limestone, their surface etched with the faintest whispers of vines and moss. In the foreground, a massive, twisted tree looms, its gnarled branches reaching towards the heavens like skeletal fingers. The trunk is scarred and blackened, as if consumed by some cataclysmic fire.
+
+Soft, crimson-hued sunlight seeps through the trees' leafy canopy above, casting long, ominous shadows across the stone floor. This light seems to emanate from a sickle moon hanging low in the sky, its silvery surface reflecting the hues of bruised cerulean and burnt sienna that dominate the palette.
+
+To one side, a scattering of scattered ashes settles upon the ground, as if the tree's charred remnants had been hastily gathered. A small, intricately carved wooden box sits atop this ashfall, adorned with cryptic symbols that seem to writhe like living things in the fading light.
+
+In the background, the outline of a labyrinthine city stretches out into the shadows, its walls and towers dissolving into an indistinct haze like a forgotten dream. The overall effect is one of disquieting beauty, as if the very fabric of reality has been rent apart to reveal hidden truths that lie just beyond the edge of perception.
+
+STYLE: [Hyperrealistic figurative art]
+COLORS: [Crimson, burnt sienna, cerulean, umber]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

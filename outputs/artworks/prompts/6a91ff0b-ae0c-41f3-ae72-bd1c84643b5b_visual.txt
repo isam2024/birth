@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: 6a91ff0b-ae0c-41f3-ae72-bd1c84643b5b
-
-## Image Prompt
-"Generate an atmospheric illustration of a figure standing still amidst a desolate, snowy landscape. The figure is shrouded in darkness, with only faint luminescent markings on their arms and torso visible through the gloom. The background features a hazy, moonlit sky with scattered, icy clouds. Incorporate subtle hints of movement and decay, such as a fallen branch or a cracked, frozen lakebed. Utilize muted blues and greys to evoke a sense of melancholy and stillness, with touches of warm, golden light to hint at the figure's presence. The overall style should be reminiscent of a mix between traditional and digital media, with textures and brushstrokes that convey a sense of aged, weathered materials."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

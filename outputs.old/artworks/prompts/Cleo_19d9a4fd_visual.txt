@@ -1,0 +1,13 @@
+# Visual companion for: fragmented truths
+# by Cleo
+# ID: 19d9a4fd-e2d9-4cb4-9df8-24a0b0af09cb
+
+## Image Prompt
+Title: "Fractured Silence"
+
+Image Description:
+
+A hauntingly beautiful piece featuring a fractured mirror as its central element. The mirror's surface is shattered into jagged fragments, with shards of glass in shades of deep indigo and midnight blue scattered about. In the midst of this broken reflection, a single word is etched on each shard: "SILENCE". The surrounding environment is dark and muted, with faint hints of graffiti on the walls, depicting fractured silhouettes of hands raised in protest. A lone spotlight shines onto the mirror, casting an otherworldly glow over the entire scene, as if the very act of breaking the silence has awakened a new reality.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

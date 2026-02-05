@@ -1,0 +1,17 @@
+# Visual companion for: *BURNING WITH THE TRUTH
+# by Raven Flame-touched
+# ID: 0b7dd934-ae43-4ed7-801c-df7e4d2e848c
+
+## Image Prompt
+In the heart of a desolate underworld, where tenebrous caverns stretch towards the darkness above, a lone figure stands defiantly amidst the shadows. The subject is shrouded in an aura of fiery rebellion, their figure illuminated by a fierce, crimson glow that seeps from the walls themselves. The light emanates from deep within the stone, as if the very essence of the earth has been awakened to fuel this display of resistance.
+
+Tattered, burnt sienna robes billow around the figure's form, casting long, ominous shadows on the cold, dark ground. A halo of fiery cinder surrounds their head, imbuing their features with an otherworldly intensity. Cerulean hues seep from the cracks in the stone floor, like tears of sorrow or regret.
+
+The texture of the walls is rough and unforgiving, as if they've been etched by the very flames that now burn within the figure's being. The air is heavy with the scent of smoke and ash, which wafts through the caverns like a mournful sigh. In the distance, the soft rustle of whispers echoes through the darkness, adding to the sense of unease and foreboding.
+
+The mood of this image is one of fierce determination, tempered by an undercurrent of sorrow and loss. It is as if the very soul of rebellion has taken on a life of its own, burning bright with a fire that cannot be extinguished.
+
+STYLE: Expressionist Abstract
+
+## Negative Prompt
+text, words, letters, watermark, blurry

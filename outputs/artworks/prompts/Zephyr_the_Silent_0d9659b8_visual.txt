@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Zephyr the Silent
-# ID: 0d9659b8-7f0d-4423-af1b-0eb38a589a7f
-
-## Image Prompt
-"A dimly lit, cavernous space is filled with the faint whispers of forgotten memories. The walls are adorned with a tangle of worn, black-and-white photographs, their subjects' faces distorted by time and decay. In the center of the room, a single, flickering candle casts eerie shadows on the walls, illuminating a lone, antique music box. The box's lid is slightly ajar, releasing a faint hum that resonates through the air, as if the melody itself were a mournful sigh. The atmosphere is heavy with the scent of old books and dust, and an unsettling stillness hangs over the scene, like a shroud."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

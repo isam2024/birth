@@ -1,0 +1,18 @@
+# Visual companion for: ECHOES IN THE STILLNESS
+# by Raven
+# ID: 1a01a331-23a6-4bb7-9e1e-5f482b138ed9
+
+## Image Prompt
+In the stillness of a mist-shrouded dawn, a tranquil pond lies before us. The sky above is a deep cerulean, gradating to soft blush hues at the horizon, as if the sun's warmth has yet to fully awaken the day. Water lilies float serenely on the pond's surface, their delicate petals a gentle dance of pale pink and creamy white.
+
+The air is heavy with the scent of damp earth and decaying leaves, carried on the faint breeze that stirs the reeds and rushes. The sunlight filters through the mist, casting an ethereal glow across the water. Crimson ripples distort the surface, as if the pond's depths are whispering secrets to the sky.
+
+The surrounding landscape is a tapestry of textures: weathered stone, moss-covered logs, and the soft rustle of ferns in the underbrush. A lone willow branch stretches from the shore, its delicate fingers splayed across the water like an outstretched hand. The atmosphere is heavy with contemplation, as if time itself has slowed to a crawl.
+
+As the light dances across the pond's surface, it awakens the subtle play of shadows and reflections. The willows' leaves shimmer like molten gold, while the water lilies seem to pulse with a soft, blue-green light. In this fleeting moment, all seems right with the world.
+
+STYLE: Impressionist
+COLORS: Soft blues (cerulean, sky blue), pale pinks, creamy whites, muted greens (sage, moss), warm browns (burnt sienna, cedar), and golden touches of sunlight on water lilies.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

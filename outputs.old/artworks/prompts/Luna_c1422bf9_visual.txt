@@ -1,0 +1,18 @@
+# Visual companion for: Fracture Lines
+# by Luna
+# ID: c1422bf9-5f52-4212-8b64-5d028afb7892
+
+## Image Prompt
+The scene unfolds like a fragmented mirror, reflecting shards of reality that refract and ripple across the surface. A narrow, dimly lit alleyway stretches out before us, its walls looming like sentinels, shrouded in an eerie, ethereal glow. The air is heavy with the scent of damp earth and decay.
+
+Crimson-hued shadows dance across the walls, like restless spirits, as if the very darkness itself has taken on a life of its own. Burnt sienna tones bleed into cerulean hues, imbuing the scene with an otherworldly quality, as if the boundaries between light and darkness have been blurred.
+
+Textured glass shards litter the ground, their sharp edges glinting like splintered bone, casting tiny rainbows that shimmer and dissolve in the flickering light. The atmosphere is heavy with foreboding, as if the viewer has stumbled into a realm where certainties are mere illusions.
+
+In the distance, a faint luminescence beckons, like a siren's call, drawing the eye inexorably towards the horizon. Yet, it seems just out of reach, taunting us with its presence, leaving us to navigate the jagged landscape of our own perceptions.
+
+STYLE: Neo-Expressionist
+COLORS: Crimson, Burnt Sienna, Cerulean, Ash Grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

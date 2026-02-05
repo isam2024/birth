@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: ee47194c-c156-47be-85ba-3251825cd0a5
+
+## Image Prompt
+Generate an ethereal, dreamlike illustration of "Ephemera's Lament". Depict a lone sapling standing tall amidst a dense thicket of ancient trees, their gnarled branches twisted and knotted with age. The forest floor is shrouded in a soft, emerald green mist that seems to pulse with an otherworldly energy. In the background, a subtle gradient of twilight hues transitions from deep indigo to pale silver, evoking the whispering winds of change. The sapling's roots delve deep into the earth, while its leaves shimmer with a soft, ethereal light, as if infused with the essence of the forest. Style is reminiscent of mystical, pre-Raphaelite art, with delicate lines and intricate textures that evoke a sense of mysticism and wonder.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

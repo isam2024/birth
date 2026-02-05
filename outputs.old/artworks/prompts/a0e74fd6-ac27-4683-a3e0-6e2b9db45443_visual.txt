@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: a0e74fd6-ac27-4683-a3e0-6e2b9db45443
+
+## Image Prompt
+"Generate an eerie, dreamlike illustration of Zephyr the Silent standing at the edge of a desolate, dark landscape. The sky is a deep, foreboding indigo, with stars twinkling like cold, dead eyes. In the foreground, twisted, gnarled trees reach towards the sky, their branches grasping like skeletal fingers.
+
+Zephyr stands in the center, shrouded in darkness, her features obscured by shadows. Her presence is hinted at, rather than seen, as if she's a whispered rumor or an unseen force. The air is heavy with an unsettling energy, and the atmosphere is thick with an otherworldly silence.
+
+The color palette should be muted, with shades of dark grey, indigo, and sickle moonlight casting an eerie glow. The style should be hauntingly beautiful, like a painting by an unknown artist. Incorporate subtle hints of demonic presence, such as faint outlines or whispers in the wind."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

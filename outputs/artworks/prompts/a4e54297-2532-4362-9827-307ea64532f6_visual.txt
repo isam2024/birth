@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Rowan
-# ID: a4e54297-2532-4362-9827-307ea64532f6
-
-## Image Prompt
-"Generate an abstract expressionist visual companion to 'Fracture Lines.' The piece should evoke a sense of tension and resistance amidst systemic decay and oppression. A muted color palette with bursts of fiery reds and oranges will dominate the composition, symbolizing the spark of defiance and the flames of rage. Thick, textured brushstrokes and bold geometric shapes will convey the chaos and disorder, while subtle hints of cracks and fissures will underscore the fragility of the system. In the center, a fractured mirror or shattered glass will represent the brokenness and the need for reflection. The atmosphere should be intense, urgent, and rebellious, as if the very fabric of society is on the brink of collapse."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

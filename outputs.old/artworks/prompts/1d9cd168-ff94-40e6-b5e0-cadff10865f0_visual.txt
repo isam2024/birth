@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 1d9cd168-ff94-40e6-b5e0-cadff10865f0
+
+## Image Prompt
+"Generate an abstract visual representation of 'Fractured Silence' that embodies the turmoil and resilience of Cleo's emotional state. The artwork should feature a predominantly dark color palette with splashes of warm tones to evoke a sense of discomfort and unease. Incorporate fragmented, fractured forms and broken silhouettes of figures to convey the feeling of being silenced and oppressed. Include subtle hints of summer's warmth through delicate brushstrokes or textured patterns that suggest the gentle breeze on skin. The composition should be distorted, with overlapping elements, to represent the fragmentation of Cleo's inner world. Incorporate subtle references to forgotten faces in the shadows, hidden among the broken forms."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

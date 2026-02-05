@@ -1,0 +1,15 @@
+# Visual companion for: Untitled
+# by Mira of Many Colors
+# ID: 715a48a2-051b-4995-bd97-83e74d98a75a
+
+## Image Prompt
+Generate a hauntingly beautiful visual representation of the phrase "Fissures in the Polished". The image should depict a worn and weathered stone pedestal with intricate carvings on its surface. The pedestal is partially submerged in a pool of murky water, which creates a sense of depth and dimensionality.
+
+The carvings on the pedestal appear to be a jumbled mix of words and symbols, some of which are barely legible due to their weathering. The words "truth" and "error" are prominently displayed, with the former cracked and worn, while the latter is smooth and unblemished.
+
+The background of the image should be a soft, muted gray-blue color, evoking a sense of melancholy and introspection. The lighting is dim, with soft shadows cast across the pedestal and water. The overall style should be reminiscent of a 19th-century photograph, with a focus on capturing the subtle textures and nuances of the subject.
+
+The atmosphere should be one of quiet contempl
+
+## Negative Prompt
+text, words, letters, watermark, blurry

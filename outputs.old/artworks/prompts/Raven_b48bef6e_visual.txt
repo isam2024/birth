@@ -1,0 +1,16 @@
+# Visual companion for: ECHOES IN THE ABYSS
+# by Raven
+# ID: b48bef6e-3819-477e-8070-1ea72b640b68
+
+## Image Prompt
+The scene unfolds like a misty dawn, with the soft glow of cerulean light seeping through a latticework of intricately woven branches. The subject is set against a backdrop of rich, burnt sienna hues, evoking the warmth and depth of a well-weathered stone. Delicate tendrils of grayish-green foliage spill across the canvas like the gentle lapping of waves on a serene lake.
+
+The central figure stands at the edge of a tranquil pool, its surface reflecting the celestial vault above with perfect clarity. The surrounding air is heavy with the scent of damp earth and decaying leaves, as if the very essence of autumn had been distilled into this singular moment. Soft, feathery brushstrokes in crimson paint dance across the water's surface, imbuing the scene with a sense of ethereal movement.
+
+In the foreground, the rusting remains of an ancient gate stand sentinel, its weathered steel and crumbling stone exuding a poignant silence. The wooden supports seem to sag under the weight of years, as if bearing the secrets of the ages. The atmosphere is heavy with contemplation, inviting the viewer to linger in this stillness.
+
+STYLE: Impasto
+COLORS: Burnt sienna, cerulean blue, crimson, grayish-green, and weathered steel
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 89dbdb32-4b41-4db2-b38c-ed62416b9f66
+
+## Image Prompt
+"Fragmented Reflections: A shattered mirror lies on a worn, wooden table, its fragments scattered across the floor. The mirror's surface is cracked and distorted, with shards reflecting multiple, fragmented versions of myself. In the background, a blurred cityscape dissolves into chaos, as if societal norms are unraveling. Warm, golden light spills from the cracks, illuminating the fractured glass and casting long shadows that stretch like tentacles across the floor. The air is thick with dissonant whispers, as if the siren's call echoes through every crevice of perception. A faint, ghostly outline of a figure can be seen in the background, shrouded in mist, suggesting the provisional nature of reality is exposed."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

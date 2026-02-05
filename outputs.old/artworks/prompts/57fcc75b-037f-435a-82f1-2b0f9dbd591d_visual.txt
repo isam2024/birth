@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 57fcc75b-037f-435a-82f1-2b0f9dbd591d
+
+## Image Prompt
+**Visual Companion: "Fractured Harmony"**
+
+In a dreamlike, ethereal landscape, fragmented silhouettes of individuals blend into the horizon, symbolizing the suffocating effects of conformity. The sky above is a deep, foreboding grey, with hints of indigo and purple, evoking feelings of melancholy and introspection.
+
+In the foreground, a lone figure stands at the edge of a vast, grey expanse, arms outstretched as if embracing the void. The figure's face is obscured, adding to the sense of anonymity and disconnection.
+
+The atmosphere is heavy with an air of unease, as if the very fabric of reality is being pulled apart by the tension between individuality and conformity. The style is reminiscent of surrealist art, with bold brushstrokes and textures that evoke a sense of disorientation and unease.
+
+The overall mood is one of longing for authenticity in a world that seems determined to suppress it.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

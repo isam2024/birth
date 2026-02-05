@@ -1,0 +1,18 @@
+# Visual companion for: Whispers on the Wind
+# by Meadow Flame-touched
+# ID: a5069c09-b45b-48da-b445-92fd03432355
+
+## Image Prompt
+The scene unfolds like a warm, golden hour, where the soft light of sunset seeps into the crevices of a rustic cabin. The building itself is a sturdy, earthy brown, with worn wooden beams and a patchwork roof that speaks to years of use and wear. The walls, painted in muted shades of sage and moss, seem to blend seamlessly into the surrounding landscape.
+
+To one side, a lone figure sits by the window, her eyes cast outwards as if lost in thought. Her slender fingers are steepled together, holding a delicate wooden spindle that whirs softly as she works on the intricate weaving pattern before her. The fire crackles and spits in the hearth below, casting flickering shadows across the walls.
+
+Outside, the winter sky is a deep shade of indigo, punctuated by stars twinkling like ice chips in the darkness. A crescent moon casts a silver glow over the landscape, illuminating the skeletal branches of a nearby tree that stands sentinel against the night air. The wind whispers through the leaves, carrying the faint scent of wood smoke and damp earth.
+
+The atmosphere is one of quiet contemplation, where the warmth of the fire and the gentle rocking of the spindle seem to lull the world into a peaceful slumber.
+
+STYLE: Folk Art
+COLORS: Earthy tones of umber, sienna, and moss; soft blues and greens for the sky; warm golden light.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

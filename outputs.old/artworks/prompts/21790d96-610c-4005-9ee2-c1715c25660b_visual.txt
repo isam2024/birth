@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 21790d96-610c-4005-9ee2-c1715c25660b
+
+## Image Prompt
+"Echoes of Revolution" Visual Companion
+
+Generate an abstract, surreal landscape with crumbling architectural structures and fragmented geometric shapes, evoking a sense of chaos and disorder. Dominant hues should be muted blues and greys, with splashes of fiery oranges and yellows to represent the "chaos" within.
+
+Composition: Fragmented buildings and cityscapes are scattered across the canvas, with disjointed lines and curves creating a sense of disorientation. In the center, a large crack in the ground emits a vibrant orange glow, symbolizing the rise of chaos.
+
+Style: Inspired by Cubism and Abstract Expressionism, with bold brushstrokes and textures that convey the intensity of the revolution. Incorporate subtle hints of decay and neglect, as if the very foundations of society are crumbling.
+
+Atmosphere: Emphasize the feeling of unease and uncertainty, as if the viewer is trapped in a world on the brink of collapse. The colors should be rich and vivid, with an underlying sense
+
+## Negative Prompt
+text, words, letters, watermark, blurry

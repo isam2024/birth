@@ -1,0 +1,18 @@
+# Visual companion for: EMBER OF THE SOUL
+# by Raven
+# ID: b420473d-bb6b-4701-9516-10320c67b3ed
+
+## Image Prompt
+In the heart of a winter's twilight, a lone figure sits amidst the remnants of a bygone era. The subject is shrouded in shadows, yet an ethereal glow emanates from the space beside them, where a delicate ember nestles in a bed of crimson velvet. The fire's gentle warmth illuminates the surrounding environment, imbuing it with a sense of nostalgia and longing.
+
+Soft, golden light spills from above, as if the sun had broken through the veil of night to bless this isolated refuge. The rays dance across the space, casting an otherworldly glow on the surrounding artifacts: ancient tomes bound in worn leather, mysterious crystals nestled within delicate glass cases, and whisper-thin strands of ivy curling around weathered wooden supports.
+
+Burnt sienna hues creep into the atmosphere, imbuing the scene with a sense of earthy melancholy. The velvet drapes and intricately patterned rugs display subtle signs of wear, while the fire's warm light highlights the tiny wisps of smoke that weave through the air like delicate brushstrokes on a canvas.
+
+A tapestry hangs behind the figure, its colors muted to shades of cerulean and moss green, as if trying to keep pace with the changing hues of the room. The overall effect is one of serene intimacy, where the flickering flame serves as both warmth and reminder that even in the darkest times, there remains a light – a beacon calling us toward the promise of renewal.
+
+STYLE: Mystical Realism
+COLORS: Burnt sienna, crimson velvet, cerulean blue, moss green, golden light.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: RIFT
+# by Wren of Many Colors
+# ID: ebb7fffb-ddc5-4d60-9ad2-0f8e8d60bc4b
+
+## Image Prompt
+The scene unfolds like a shattered mirror, shards of color and light reflecting off the broken surface. The dominant hue is crimson, bleeding from the cracks like wounded flesh. Burnt sienna and umber accents echo the earthy tones of decay and neglect. In contrast, cerulean blue whispers secrets from the depths, its presence both calming and unsettling.
+
+Soft candlelight casts an ethereal glow on the scene, as if flames of resistance flicker just beyond the edge of perception. Shadows dance across the cracked surface, like dark waves crashing against the shore. The air seems to vibrate with tension, heavy with the weight of suppressed emotions.
+
+Textures abound: rough, tactile edges give way to smooth glassiness, as if the very surface has been molded by some unseen force. In the distance, wispy tendrils of smoke waft, carrying the scent of burning pages and forgotten memories.
+
+A sense of unease pervades this dissonant landscape – a feeling that the silence is not merely broken, but reimagined in ways both fierce and terrible. The atmosphere is heavy with anticipation, as if the very fabric of reality has been torn apart to reveal a hidden truth.
+
+STYLE: Expressionist Abstraction
+COLORS: Crimson (#8B0A1A), Burnt Sienna (#A0522D), Cerulean (#4567B7)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

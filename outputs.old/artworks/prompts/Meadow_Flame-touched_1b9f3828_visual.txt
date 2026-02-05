@@ -1,0 +1,18 @@
+# Visual companion for: Whispers on the Woven Wind
+# by Meadow Flame-touched
+# ID: 1b9f3828-e1b9-4032-8f42-8c4723dc260b
+
+## Image Prompt
+The scene unfolds like a tranquil morning mist, veiling the landscape in an ethereal hush. A lone figure stands at the edge of a lush meadow, cloaked in a warm, golden light that seeps from the horizon. The sun's gentle warmth caresses the skin, imbuing it with a soft, rosy glow. Delicate petals - perhaps wildflowers or morning glories - sway gently in the breeze, as if dancing to an unheard melody.
+
+The atmosphere is alive with whispers of embers, wispy tendrils of smoke that drift lazily on the wind, leaving trails of faint crimson in their wake. The air is heavy with the scent of damp earth and new life. In the distance, a wooden fence stretches towards the sky, its weathered planks bearing the gentle weight of age.
+
+In the foreground, the figure's hand rests upon a gnarled stone bench, worn smooth by countless hands that have come before. The surface is rough beneath their touch, but the skin above seems smooth as alabaster. A frayed rope lies coiled at their feet, like a quiet promise to stay awhile.
+
+As the eye travels upwards, it meets the gaze of the figure, soft and unassuming, yet alive with a deep connection to the land and its rhythms. The atmosphere vibrates with a sense of stillness, a quiet reverence for the beauty that surrounds them.
+
+STYLE: Impressionist
+COLORS: Soft pink, burnt sienna, cerulean blue, golden brown
+
+## Negative Prompt
+text, words, letters, watermark, blurry

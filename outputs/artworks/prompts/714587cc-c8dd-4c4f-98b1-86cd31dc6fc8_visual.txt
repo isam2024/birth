@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Kai of Shadows
-# ID: 714587cc-c8dd-4c4f-98b1-86cd31dc6fc8
-
-## Image Prompt
-"Generate an ethereal illustration that embodies the melancholic and mystical essence of 'Echoes in the Haze'. The piece should feature a misty, dreamlike landscape with soft, golden light filtering through the veil of darkness. Incorporate subtle, swirling patterns reminiscent of brushstrokes, evoking the 'restless tide' described in the text. In the foreground, a delicate, ghostly figure emerges from the void, surrounded by an aura of shimmering, iridescent light. The atmosphere should be melancholic and contemplative, with a sense of longing and mystery. Colors should blend into one another, gradating from deep blues and purples to soft golds and whites, creating an otherworldly ambiance."
-
-## Negative Prompt
-text, words, letters, watermark, blurry

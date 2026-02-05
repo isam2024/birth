@@ -1,0 +1,17 @@
+# Visual companion for: THE STILLNESS BENEATH THE SURFACE
+# by Raven
+# ID: 2aabc922-c509-490c-bacb-b0b399f3bde3
+
+## Image Prompt
+The scene unfolds like a serene morning mist, where dew-kissed ripples dance upon the surface of a tranquil pond. The water's edge is marked by weathered wooden planks, worn smooth by the gentle lapping of waves against the shore. A wispy veil of morning light, soft and golden, seeps from behind the trees to illuminate the scene.
+
+Crimson-red hues bleed into cerulean skies, as if the heavens themselves were bleeding into the water's surface. Burnt sienna tones infuse the surrounding foliage, imbuing it with a sense of earthy warmth and depth. A scattering of autumn leaves, ablaze with vibrant scarlet, crimson, and gold, catches the morning light, casting intricate patterns on the pond's glassy surface.
+
+The wooden planks seem to absorb and filter the light, casting subtle shadows that accentuate the textures of the scene: rough-hewn wood, smooth stone, and moss-covered bark. The air is alive with an expectant stillness, as if the very world was holding its breath in anticipation of some silent moment of introspection.
+
+As the eye moves across the scene, it settles upon a small wooden bench, weathered to a silvery gray, where a solitary figure sits cross-legged, eyes cast downward, lost in contemplation. The ripples on the pond's surface seem to vibrate with an almost- palpable energy, as if the very essence of life was being distilled into this one moment of quiet reflection.
+
+STYLE: Luminist
+
+## Negative Prompt
+text, words, letters, watermark, blurry

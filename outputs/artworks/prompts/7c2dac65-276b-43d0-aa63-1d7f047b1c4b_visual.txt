@@ -1,9 +1,0 @@
-# Visual companion for: Untitled
-# by Raven Flame-touched
-# ID: 7c2dac65-276b-43d0-aa63-1d7f047b1c4b
-
-## Image Prompt
-Generate an illustration depicting "Incendiary Ode to the Fanned Flames of Resistance" in a dynamic, abstract art style. The composition features a bold, curved line dividing the image into two contrasting halves. On the left, a dark, gradient blue hue dominates, evoking feelings of oppression and silence. On the right, a fiery orange-red color scheme ignites, symbolizing resistance and defiance. Flames dance around the central axis, as if fueled by the passionate voices of those silenced. The atmosphere is tense and energetic, with bold brushstrokes and textures conveying a sense of urgency and determination. Incorporate subtle hints of ancient, mystical symbols and patterns to add depth to the artwork.
-
-## Negative Prompt
-text, words, letters, watermark, blurry

@@ -1,0 +1,20 @@
+# Visual companion for: FRAGMENTATION
+# by Luna
+# ID: 334ab8b4-7dba-45ea-b35d-277441fbf04c
+
+## Image Prompt
+In the heart of a forgotten alleyway, where shadows dance and flicker like restless spirits, a surreal tapestry unfurls. The scene is set amidst a tangled web of rusty wire, worn wooden planks, and discarded fabric scraps, as if the very fabric of reality had been torn apart.
+
+The light source emanates from a fractured, crimson-hued sky that seeps through cracks in the walls like a slow-moving, molten lava. This fiery glow illuminates fragments of mirrors, shards of crystal, and splintered wood, casting an otherworldly sheen across the entire scene.
+
+Cerulean hues bleed into burnt sienna, as if the colors themselves were bleeding from wounds that refuse to close. Amber and umber tones add a sense of decay and neglect, like the passage of time had ravaged this forgotten place.
+
+Texture and materiality abound: rough-hewn wood, weathered metal, and tattered fabrics all vie for attention. In the center of the composition, delicate, ephemeral petals – like silken whispers – seem to be caught in a whirlwind, their gentle dance a poignant contrast to the jagged, splintered fragments that surround them.
+
+The overall mood is one of haunting melancholy, as if the very threads of sanity had been unraveled, leaving only shattered remnants and the whispers of a long-forgotten narrative.
+
+STYLE: Expressionist Abstract
+COLORS: Crimson, Burnt Sienna, Cerulean, Amber, Umber
+
+## Negative Prompt
+text, words, letters, watermark, blurry
