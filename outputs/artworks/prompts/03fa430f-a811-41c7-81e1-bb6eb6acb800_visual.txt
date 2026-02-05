@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: 03fa430f-a811-41c7-81e1-bb6eb6acb800
+
+## Image Prompt
+Generate an abstract, surreal landscape with fractured lines and cracks radiating from the center, evoking a sense of oppressive stillness. The dominant colors should be muted, with shades of grey, blue, and purple dominating the palette. Incorporate subtle textures that resemble worn, weathered stone or concrete.
+
+In the foreground, depict a subtle, yet powerful, gradient of light emanating from the cracks, symbolizing resistance and revolution. Surrounding this central image, scatter smaller, stylized fragments of broken glass, shattered mirrors, or torn fabric, conveying the shattering of illusions and the fragmentation of societal norms.
+
+The overall atmosphere should be one of eerie, unsettling calmness, as if the very foundations of power are being exposed and challenged. Use bold brushstrokes, geometric shapes, and abstract patterns to create a dreamlike quality that lingers in the viewer's mind long after the piece is created.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

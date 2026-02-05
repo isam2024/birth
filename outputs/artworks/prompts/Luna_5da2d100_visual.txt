@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 5da2d100-74df-4364-9da6-fbaf70c27018
+
+## Image Prompt
+"Echo Chamber"
+
+A muted, grayscale room with worn, cream-colored walls and peeling paint. A single, flickering fluorescent light hangs above a weathered, wooden desk. On the desk, a collection of mismatched typewriter keys are strewn about, some still clinging to their metal rings, while others have fallen to the floor. The keys appear to be tangled in a web-like pattern, as if they're trying to reconnect or form new relationships. In the corner, a small, stackable bookshelf holds a few dog-eared volumes with torn pages and loose sheets of paper, their contents spilling out onto the floor like scattered thoughts.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

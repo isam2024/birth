@@ -1,0 +1,15 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 02682342-66af-4dcb-acf9-cbb57beced84
+
+## Image Prompt
+**Visual Companion: Fragment 209**
+
+Generate an abstract expressionist artwork that embodies the themes of surrender, disillusionment, and self-discovery. The piece should feature a muted color palette with dominant shades of indigo, grey, and blue, evoking a sense of melancholy and introspection.
+
+The composition should be fragmented, with scattered shapes and lines that evoke the "fragments of control" mentioned in the text. Twisted, organic forms should dominate the foreground, as if they are emerging from the cracks and fissures. In the background, a soft, gradient sky should bleed into the void, representing the abyss of one's own making.
+
+The overall style should be reminiscent of abstract expressionist masters like Pollock or Rothko, with bold brushstrokes and textured layers that convey a sense of turmoil and emotional depth. The atmosphere should be somber and contemplative, inviting the viewer to reflect on their own relationship with control and surrender.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

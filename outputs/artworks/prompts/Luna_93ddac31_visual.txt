@@ -1,0 +1,20 @@
+# Visual companion for: FRAGMENTATION OF REALITY
+# by Luna
+# ID: 93ddac31-cdb5-4d45-b148-b24f1d48114b
+
+## Image Prompt
+The image is a hauntingly beautiful still life of two shattered mirrors, lying on a worn, crimson-red velvet cloak that stretches out like a dark, blood-stained canvas. The mirrors, once gleaming and smooth, now lie in fragments, their edges razor-sharp and unforgiving. The shards seem to stretch out like skeletal fingers, as if grasping for something just out of reach.
+
+Soft, golden light spills from the top left corner of the frame, casting an eerie glow on the broken glass. The light is warm, yet it carries a hint of menace, like the soft whisper of a warning. The source of the light remains hidden, lost in the shadows that writhe across the walls like living things.
+
+Burnt sienna and umber hues dominate the cloak, while cerulean blue and gold leaf accents add an air of opulence to the overall design. The materials are rough-hewn and tactile – the velvet has a soft, plush pile that invites touch, while the glass shards glint with tiny, sharp edges.
+
+As one's gaze travels across the image, it becomes clear that something is off-kilter, that the reflections in the broken mirrors seem to be warped and distorted. The atmosphere is heavy with foreboding, as if the very act of looking has awakened a presence lurking just beyond the edge of perception.
+
+The entire scene seems to vibrate with tension, like the whispered promise of secrets waiting to be uncovered. In the gaps between the shattered glass, the viewer catches glimpses of dark, formless shapes – shadows that seem to move and twist in the flickering light.
+
+STYLE: Surrealist Photography
+COLORS: Crimson red, burnt sienna, cerulean blue, gold leaf
+
+## Negative Prompt
+text, words, letters, watermark, blurry

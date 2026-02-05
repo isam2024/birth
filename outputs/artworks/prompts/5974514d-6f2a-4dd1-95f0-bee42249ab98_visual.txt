@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: 5974514d-6f2a-4dd1-95f0-bee42249ab98
+
+## Image Prompt
+"Generate an ethereal, dreamlike scene depicting a solitary figure standing amidst a decaying forest. The subject, a woman with long, flowing hair and an earthy-toned complexion, is shrouded in mist that clings to her skin like the weight of seasons past. In the background, twisted tree branches and gnarled roots writhe like living vines, as if the very essence of the forest is in decay. Soft, muted hues of sienna, umber, and moss dominate the color palette, with touches of misty blue and purple to evoke an otherworldly atmosphere. Incorporate subtle, hand-drawn textures to convey the organic, decaying nature of the surroundings."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

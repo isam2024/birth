@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: 5cc8d291-aeec-4578-9f83-216054389492
+
+## Image Prompt
+"Generate an image inspired by 'Echoes in the Rot,' a contemplative and introspective piece. Depict a twisted, gnarled tree with branches that seem to be unraveling like threads of a tapestry. The trunk should be weathered and covered in moss, with roots bursting forth from the earth like dark, organic tendrils. The sky above should be a muted, decaying grey, with wispy clouds that evoke the idea of release and liberation. Incorporate subtle hints of decay and rot throughout the image, such as crumbling stone or withered leaves. Use a mix of digital painting and collage elements to create a dreamlike, ethereal atmosphere. Emphasize textures and patterns to convey the themes of growth, decay, and interconnectedness."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

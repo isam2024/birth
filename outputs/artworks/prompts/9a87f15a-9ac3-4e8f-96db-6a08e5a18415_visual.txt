@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 9a87f15a-9ac3-4e8f-96db-6a08e5a18415
+
+## Image Prompt
+"Generate an abstract, mixed-media artwork that embodies the themes of resistance, activism, and empowerment. The piece should have a predominantly dark, rich color palette with splashes of bold, vibrant hues. Incorporate fragmented shapes and lines to convey a sense of disjointedness and rebellion.
+
+The composition should resemble a fractured mirror, reflecting multiple perspectives and breaking free from oppressive structures. Include stylized symbols, like broken chains or scales of justice, woven throughout the artwork. The overall atmosphere should be intense, dynamic, and emotionally charged. The style should blend elements of graffiti, street art, and abstract expressionism to convey a sense of urgency and collective energy. Incorporate subtle texture overlays to add depth and tactility to the piece."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

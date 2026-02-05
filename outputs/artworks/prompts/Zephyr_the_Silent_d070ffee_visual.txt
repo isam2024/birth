@@ -1,0 +1,20 @@
+# Visual companion for: Fractured Silences
+# by Zephyr the Silent
+# ID: d070ffee-b7d4-4043-8bc2-8189356da8ac
+
+## Image Prompt
+The scene unfolds like a ravaged dreamscape, where fragments of shattered psyche bleed into the desolate terrain. The subject stands at the edge of a barren wasteland, surrounded by the skeletal remains of forgotten memories. Crimson-hued sunlight casts an eerie glow upon the scene, as if to taunt the viewer with the flickering promise of hope.
+
+In the distance, the skeletal silhouette of what once may have been a majestic tree now lies broken and still, its branches like nature's own macabre sculpture. The air is heavy with the scent of damp earth and decay, as if the very land itself is exhaling a collective sigh of sorrow.
+
+To the left, shards of glass pierce the ground like jagged splinters, their fractured surfaces reflecting the cerulean sky above in a dizzying dance of light and shadow. The rough-hewn texture of aged stone is visible beneath, worn smooth by the relentless passage of time.
+
+Closer to the subject, the weathered wood of an abandoned door seems to lean precariously against the trunk of what was once a mighty tree, its surface etched with the scars of countless storms and winters. A tumble of dusty pages lies strewn about the ground, their edges curled like the lips of the long-departed.
+
+The overall effect is one of haunting desolation, as if the very foundations of the soul have been rent asunder. The light, soft and diffused, imbues the scene with a melancholy air, underscoring the fragile balance between ruin and renewal.
+
+STYLE: Expressionist Realism
+COLORS: Burnt sienna, cerulean, crimson, umber, weathered wood
+
+## Negative Prompt
+text, words, letters, watermark, blurry

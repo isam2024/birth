@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: d2ac8093-7f2b-4b22-a00c-be0df92e6195
+
+## Image Prompt
+Image Prompt:
+
+"Against a deep, fiery crimson background, a sprawling cityscape emerges from the shadows. Buildings of worn stone and weathered steel stretch towards the horizon, their windows like empty eyes staring back. Amidst the urban decay, a burst of vibrant green erupts from the cracked pavement - tendrils of vines snaking through shattered glass, entwining rusty metal, and curling around crumbling facades. In the foreground, a figure stands resolute, arms outstretched as if embracing the chaos, their skin a warm, golden brown that seems to glow in defiance. A sprinkle of scattered papers and torn billboards flutter behind them, like confetti caught in the wind."
+
+ Style: Combines gritty realism with vibrant pop art elements.
+
+ Colors: Deep crimson, burnt orange, weathered steel, greenery, and warm golden tones.
+
+ Composition: The figure dominates the image, while the cityscape fades into the background, emphasizing their presence and defiance.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

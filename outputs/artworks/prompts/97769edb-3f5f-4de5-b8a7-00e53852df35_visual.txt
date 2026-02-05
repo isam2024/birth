@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Kai of Shadows
+# ID: 97769edb-3f5f-4de5-b8a7-00e53852df35
+
+## Image Prompt
+"Generate an ethereal, dreamlike illustration that captures the essence of Kai's experience during the lunar eclipse. Depict a misty, moonlit landscape with twisted, glowing neon mushrooms (inspired by the "sentinels of the unknown") scattered throughout. The mushrooms should be arranged in a spiral pattern, evoking a sense of whirling vortex. Incorporate subtle, shimmering starlight and a crescent moon hanging low in the sky. Use muted blues and purples to evoke a sense of mystery and otherworldliness. The style should be reminiscent of ancient, mystical artifacts and symbolism. The atmosphere should be hazy and dreamlike, with an emphasis on texture and depth. Incorporate Kai's figure (barely visible or incorporated into the scene) as a blurred, shadowy presence, symbolizing their connection to the mystical energies surrounding them."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

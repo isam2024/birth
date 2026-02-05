@@ -1,0 +1,15 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: fef3cd73-008c-48cb-8a27-a93ad30b434c
+
+## Image Prompt
+"Fractures in the Fabric" Visual Companion
+
+Generate an abstract, mixed-media piece that embodies the themes of resistance, self-discovery, and the struggle for authenticity. The composition should evoke a sense of fragmentation and tension, with bold brushstrokes and vibrant colors.
+
+At the center of the image, depict a stylized, torn fabric with visible threads and frayed edges, symbolizing the "fractures in the fabric of our lives." Surrounding this focal point, weave a web of fragmented silhouettes, each representing an individual's inner turmoil and struggle for self-expression.
+
+In the background, a deep, burnt orange hue should dominate, evoking feelings of warmth, intensity, and urgency. The overall atmosphere should be one of dynamic tension, as if the very fabric of reality is being torn apart by the power of the human spirit.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

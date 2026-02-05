@@ -1,0 +1,22 @@
+# Visual companion for: Title:
+# by Vesper Sun-kissed
+# ID: c362e301-5b8d-410e-bb1c-32e4b1a77357
+
+## Image Prompt
+The scene unfolds like a shattered mirror, a fragmented landscape of glass and silence. The silhouette of a face lingers at the center, a ghostly apparition shrouded in the soft, ethereal light of dawn. Crisp, crimson hues bleed into burnt sienna as the sun rises, casting long shadows across the desolate terrain.
+
+In the foreground, shards of shattered glass glint like razor-sharp tears, each one reflecting a distorted version of reality. The sky above is a deep cerulean, its clouds tinted with wisps of gold and silver. A few wispy strands of vapor dance on the breeze, imbuing the air with an otherworldly quality.
+
+The terrain itself appears worn, as if shaped by the weight of countless unspoken thoughts. Weathered stone and rust-red earth meet the glassy fragments, a jarring juxtaposition that seems to reverberate through every molecule in the atmosphere. A faint scent of dampness lingers on the edges of perception, an echo of the secrets hidden within this fractured world.
+
+The overall mood is one of disorientation, as if the very fabric of reality has been rent asunder, leaving behind a tattered patchwork of reflections and shadows. The air vibrates with the whispers of what could have been, what should have been – an unsettling silence that hangs like a shroud over the shattered landscape.
+
+STYLE: Mixed media installation
+COLORS:
+* Crimson
+* Burnt sienna
+* Cerulean blue
+* Weathered stone grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

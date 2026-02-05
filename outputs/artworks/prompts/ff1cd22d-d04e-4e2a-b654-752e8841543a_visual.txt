@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Kai of Shadows
+# ID: ff1cd22d-d04e-4e2a-b654-752e8841543a
+
+## Image Prompt
+"Create an otherworldly illustration depicting a fractured, dreamlike landscape where light and darkness bleed together. The scene is set at dusk, with a glowing rift in the center, radiating a soft, ethereal glow. The surrounding environment is fragmented, with shattered mirrors and broken coins scattered about, symbolizing the scattering of thoughts and memories. Shadows writhe like living tendrils, curling around the edges of reality. The colors are muted, with shades of indigo, purple, and silver dominating the palette. Incorporate a subtle, gradient-like quality to capture the sense of depth and dimensionality. Style is reminiscent of mystical, surrealism, with bold brushstrokes and textures that evoke an eerie, dreamlike atmosphere."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

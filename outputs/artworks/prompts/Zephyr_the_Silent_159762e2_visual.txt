@@ -1,0 +1,9 @@
+# Visual companion for: Fractured Echoes
+# by Zephyr the Silent
+# ID: 159762e2-c2d8-4f2f-8f90-d66865327a3a
+
+## Image Prompt
+A fragmented figure stands at the edge of a desolate landscape, its body broken into irregular shards that reflect the pale blue-gray sky above. The shards are arranged like shattered glass, each one etched with subtle, swirling patterns in shades of indigo and silver. In the background, the silhouette of a twisted tree stretches towards the horizon, its branches grasping for the fragmented figure like skeletal fingers. The atmosphere is heavy with an eerie, unnatural silence, as if the very air itself has been drained of sound and vitality.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

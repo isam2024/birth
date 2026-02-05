@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 784bf13e-f0d2-47fc-a307-df1a18f0afb4
+
+## Image Prompt
+"Generate an ethereal, dreamlike illustration that embodies the fragmented nature of 'Fractured Hymns'. Depict a figure suspended amidst a swirling vortex of grey mist, surrounded by shattered glass shards and dust particles. The figure's face is reflected in a cracked mirror at their feet, with shards of light piercing through the opacity. Incorporate subtle, discordant lines and shapes to evoke a sense of dissonance and unease. Use soft, pastel colors and an abstracted, ethereal style reminiscent of surrealist art. The atmosphere should be melancholic and introspective, conveying the fragility of identity and the search for truth. Incorporate gentle, whispery textures to convey the echoes of dissent in the figure's mind."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

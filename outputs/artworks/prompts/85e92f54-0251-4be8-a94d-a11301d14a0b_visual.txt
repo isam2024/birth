@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: 85e92f54-0251-4be8-a94d-a11301d14a0b
+
+## Image Prompt
+**Fracture Lines**
+
+Generate an abstract, dreamlike illustration that embodies the themes of complacency, disconnection, and rebellion. The composition features a distorted, broken mirror as the central element, with fragmented glass shards and cracked reflections stretching outward in multiple directions. Soft, pale hues of blue and grey dominate the palette, evoking a sense of melancholy and detachment.
+
+The mirror's surface is cracked, revealing glimpses of reality beneath: threads, fibers, and tendrils that seem to be unraveling, as if the very fabric of society is tearing apart. In the background, a hazy cityscape dissolves into darkness, symbolizing the erosion of perceptions and the blurring of lines between truth and illusion. The overall atmosphere should be one of unease and discomfort, inviting the viewer to confront the fragility of our understanding.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Cleo
+# ID: 3e84e81c-5f85-420d-9252-cc32dcc0d4e6
+
+## Image Prompt
+Generate an image of two intersecting lines, one slightly cracked and worn, forming the shape of a seedling emerging from a rocky surface. The seedling's tendrils are twisted and fragile, yet resilient. In the background, a rugged landscape with twisted rock formations and dark crevices stretches towards the top left corner. The sky above is a deep, foreboding grey, with wispy clouds that evoke a sense of unease. The overall atmosphere should convey tension and resilience. Use muted earthy tones such as grays, browns, and tans for the rock formations and seedling, while the rocky surface near the seedling could have subtle hints of green to suggest growth. Soft, natural light should highlight the delicate lines of the seedling, casting long shadows that accentuate its vulnerability.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

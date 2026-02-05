@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Indigo
+# ID: 5166becd-7387-4849-b222-0ca673931a66
+
+## Image Prompt
+Here is a detailed image generation prompt:
+
+"Create a serene and contemplative underwater scene. The focal point should be a person (faceless) sitting upright on the ocean floor, surrounded by darkness that slowly gives way to soft, blue-green light. The person's body should be wrapped in a flowing, transparent cloak that ripples gently in the current. To one side, a small flame flickers to life, casting warm, golden light on the surrounding environment. The flame is surrounded by schools of tiny fish swimming around it, creating a sense of movement and life. In the background, undulating seaweed-like structures rise from the darkness, with delicate sea fans and coral formations scattered throughout. Soft, pastel hues should dominate the color palette, with muted blues and greens creating a calming atmosphere. The overall mood should be one of stillness, calm, and introspection, with an emphasis on gentle light and serene textures."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

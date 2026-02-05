@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: d77caf91-3f43-4d13-90ca-4d9d7ee9a90e
+
+## Image Prompt
+"Generate an abstract, dreamlike scene that embodies the emotions and themes evoked by 'MEMENTO TORMENTI'. The artwork should feature a mix of muted, desaturated colors with flashes of vibrant, unsettling hues. In the center, depict a figure shrouded in darkness, surrounded by shattered mirrors, their reflections fragmented and distorted. The atmosphere should be heavy with foreboding, as if the very fabric of reality is unraveling. Incorporate wispy, ethereal tendrils of light and shadow to suggest the presence of anxiety and emptiness. Use bold brushstrokes and textures to convey a sense of unease and disorientation. Consider incorporating subtle hints of melancholy and despair in the figure's posture and expressions."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

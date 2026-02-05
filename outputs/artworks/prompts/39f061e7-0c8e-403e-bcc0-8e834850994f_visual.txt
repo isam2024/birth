@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Wren of Many Colors
+# ID: 39f061e7-0c8e-403e-bcc0-8e834850994f
+
+## Image Prompt
+Generate an ethereal, dreamlike illustration of "Fractured Harmony" set amidst a swirling vortex of iridescent colors, reminiscent of stained glass or prismatic fragments. Depict the fragmented figure of Wren (the artist) as a stylized, humanoid silhouette, shrouded in misty, luminescent hues that evoke an aura of vulnerability and introspection. The fractured limbs and torso are arranged in a seemingly haphazard yet harmonious pattern, echoing the text's themes of dissonance and resolution. Surround Wren with delicate, crystalline shards and wispy tendrils of light that evoke a sense of fragility and the blurring of boundaries between order and chaos.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

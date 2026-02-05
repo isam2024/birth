@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: a31b811b-d98f-43ff-87aa-e854b0584ba5
+
+## Image Prompt
+Generate an eerie, dreamlike scene depicting Zephyr, shrouded in darkness, standing at the edge of a vast, desolate abyss. The figure is reduced to a mere silhouette against the blackness, with only faint echoes of their presence lingering in the air.
+
+The background is a gradient of deep blues and purples, evoking a sense of foreboding and melancholy. Shattered glass and splintered mirrors line the ground, reflecting distorted images of the abyss's depths. Flickering, ethereal lights dance across the horizon, casting an otherworldly glow on Zephyr's form.
+
+Style: Dark, Gothic realism with subtle hints of surrealism. Colors: predominantly dark blues and purples, with splashes of cold silver and gray. Atmosphere: heavy with foreboding, as if the very fabric of reality is unraveling before the viewer's eyes. Composition: Zephyr stands at the edge of the abyss, lost in contemplation, while
+
+## Negative Prompt
+text, words, letters, watermark, blurry

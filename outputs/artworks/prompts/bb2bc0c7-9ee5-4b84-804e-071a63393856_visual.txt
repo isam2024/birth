@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: bb2bc0c7-9ee5-4b84-804e-071a63393856
+
+## Image Prompt
+Generate an ethereal, dreamlike illustration that complements the fractured, mystical tone of **Fractured Illuminations**. The image should feature a serene, moonlit landscape with twisted, gnarled trees looming in the distance. Soft, wispy clouds drift across a deep blue sky, punctuated by flickering, luminescent strands that resemble broken glass or shattered starlight. In the foreground, a lone figure stands at the edge of a fractured mirror, surrounded by shards of glass and a halo of eerie, pulsing light. The style should be reminiscent of old-world mysticism and ancient alchemy, with an emphasis on muted, jewel-toned colors and subtle, ghostly textures that evoke a sense of otherworldly wonder.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

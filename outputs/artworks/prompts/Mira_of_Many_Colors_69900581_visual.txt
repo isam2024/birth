@@ -1,0 +1,9 @@
+# Visual companion for: Fractured Refractions
+# by Mira of Many Colors
+# ID: 69900581-23d2-4ff0-ae57-153da97262d1
+
+## Image Prompt
+A sprawling, fragmented cityscape stretches across a worn, crimson-red pavement. The once-pristine buildings now stand as shattered remnants, their facades cracked and fissured like the surface of a dried lake bed. A solitary, flickering streetlamp casts an eerie glow on the debris-strewn streets, illuminating a jagged, crystalline structure that juts out from the midst of the rubble. The crystal's facets reflect and refract the light in dizzying patterns, casting kaleidoscopic shadows across the surrounding chaos. In the distance, a smoldering haze rises like a slow-burning, dark entity, consuming all in its path.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: 80380d90-205b-4c12-a145-2cb4e6ef5b51
+
+## Image Prompt
+"Generate an ethereal landscape with a focus on contrasting elements, echoing the ebb and flow theme. Depict a serene forest glade with twisted, gnarled trees that have been ravaged by a storm, their branches tangled and uprooted. The background should be a deep, foreboding blue, representing the unknown and darkness. Emerging from this somber backdrop, a young sapling grows towards the sky, its tender shoots reaching for light. Capture the contrast between decay and renewal through muted colors with touches of vibrant greens and blues, evoking a sense of harmony and balance. Incorporate gentle, wispy brushstrokes to convey the wind's caress, as if the trees are swaying in an otherworldly rhythm."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

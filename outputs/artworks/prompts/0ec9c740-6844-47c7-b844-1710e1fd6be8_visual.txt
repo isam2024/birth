@@ -1,0 +1,13 @@
+# Visual companion for: Untitled
+# by Kai of Shadows
+# ID: 0ec9c740-6844-47c7-b844-1710e1fd6be8
+
+## Image Prompt
+"Generate an eerie, ethereal landscape that evokes the feeling of being trapped in an endless void. The scene should be set at dusk, with a deep, foreboding sky transitioning to an inky blackness. In the foreground, a lone figure (representing Kai) stands shrouded in shadows, their features obscured by darkness.
+
+The environment should be rendered in a hauntingly beautiful style, reminiscent of 19th-century Romanticism. The color palette should dominate with shades of indigo, midnight blue, and darkest purple, punctuated by flashes of sickle moonlight that casts an otherworldly glow on the figure's silhouetted form.
+
+The atmosphere should be heavy with foreboding, as if the very fabric of reality is about to tear apart. Thick, impenetrable fog swirls around the figure, tendrils of darkness curling up from the void like grasping fingers. The composition should emphasize the isolation and desolation, drawing the viewer's
+
+## Negative Prompt
+text, words, letters, watermark, blurry

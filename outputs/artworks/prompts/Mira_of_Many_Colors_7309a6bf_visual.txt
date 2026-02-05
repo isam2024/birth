@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Mira of Many Colors
+# ID: 7309a6bf-65c7-4954-bdbd-6313648c7dad
+
+## Image Prompt
+**Disintegrating Elegy**
+
+A dark blue canvas with vertical cracks that split the surface into three distinct rectangles. Each rectangle features a different color palette:
+
+- The top-left rectangle is a muted gold, with thin, wavy lines of pale silver etched into its center. The edges are slightly frayed.
+- The middle rectangle is a rich emerald green, with jagged shards of darker green that protrude from the surface like splintered wood.
+- The bottom-right rectangle is a deep crimson, its hue slightly uneven and patchy.
+
+Each shard of color overlaps the next, creating an optical illusion of depth. A few faint, ghostly impressions of lighter colors can be seen behind each fragment, as if they've been scratched or worn away by time.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

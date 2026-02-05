@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: 3dc0b74d-679e-4779-a32f-47d1241315a6
+
+## Image Prompt
+Generate an abstract, expressionist painting with fractured geometric shapes and fragmented lines, evoking the theme of societal cracks. Depict a cityscape at dusk, with buildings that seem to lean inward, as if under pressure. Use muted, cool-toned colors such as blues and grays to convey a sense of detachment and isolation. Incorporate subtle, shimmering metallic accents to hint at the artificiality of societal facades. The composition should be fragmented, with shapes overlapping and colliding, like broken mirrors reflecting distorted versions of reality. Consider incorporating texture and brushstrokes that convey a sense of urgency and disintegration, as if the very foundations of society are crumbling.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

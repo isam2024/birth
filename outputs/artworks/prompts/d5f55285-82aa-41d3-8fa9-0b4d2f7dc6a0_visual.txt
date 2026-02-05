@@ -1,0 +1,15 @@
+# Visual companion for: Untitled
+# by Wren of Many Colors
+# ID: d5f55285-82aa-41d3-8fa9-0b4d2f7dc6a0
+
+## Image Prompt
+I'd be delighted to generate an image companion for "Fracture Lines"!
+
+**Image Generation Prompt:**
+
+Create a mixed-media digital artwork that embodies the turbulent spirit of Wren's poetry. The piece should feature a fragmented cityscape with cracked concrete, shattered glass, and torn fabric, symbolizing the shattering of complacency and the emergence of resistance. Vibrant colors bleed through the cracks, echoing the artist's "many colors." Incorporate abstract shapes and bold brushstrokes to convey the emotions of turmoil and liberation.
+
+Background: A warm, golden light with subtle gradient effects, evoking a sense of sunset or dawn, when new beginnings unfold. Composition: Fractured silhouettes of city structures, buildings, and streetlights emerge from the cracks, as if Wren's voice is bursting forth. The dominant colors should be an explosion of blues (teal, cobalt, indigo) with splashes of warm hues (orange, yellow, pink). Style: Express
+
+## Negative Prompt
+text, words, letters, watermark, blurry

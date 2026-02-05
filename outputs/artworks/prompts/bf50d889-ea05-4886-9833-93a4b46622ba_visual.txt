@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: bf50d889-ea05-4886-9833-93a4b46622ba
+
+## Image Prompt
+Generate an image of a figure in the foreground, with fragmented self-portraits scattered around them on the floor. The figure's reflection is distorted and shattered, like broken glass, with shards of themselves seemingly pulled apart at different angles. In the background, a labyrinthine corridor made up of mirrors seems to stretch infinitely, creating a sense of disorientation and claustrophobia. The walls are painted a deep, rich gray, and the floor is a stark white, contrasting sharply with the fragmented glass-like reflections. Soft, warm lighting casts an eerie glow on the scene, accentuating the emotional intensity and turmoil. The overall style should be reminiscent of a dark, Expressionist painting, with bold brushstrokes and vivid colors that evoke a sense of unease and disquiet.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

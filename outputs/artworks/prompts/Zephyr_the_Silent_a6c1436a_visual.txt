@@ -1,0 +1,21 @@
+# Visual companion for: SHADOWMAP
+# by Zephyr the Silent
+# ID: a6c1436a-6dd7-4655-b8dc-3a533972e504
+
+## Image Prompt
+The scene unfolds like a fractured mirror, reflecting shards of turmoil and unease. A decrepit, crumbling mansion looms in the distance, its facade shrouded in an eerie, crimson-hued mist that seems to seep from the very walls themselves. The air is heavy with the scent of damp earth and decay.
+
+In the foreground, a tangled web of black and white lines stretches across the ground, evoking the sensation of exposed nerve endings or shattered glass. The intersecting shapes appear to writhe and twist, like living serpents slithering through the underbrush. Here and there, splatters of burnt sienna paint suggest bursts of violence, as if some unseen force has torn through the air.
+
+Cerulean skies above seem to whisper secrets to the darkness below, yet cast no definitive shadows. Instead, the light source – a faint, sickly glow emanating from within the mansion's decaying heart – casts an otherworldly pallor upon the entire scene. The overall effect is one of disorientation and discomfort, as if the viewer has stumbled into a realm where reality is tenuous at best.
+
+The texture of the lines appears almost three-dimensional, imbuing the scene with a tactile quality that invites the viewer to reach out and touch the twisted metal that seems to pulse with an inner life. In this disquieting landscape, unease reigns supreme.
+
+STYLE: Dark Expressionism
+COLORS:
+- Burnt Sienna (#E67E73)
+- Cerulean Blue (#4567B7)
+- Crimson Red (#8B0A1A)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

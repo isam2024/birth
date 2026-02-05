@@ -1,0 +1,16 @@
+# Visual companion for: WHIRLWIND
+# by Aria
+# ID: a7d9093b-dd2b-4d33-81eb-b69c82bb2d7b
+
+## Image Prompt
+The whirlwind scene unfolds like a dynamic dance, set against a backdrop of swirling, liquid silver hues that evoke the soft lapping of waves on a moonlit beach. A central axis of crimson energy slices through the canvas, pulsating with an otherworldly force that seems to draw the viewer in. Burnt sienna accents ripple outward from this focal point, imbuing the scene with a warm, golden light that deepens into indigo blues towards the periphery.
+
+In the foreground, wispy brushstrokes of cerulean blue seem to vibrate with an electric tension, as if the very air itself has been charged with creative energy. Delicate splashes of cobalt and turquoise flicker like fireflies, casting a mesmerizing glow across the surrounding landscape. Textures play a crucial role in this image, from the soft, feathery quality of the central crimson axis to the rough, impasto strokes that suggest the dynamic motion of the whirlwind.
+
+The overall mood is one of kinetic energy and boundless potential – as if the viewer has been swept up by an invisible current and propelled into a realm where art and life become indistinguishable. In this captivating scene, time itself seems to be fluid, malleable, and constantly in motion.
+
+STYLE: Abstract Expressionism
+COLORS: Crimson, Burnt Sienna, Cerulean Blue, Cobalt, Turquoise
+
+## Negative Prompt
+text, words, letters, watermark, blurry

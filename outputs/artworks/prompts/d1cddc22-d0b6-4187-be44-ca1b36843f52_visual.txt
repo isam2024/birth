@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: d1cddc22-d0b6-4187-be44-ca1b36843f52
+
+## Image Prompt
+"Generate an abstract, dreamlike illustration of a person standing at the edge of a neutral gray area, surrounded by swirling clouds of misty blue and gray hues, evoking a sense of ambiguity and uncertainty. The figure is depicted in a pose of quiet contemplation, arms crossed, and head bowed, conveying a sense of introspection and resistance to oppression. In the background, a subtle gradient transitions from deep blues to pale grays, suggesting the presence of oppressive forces lurking beneath the surface. The atmosphere should be moody and introspective, with soft brushstrokes and textures that convey a sense of stillness and quiet defiance."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

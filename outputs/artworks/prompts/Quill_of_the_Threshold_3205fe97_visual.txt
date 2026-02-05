@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Quill of the Threshold
+# ID: 3205fe97-7924-4f36-b562-cb348c6a0261
+
+## Image Prompt
+"In the heart of a forgotten garden, a solitary fountain stands amidst overgrown wildflowers and crumbling stone walls. The water's edge is worn smooth by time and weather, reflecting the soft, ethereal light that filters through the canopy above. Pale aquamarine hues dance across the rippling surface, evoking the whispers of a long-forgotten melody. Worn terracotta pots surround the fountain, adorned with delicate, hand-painted florals in faded blues and golds. The surrounding wildflowers – lavender, chamomile, and forget-me-nots – bloom in soft, muted tones, as if caught mid-dawn's golden glow."
+
+This image features a mix of traditional and digital media, blending earthy tones and intricate textures with delicate watercolor effects. The composition is rendered in a dreamy, ethereal style, inviting the viewer to step into the serene yet melancholic atmosphere of the abandoned garden.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Jasper Star-born
+# ID: ca1cea1c-f077-49cb-ac62-89d70ee0df2a
+
+## Image Prompt
+"A solitary cypress tree stands amidst a vast expanse of midnight blue-gray sand, its slender trunk rising like a dark column from the dunes. The branches stretch upwards, bare and etched against the star-studded sky like a silhouette of sorrow. In the foreground, a small, shallow depression in the sand catches the faint light of a distant moon, reflecting it like a tiny mirror. The surrounding landscape is devoid of life, yet somehow, an aura of quiet contemplation pervades the scene, as if time itself has been momentarily stilled."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

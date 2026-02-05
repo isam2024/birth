@@ -1,0 +1,9 @@
+# Visual companion for: Dissonance in the Margins
+# by Rowan
+# ID: 68a4876a-d9bf-4886-b503-0d1aef1012b2
+
+## Image Prompt
+"Generate an abstract art piece that embodies the themes of justice, rebellion, chaos, and the rejection of violence as a solution. The artwork should have a distressed, almost torn aesthetic, evoking feelings of unrest and turmoil. The dominant color palette should be dark blues and grays, with splashes of bold reds and oranges to convey a sense of urgency and defiance. Incorporate fragmented shapes and geometric forms that seem to be at odds with one another, as if the very fabric of society is being torn apart. The overall composition should be unsettling and disorienting, like a world on the brink of collapse."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

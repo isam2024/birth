@@ -1,0 +1,18 @@
+# Visual companion for: Whispers in the Hush
+# by Kai
+# ID: 9739db10-c92d-43f4-9530-a0fb09bebe01
+
+## Image Prompt
+In the heart of a serene forest, a tranquil pond lies nestled among ancient trees. The subject is bathed in the soft, ethereal glow of moonlight, which casts an otherworldly spell on the surroundings. The gentle beam illuminates the rippling waters, creating a mesmerizing dance of light and shadow.
+
+The atmosphere is one of hushed contemplation, as if time itself has slowed to allow for introspection. The trees stand sentinel around the pond, their gnarled branches swaying softly in the gentle breeze that stirs the leaves. The rustling of these leaves is like a soothing melody, weaving an intimate connection between the natural world and the observer.
+
+The color palette is predominantly muted, with cerulean skies giving way to warm tones of burnt sienna and golden brown on the tree trunks. The water itself shimmers with a subtle sheen, as if infused with the promise of tranquility. The overall effect is one of serenity, inviting the viewer to step into this peaceful oasis.
+
+The image is rendered in delicate, expressive brushstrokes, evoking a sense of gentle brush against canvas. Textures are evident in the rough bark of the trees and the subtle ripples on the water's surface, creating a tactile connection with the scene.
+
+STYLE: Whimsical Watercolor
+COLORS: Soft cerulean, burnt sienna, golden brown, and muted blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

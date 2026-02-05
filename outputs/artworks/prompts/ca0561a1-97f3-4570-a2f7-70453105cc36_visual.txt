@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Kai of Shadows
+# ID: ca0561a1-97f3-4570-a2f7-70453105cc36
+
+## Image Prompt
+Generate an ethereal, dreamlike illustration that embodies the fragmented and fractured nature of "Fractured Illuminations." Depict two overlapping, inverted spirals (∞) set against a dimly lit, gradient blue-purple background. The left spiral is rendered in soft, muted gray tones, symbolizing darkness and matter, while the right spiral shimmers with an otherworldly, iridescent glow, representing chaos and doubt. Incorporate subtle, wispy tendrils of light piercing through the void between the spirals, evoking the sense of seeping darkness into the mind. The composition should be surreal and dreamlike, with a focus on capturing the eerie, unsettling atmosphere that permeates the text piece.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

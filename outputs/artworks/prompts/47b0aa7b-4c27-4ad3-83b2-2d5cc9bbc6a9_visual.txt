@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: 47b0aa7b-4c27-4ad3-83b2-2d5cc9bbc6a9
+
+## Image Prompt
+Generate an eerie, surreal landscape with twisted, organic forms that evoke a sense of despair and desperation. The sky is a deep, foreboding crimson, with thick, grey clouds that seem to writhe and twist like living tendrils. In the foreground, a figure lies broken and still, surrounded by scattered, charred remains of what once was. The air is heavy with smoke and ash, casting a sickly yellow glow over the desolate scene. Incorporate distorted, abstract shapes that seem to pulse with a malevolent energy, as if the very soul itself is in torment. Use muted, earthy tones and deliberate brushstrokes to convey a sense of unease and dread.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Raven
+# ID: 6764f17c-4240-4830-b842-ab566817b77c
+
+## Image Prompt
+"Generate an ethereal, dreamlike illustration of a serene lake at dusk, with misty veil rising from its surface. The water's edge is lined with weathered tree branches that stretch towards the sky like nature's own cathedral. Soft, feathery brushstrokes in shades of indigo and lavender evoke the whispering voice. The atmosphere is one of hushed contemplation, with an air of mystery. Incorporate subtle ripples on the surface, suggesting the quiet movement of life beneath. In the background, a crescent moon casts a silvery glow, symbolizing clarity and insight. Style should be reminiscent of watercolor or ink wash, with delicate textures that evoke the stillness and quiet reverence of the text."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

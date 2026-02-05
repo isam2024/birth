@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: 017d0f3f-5f10-4449-a739-17c874b42e38
+
+## Image Prompt
+"Generate an abstract, surreal landscape featuring fragmented, broken words and letters suspended in mid-air, as if they are being torn apart by an unseen force. Incorporate a predominantly dark color palette with flashes of discordant, neon hues to evoke the feeling of dissonance and chaos. The composition should resemble a shattered mirror, with shards of text reflecting off each other like shards of glass. Amidst this cacophony, a faint glow emanates from a small, empty space in the center, symbolizing the void left by failed communication. Include subtle hints of silence as dark, featureless voids, underscoring the idea that it's not an option. Style should be reminiscent of abstract expressionism, with bold brushstrokes and textures to convey a sense of urgency and emotional intensity."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

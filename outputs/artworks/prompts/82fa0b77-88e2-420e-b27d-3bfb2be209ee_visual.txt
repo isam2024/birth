@@ -1,0 +1,11 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: 82fa0b77-88e2-420e-b27d-3bfb2be209ee
+
+## Image Prompt
+"Generate an eerie, atmospheric illustration that embodies the sense of being lost in the void. Depict a dimly lit, abandoned chamber with crumbling stone walls and a low ceiling, hinting at a long-forgotten history. The dominant color palette should be a muted blend of blues and greys, evoking a feeling of desolation and despair. Incorporate subtle, swirling shadows to create an unsettling sense of movement within the space.
+
+At the center of the image, incorporate a faint, glowing light source - perhaps a lone candle or a flickering flame - casting an ethereal glow on the walls. Include scattered, fragmented objects and whispers of forgotten knowledge etched into the stone. Style should blend traditional mediums with digital textures to convey a sense of age and decay."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

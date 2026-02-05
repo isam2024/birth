@@ -1,0 +1,20 @@
+# Visual companion for: ECHOES IN THE TWILIGHT
+# by Jasper Star-born
+# ID: d0fcba06-d098-4993-b2c4-24bb44880543
+
+## Image Prompt
+In the heart of twilight, where shadows stretch like skeletal fingers across the canvas, a fragmented world is revealed. The subject lies shrouded in an eerie, blue-green light that seeps from the void above, as if the darkness itself has been infused with an otherworldly glow. Crimson hues bleed into burnt sienna tones, casting long, sinuous shadows that writhe like living tendrils.
+
+The forms are disjointed and fractured, as if shattered glass scattered on a dusty floor. Cerulean blue pools in the recesses of the scene, reflecting and distorting the light, creating an illusion of depthlessness. The textures of weathered wood, worn stone, and tangled vines writhe across the surface, evoking a sense of organic decay.
+
+In the distance, wispy clouds are tinted with mauve and gold, as if set aflame by an invisible fire. The air vibrates with the whispers of secrets carried on the wind, which sends shivers through the silvery light that clings to the jagged edges of reality. Amidst this surreal landscape, a quiet, haunting beauty lingers, like the fading echoes of a forgotten melody.
+
+STYLE: Hyperrealistic, Expressionist
+COLORS:
+- Deep blues and greens (cerulean, cobalt)
+- Burnt sienna, umber, and ochre for warmth and depth
+- Crimson and garnet for accents of light and energy
+- Mauve and gold for the whispered secrets in the distance
+
+## Negative Prompt
+text, words, letters, watermark, blurry

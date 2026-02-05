@@ -34,10 +34,7 @@ ENV/
 
 # Project specific
 data/birth.db
-data/personas/*.json
 data/personas copy/
-data/drops/
-outputs/
 logs/
 *.log
 

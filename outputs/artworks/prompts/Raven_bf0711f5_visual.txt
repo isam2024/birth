@@ -1,0 +1,19 @@
+# Visual companion for: Untitled
+# by Raven
+# ID: bf0711f5-bea6-4d12-a1d7-9032a56ff305
+
+## Image Prompt
+Title: Ephemeral Threshold
+
+Description:
+
+A lone figure stands at the edge of a mist-shrouded precipice, gazing out into an endless expanse of indigo and silver hues. The figure's form is distorted, as if reflected in rippling water, with tendrils of fog curling around their ankles like ethereal tentacles.
+
+In the background, a subtle gradient of moonlit skies and starry night air stretches towards the horizon, where the veil between reality and the unknown seems to thicken. The atmosphere is heavy with an otherworldly presence, as if the very fabric of existence is trembling on the cusp of revelation.
+
+ Colors: Iridescent blues and silvers, with hints of deep indigo and faint starlight.
+
+Composition: The figure occupies the center, with the precipice's edge stretching out into the void. Tendrils of fog curl around their feet like ghostly fingers, while the sky above is a swirling vortex of color and light
+
+## Negative Prompt
+text, words, letters, watermark, blurry

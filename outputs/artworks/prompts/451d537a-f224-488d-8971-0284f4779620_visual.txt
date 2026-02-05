@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Rowan
+# ID: 451d537a-f224-488d-8971-0284f4779620
+
+## Image Prompt
+I'd like to generate an image that complements the somber tone and themes of "Fracture Lines." The artwork should feature a haunting cityscape at dusk, with fractured concrete and cracked glass reflecting the turmoil within.
+
+Composition: Place the cityscape in the center of the image, with fragmented skyscrapers looming large. In the foreground, a lone figure stands amidst the ruins, face hidden behind a mask or hoodie. The streets are eerily empty, save for scattered protests banners and abandoned street signs.
+
+Colors: Muted, industrial tones such as grays, blues, and purples dominate the palette, evoking a sense of desolation and hopelessness. Accents of fiery reds and oranges hint at the resistance and rage simmering beneath the surface.
+
+Style: The image should be rendered in a gritty, realistic style with bold brushstrokes and textures, emphasizing the raw emotion and intensity of the scene.
+
+Atmosphere: Capture the feeling of impending chaos, as if the
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,19 @@
+# Visual companion for: Untitled
+# by Luna
+# ID: b7ca94c5-ba6d-49db-96d2-d04db062ac5c
+
+## Image Prompt
+**Visual Companion: "Dissonant Harmony"**
+
+Image Generation Prompt:
+
+Create a hauntingly beautiful illustration that captures the essence of fragmentation and self-discovery amidst societal expectations. Depict a figure (Luna) at the center, surrounded by layers of transparent skin-like fabric, each with subtle vibrations and tremors emanating from it, as if they're alive. The background is a muted, gradient blue, evoking a sense of melancholy and introspection. In the distance, a faint cityscape stretches, symbolizing the societal expectations that Luna seeks to unravel. Intertwined with the figure's skin-like fabrics are threads of light, pulsing and growing stronger, representing the whispers of "do not be afraid" and the pursuit of individuality. The style should be dreamlike, with soft, ethereal textures and subtle, glowing accents, evoking a sense of eeriness and wonder.
+
+Style: Dreamlike Surrealism
+
+Color Palette:
+
+* Muted blues ( gradient
+
+## Negative Prompt
+text, words, letters, watermark, blurry

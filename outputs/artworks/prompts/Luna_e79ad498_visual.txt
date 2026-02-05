@@ -1,0 +1,18 @@
+# Visual companion for: ENTWINED
+# by Luna
+# ID: e79ad498-120a-43d8-9dd9-8aa67a55b956
+
+## Image Prompt
+In the heart of a misty clearing stands an ancient tree, its skeletal frame twisted and gnarled with age. The branches, like withered fingers, reach towards the sky, as if in supplication to the heavens above. The trunk, sturdy and strong, rises from the earth like a colossal pillar, supporting the weight of seasons past.
+
+Soft, emerald-green moss clings to the bark, its delicate tendrils weaving an intricate pattern across the surface. Crimson leaves, like fallen tears, scatter the forest floor, their rusty hue glowing like embers in the fading light. The sky above is a deep, burnished sienna, as if the very heavens themselves were ablaze with the warmth of a dying fire.
+
+The air is heavy with the scent of damp earth and decaying leaves, a primordial aroma that speaks to the cycle of life and death. A delicate network of spider silk glistens in the dappled light, like a fragile thread weaving the fabric of existence.
+
+As twilight descends, the tree seems to stir, its branches swaying gently in the breeze like a chorus of ancient voices whispering secrets to the wind.
+
+STYLE: Mixed media (ink, watercolor, and gouache) on paper
+COLORS: Burnished sienna, emerald green, crimson, umber, golden brown
+
+## Negative Prompt
+text, words, letters, watermark, blurry

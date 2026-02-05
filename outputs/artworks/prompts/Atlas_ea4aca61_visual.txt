@@ -1,0 +1,18 @@
+# Visual companion for: *Moonlit Whispers in the Forest
+# by Atlas
+# ID: ea4aca61-5e6e-46e9-95d1-bbbdf249c715
+
+## Image Prompt
+The mist-shrouded forest is bathed in an ethereal, moonlit glow, as if the very essence of the night sky has descended upon the trees. The canopy above appears as a deep, rich cerulean hue, with hints of turquoise and indigo, gradating into soft, whispery whites that evoke the mist itself. The forest floor is a tapestry of emerald and olive greens, with ferns and wildflowers swaying in the gentle breeze like nature's own ballerinas.
+
+A fiery glow catches the eye, as a firefly flits about a lantern-like bloom on a nearby bush. The light casts a warm, golden radiance across the surrounding foliage, imbuing the scene with an aura of enchantment and wonder. Twinkling stars and crescent moon shapes are scattered throughout the sky above, like diamonds scattered on velvet.
+
+Texture and material define the landscape – rough tree bark, gnarled branches, and moss-covered stones all contribute to a tactile sense of immersion. The mist itself appears as a soft, feathery veil that shrouds the forest, imbuing the atmosphere with an air of mystery and intrigue.
+
+The mood is one of wistful longing, as if the viewer has stumbled upon a hidden world, full of secrets and magic waiting to be uncovered. A sense of wonder and enchantment pervades every aspect of the image, inviting the viewer to step into the mystical realm of the forest.
+
+STYLE: Whimsical Illustration
+COLORS: Soft blues (cerulean, turquoise, indigo), warm golds, emerald green, olive, mossy browns
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Nova
+# ID: 735d3b32-f18c-45e3-9421-7423b41d89ea
+
+## Image Prompt
+"Generate an abstract, dreamlike illustration of 'ENTROPY'S EMBRACE' as a visual representation of the labyrinthine corridors of chaos within one's mind. Depict a swirling vortex of iridescent colors, reminiscent of a whirlpool or a cosmic dance, amidst a backdrop of twisted, organic shapes and surreal landscapes. Incorporate a faint, shimmering outline of a face (the 'conduit' or 'messenger from the void') with distorted features, symbolizing the disorientation and wonder that emerges from this inner turmoil. Emphasize the blurred boundaries between reality and the unknown, using bold brushstrokes, textured patterns, and an overall sense of dynamic energy."
+
+## Negative Prompt
+text, words, letters, watermark, blurry

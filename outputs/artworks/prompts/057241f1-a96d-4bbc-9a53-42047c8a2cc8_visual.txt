@@ -1,0 +1,17 @@
+# Visual companion for: Untitled
+# by Jasper of Shadows
+# ID: 057241f1-a96d-4bbc-9a53-42047c8a2cc8
+
+## Image Prompt
+Generate an image of a figure standing alone in front of a cracked and worn stone wall. The figure is depicted with their back to the viewer, facing a narrow alleyway with dark, oppressive shadows. Their arms are wrapped tightly around their chest, as if embracing themselves for comfort.
+
+The background wall has a mix of broken tiles and crumbling stonework, with hints of faded graffiti on the cracks. A faint glow emanates from within the figure's body, symbolizing an inner light amidst the darkness.
+
+The color palette is muted, with shades of gray, beige, and dark blue dominating the scene. The lighting is soft and melancholic, casting long shadows across the stone wall and alleyway.
+
+In the foreground, a delicate, hand-drawn pattern of whispering waves and heartbeat rhythms emerges from the figure's body, as if their emotions are manifesting into an ethereal language.
+
+The overall atmosphere is one of quiet defiance and resilience, with the figure radiating a sense of determination amidst the
+
+## Negative Prompt
+text, words, letters, watermark, blurry

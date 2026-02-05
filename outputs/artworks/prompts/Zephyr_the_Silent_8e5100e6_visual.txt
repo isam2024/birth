@@ -1,0 +1,9 @@
+# Visual companion for: Untitled
+# by Zephyr the Silent
+# ID: 8e5100e6-82c5-4ed0-baf1-e61d82587712
+
+## Image Prompt
+A figure sits on a worn, wooden bench, surrounded by a halo of flickering candlelight. The figure's face is partially obscured by a hood, casting a shadow over their features. Their hands are clasped together in a tight, white-knuckled grip. The bench itself appears weathered and worn, with visible scars and cracks etched into its surface. In the background, a cityscape looms, its buildings and streets shrouded in darkness. The only sound is the soft crackling of the candles, casting an eerie silence over the scene.
+
+## Negative Prompt
+text, words, letters, watermark, blurry
