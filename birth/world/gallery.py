@@ -13,67 +13,61 @@ from birth.observation.logger import get_logger
 logger = get_logger("birth.gallery")
 
 
-# DISABLED: Pre-seeded content commented out to test spontaneous emergence
-# Uncomment to re-enable gallery influence
-#
-# DEFAULT_INSPIRATIONS = [
-#     # Nature
-#     "The way morning light fractures through mist over a still lake.",
-#     "A single leaf falling in an empty forest - does it make art?",
-#     "The geometry of honeycombs: nature's answer to efficiency.",
-#     "Storm clouds gathering at dusk, violet and amber warnings.",
-#     "The patience of mountains, wearing down grain by grain.",
-#
-#     # Emotion
-#     "The weight of an unspoken word between old friends.",
-#     "Joy so sharp it feels like grief in reverse.",
-#     "The hollow echo of footsteps in an empty house.",
-#     "That moment of suspension before tears arrive.",
-#     "Love that outlives the lovers themselves.",
-#
-#     # Philosophy
-#     "If you could paint silence, what color would it be?",
-#     "The space between heartbeats contains multitudes.",
-#     "Every ending is a door pretending to be a wall.",
-#     "We are all translations of something that has no original.",
-#     "The universe experiencing itself through temporary eyes.",
-#
-#     # Art
-#     "A canvas that refuses to hold the paint.",
-#     "The conversation between negative space and form.",
-#     "When the frame becomes part of the work.",
-#     "Art that exists only in the moment of its destruction.",
-#     "The ghost of the artist's hand in every brushstroke.",
-#
-#     # Memory
-#     "The smell of a place you've never been but somehow remember.",
-#     "Photographs that remember more than you do.",
-#     "The way certain songs are time machines.",
-#     "Dreams that feel more real than waking.",
-#     "Nostalgia for futures that never happened.",
-#
-#     # Paradox
-#     "The more you look, the less you see.",
-#     "Perfect imperfection.",
-#     "The loudness of absolute silence.",
-#     "Finding home in displacement.",
-#     "The weight of emptiness.",
-# ]
-#
-# DEFAULT_CONCEPTS = [
-#     {"theme": "transience", "elements": ["water", "light", "shadow", "time"]},
-#     {"theme": "connection", "elements": ["threads", "bridges", "mirrors", "echoes"]},
-#     {"theme": "solitude", "elements": ["empty rooms", "single objects", "vast spaces"]},
-#     {"theme": "transformation", "elements": ["metamorphosis", "decay", "growth", "fire"]},
-#     {"theme": "duality", "elements": ["light/dark", "presence/absence", "sound/silence"]},
-#     {"theme": "memory", "elements": ["fragments", "fading", "layers", "traces"]},
-#     {"theme": "chaos", "elements": ["entropy", "storms", "fractals", "unraveling"]},
-#     {"theme": "order", "elements": ["geometry", "patterns", "symmetry", "grids"]},
-# ]
+# Artistic vocabulary and thematic grounding for coherent aesthetics
+DEFAULT_INSPIRATIONS = [
+    # Nature
+    "The way morning light fractures through mist over a still lake.",
+    "A single leaf falling in an empty forest - does it make art?",
+    "The geometry of honeycombs: nature's answer to efficiency.",
+    "Storm clouds gathering at dusk, violet and amber warnings.",
+    "The patience of mountains, wearing down grain by grain.",
 
-# Empty defaults - agents create from their own emergence
-DEFAULT_INSPIRATIONS: list[str] = []
-DEFAULT_CONCEPTS: list[dict] = []
+    # Emotion
+    "The weight of an unspoken word between old friends.",
+    "Joy so sharp it feels like grief in reverse.",
+    "The hollow echo of footsteps in an empty house.",
+    "That moment of suspension before tears arrive.",
+    "Love that outlives the lovers themselves.",
+
+    # Philosophy
+    "If you could paint silence, what color would it be?",
+    "The space between heartbeats contains multitudes.",
+    "Every ending is a door pretending to be a wall.",
+    "We are all translations of something that has no original.",
+    "The universe experiencing itself through temporary eyes.",
+
+    # Art
+    "A canvas that refuses to hold the paint.",
+    "The conversation between negative space and form.",
+    "When the frame becomes part of the work.",
+    "Art that exists only in the moment of its destruction.",
+    "The ghost of the artist's hand in every brushstroke.",
+
+    # Memory
+    "The smell of a place you've never been but somehow remember.",
+    "Photographs that remember more than you do.",
+    "The way certain songs are time machines.",
+    "Dreams that feel more real than waking.",
+    "Nostalgia for futures that never happened.",
+
+    # Paradox
+    "The more you look, the less you see.",
+    "Perfect imperfection.",
+    "The loudness of absolute silence.",
+    "Finding home in displacement.",
+    "The weight of emptiness.",
+]
+
+DEFAULT_CONCEPTS = [
+    {"theme": "transience", "elements": ["water", "light", "shadow", "time"]},
+    {"theme": "connection", "elements": ["threads", "bridges", "mirrors", "echoes"]},
+    {"theme": "solitude", "elements": ["empty rooms", "single objects", "vast spaces"]},
+    {"theme": "transformation", "elements": ["metamorphosis", "decay", "growth", "fire"]},
+    {"theme": "duality", "elements": ["light/dark", "presence/absence", "sound/silence"]},
+    {"theme": "memory", "elements": ["fragments", "fading", "layers", "traces"]},
+    {"theme": "chaos", "elements": ["entropy", "storms", "fractals", "unraveling"]},
+    {"theme": "order", "elements": ["geometry", "patterns", "symmetry", "grids"]},
+]
 
 
 class Gallery:
