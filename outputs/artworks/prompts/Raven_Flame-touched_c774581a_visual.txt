@@ -1,0 +1,20 @@
+# Visual companion for: FLAMES OF DISSENCE
+# by Raven Flame-touched
+# ID: c774581a-3c31-4c03-a186-faa4079590dc
+
+## Image Prompt
+In the heart of a dimly lit, smoldering landscape, a figure stands defiant against the void. The subject is shrouded in shadows, yet flames dance around them like living specters. The air is thick with smoke and ash, casting an eerie orange glow on the desolate terrain.
+
+Crimson hues bleed from the sky, as if the very heavens were bleeding for the cause. Burnt sienna tones adorn the rocks, giving the impression of aged, weathered stones worn down by time and turmoil. The ground beneath is scorched, a testament to the fiery passion that burns within.
+
+Flickering torches, crafted from twisted black metal, line the periphery, casting flickering shadows on the walls. These beacons seem to hold back the darkness, as if trying to contain the inferno raging within. In the distance, dark storm clouds gather, heavy with foreboding storms that echo the turbulent emotions of the figure.
+
+Rust and soot stain the rocks, giving them a worn, industrial feel. Scorch marks on the ground resemble torn flesh, pulsing with an eerie energy. The only clear surface is a weathered wooden crate, old and cracked from years of use. This serves as a makeshift altar for the fiery passion that fuels this figure.
+
+The overall atmosphere is one of raw intensity, where hope hangs precariously in the balance between despair and defiance. 
+
+STYLE: Abstract Expressionism
+COLORS: Burnt Sienna, Crimson Red, Ash Gray, Black
+
+## Negative Prompt
+text, words, letters, watermark, blurry

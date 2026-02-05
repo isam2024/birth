@@ -1,0 +1,22 @@
+# Visual companion for: *FRAGMENTS OF SCARRED SKIN
+# by Honey the Burning
+# ID: 6c890751-c38e-4d9c-867e-1ef67aa30cae
+
+## Image Prompt
+In the heart of a ravaged landscape, a jagged mirror pierces the darkness like a shard of splintered glass. The mirror's surface is cracked and warped, as if it has been beaten against the unforgiving earth. Flickers of crimson light seep from beneath its rim, casting an eerie glow on the surrounding terrain.
+
+The sky above is a deep burnt sienna, with streaks of umber that seem to bleed into one another like wounds. The air is heavy with the scent of smoke and ash, which wafts down onto the desolate landscape like a mourner's veil.
+
+Beneath the mirror, twisted metal and shattered stone stretch out like a ravaged canvas. In places, the earth has heaved up to create twisted, serpentine ridges that twist upwards towards the mirror like grasping fingers. To one side, a wispy tendril of smoke rises from a cratered expanse, as if the very ground itself is exhaling a last, despairing breath.
+
+The overall mood of the image is one of desolate, shattered beauty – a testament to the abyss that lies within every human soul. The atmosphere is heavy with foreboding and sorrow, yet paradoxically, there's an underlying sense of liberation in this macabre tableau.
+
+STYLE: Abstract Expressionism
+COLORS:
+- Burnt sienna (#964B00)
+- Crimson (#8B0A1A)
+- Ash grey (#333333)
+- Flickering yellow-orange light (with hues of amber and gold)
+
+## Negative Prompt
+text, words, letters, watermark, blurry
