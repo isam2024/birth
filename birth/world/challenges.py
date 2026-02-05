@@ -1,10 +1,15 @@
 """Creative challenges - prompts that inspire all agents to create."""
 
+import asyncio
+import sys
 import uuid
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
 from typing import TYPE_CHECKING
+
+from rich.console import Console
+from rich.prompt import Prompt
 
 from birth.config import get_config
 from birth.core.events import Event, EventType
@@ -14,6 +19,7 @@ if TYPE_CHECKING:
     from birth.core.events import EventBus
 
 logger = get_logger("birth.challenges")
+console = Console()
 
 
 @dataclass
@@ -34,7 +40,12 @@ class Challenge:
 
 
 class ChallengeManager:
-    """Manages creative challenges for the colony."""
+    """Manages creative challenges for the colony.
+
+    Challenges can be issued:
+    1. Via CLI at startup: --challenge "theme"
+    2. Interactively by pressing 'c' during simulation
+    """
 
     def __init__(self, event_bus: "EventBus | None" = None):
         self._event_bus = event_bus
@@ -47,6 +58,14 @@ class ChallengeManager:
     @property
     def active_challenge(self) -> Challenge | None:
         return self._active_challenge
+
+    @property
+    def pending_responses(self) -> int:
+        """Number of agents who haven't responded yet."""
+        if not self._active_challenge:
+            return 0
+        # This would need agent count passed in - for now just return if active
+        return 1 if self._active_challenge else 0
 
     def set_event_bus(self, event_bus: "EventBus") -> None:
         self._event_bus = event_bus
@@ -74,6 +93,11 @@ class ChallengeManager:
             image_path=image_path,
         )
         self._active_challenge = challenge
+
+        # Display to console
+        console.print(f"[bold yellow]CREATIVE CHALLENGE ISSUED:[/bold yellow]")
+        console.print(f"[yellow]\"{prompt}\"[/yellow]")
+        console.print("[dim]All agents will respond with their interpretation...[/dim]\n")
 
         logger.info(
             "challenge_issued",

@@ -10,6 +10,7 @@ import sys
 from rich.console import Console
 from rich.live import Live
 from rich.panel import Panel
+from rich.prompt import Prompt
 from rich.table import Table
 
 from birth import __version__
@@ -18,6 +19,45 @@ from birth.observation.logger import setup_logging, get_logger
 
 console = Console()
 logger = get_logger("birth.main")
+
+
+async def input_listener(canvas) -> None:
+    """Listen for interactive commands while simulation runs.
+
+    Commands:
+      c - Issue a creative challenge
+      p - Pause/resume simulation
+      q - Quit (same as Ctrl+C)
+    """
+    loop = asyncio.get_event_loop()
+
+    while True:
+        try:
+            # Read a single character (non-blocking via executor)
+            line = await loop.run_in_executor(None, sys.stdin.readline)
+            line = line.strip().lower()
+
+            if line == "c":
+                # Issue a challenge
+                console.print("\n[bold yellow]Enter creative challenge (or empty to cancel):[/bold yellow]")
+                challenge_text = await loop.run_in_executor(None, sys.stdin.readline)
+                challenge_text = challenge_text.strip()
+
+                if challenge_text:
+                    await canvas.challenges.issue_challenge(challenge_text)
+                else:
+                    console.print("[dim]Challenge cancelled.[/dim]")
+
+            elif line == "?":
+                console.print("\n[bold]Interactive Commands:[/bold]")
+                console.print("  [cyan]c[/cyan] - Issue a creative challenge to all agents")
+                console.print("  [cyan]?[/cyan] - Show this help")
+                console.print("  [cyan]Ctrl+C[/cyan] - Stop simulation\n")
+
+        except asyncio.CancelledError:
+            break
+        except Exception:
+            pass
 
 
 def create_status_display(engine) -> Table:
@@ -89,7 +129,7 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
         await engine.start(agent_count)
 
         console.print(f"\n[bold green]Simulation running with {engine.agent_count} agents[/bold green]")
-        console.print("[dim]Press Ctrl+C to stop[/dim]\n")
+        console.print("[dim]Press Ctrl+C to stop | Type 'c' + Enter to issue a challenge | '?' for help[/dim]\n")
 
         # Display agent names
         console.print("[bold]Artists in the colony:[/bold]")
@@ -97,12 +137,12 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
             console.print(f"  • {agent.name}")
         console.print()
 
-        # Issue challenge if provided
+        # Issue challenge if provided at startup
         if challenge:
-            console.print(f"\n[bold yellow]CREATIVE CHALLENGE ISSUED:[/bold yellow]")
-            console.print(f"[yellow]\"{challenge}\"[/yellow]")
-            console.print("[dim]All agents will respond with their interpretation...[/dim]\n")
             await canvas.challenges.issue_challenge(challenge)
+
+        # Start input listener for interactive commands
+        input_task = asyncio.create_task(input_listener(canvas))
 
         # Run with live status updates
         snapshot_interval = 50  # Take snapshot every N cycles
@@ -128,6 +168,7 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
 
         except KeyboardInterrupt:
             console.print("\n[yellow]Stopping simulation...[/yellow]")
+            input_task.cancel()
             await engine.stop("user_interrupt")
 
         # Final status
