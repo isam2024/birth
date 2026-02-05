@@ -309,19 +309,31 @@ class OllamaClient:
         """
         prompts = {
             "artistic": (
-                "Describe this image as if you were an art critic writing for a gallery. "
-                "Focus on composition, mood, colors, symbolism, and emotional resonance. "
-                "Be evocative and poetic. 2-3 paragraphs."
+                "You are an art critic with deep knowledge of visual art, photography, and aesthetics. "
+                "Analyze this image thoroughly and write a rich, evocative description.\n\n"
+                "Cover these aspects:\n"
+                "1. SUBJECT: What is depicted? Describe the main subjects, figures, objects, or scenes.\n"
+                "2. COMPOSITION: How is the image structured? Discuss framing, balance, focal points, "
+                "use of space, and visual flow.\n"
+                "3. COLOR & LIGHT: What is the color palette? Describe the lighting - its quality, "
+                "direction, and emotional effect. Name specific colors (crimson, azure, ochre, etc.).\n"
+                "4. MOOD & ATMOSPHERE: What feeling does this image evoke? What is its emotional temperature?\n"
+                "5. SYMBOLISM & MEANING: What might this image represent? What themes or ideas does it suggest?\n"
+                "6. ARTISTIC STYLE: What artistic influences, techniques, or movements does this evoke?\n\n"
+                "Write 3-4 rich paragraphs. Be specific, evocative, and poetic."
             ),
             "detailed": (
-                "Describe everything you see in this image in detail. "
-                "Include objects, people, setting, lighting, colors, and any text. "
-                "Be thorough and precise."
+                "Describe everything you see in this image in comprehensive detail. "
+                "Include all objects, people, setting, background, lighting conditions, colors, textures, "
+                "and any visible text or symbols. Note spatial relationships between elements. "
+                "Describe from foreground to background. Be thorough, precise, and systematic."
             ),
             "emotional": (
                 "What emotions and feelings does this image evoke? "
                 "What story might it be telling? What questions does it raise? "
-                "Respond as if you were deeply moved by this image."
+                "What memories or associations might it trigger? "
+                "If this image could speak, what would it say? "
+                "Respond as if you were deeply moved by this image. Be introspective and poetic."
             ),
         }
 
