@@ -138,14 +138,15 @@ Just respond with one word:"""
         """Create a text-based artwork (poem, prose, manifesto)."""
         config = get_config().simulation
 
-        # Build challenge section if present
-        challenge_section = ""
+        # Build instruction based on whether there's a challenge
         if challenge_prompt:
-            challenge_section = f"""
-CREATIVE CHALLENGE:
-You've been given a theme to explore: "{challenge_prompt}"
-Respond to this through your own artistic lens. Interpret it in your unique way.
-"""
+            instruction = f"""=== CREATIVE CHALLENGE ===
+THE THEME: "{challenge_prompt}"
+
+Create a piece of text art that responds to this theme. Your work MUST be about or inspired by this theme.
+Interpret it through your unique artistic perspective, but stay focused on the theme."""
+        else:
+            instruction = """Create a piece of text art - whatever form feels right to you now. Let it emerge from who you are and what you're experiencing."""
 
         # Generate the artwork
         prompt = f"""You are {creator.name}.
@@ -159,8 +160,8 @@ WHAT YOU'VE EXPERIENCED RECENTLY:
 
 HOW YOU'RE FEELING:
 {sentiment_summary if sentiment_summary else "Present and aware."}
-{challenge_section}
-Create a piece of text art - whatever form feels right to you now. Let it emerge from who you are and what you're experiencing.
+
+{instruction}
 
 ---
 TITLE: [your title]
@@ -213,14 +214,15 @@ TITLE: [your title]
         The agent describes their vision in detail, which can later be
         used with image generation tools like ComfyUI or Stable Diffusion.
         """
-        # Build challenge section if present
-        challenge_section = ""
+        # Build instruction based on whether there's a challenge
         if challenge_prompt:
-            challenge_section = f"""
-CREATIVE CHALLENGE:
-You've been given a theme to explore: "{challenge_prompt}"
-Respond to this visually through your own artistic lens. Interpret it in your unique way.
-"""
+            instruction = f"""=== CREATIVE CHALLENGE ===
+THE THEME: "{challenge_prompt}"
+
+Create a visual artwork that responds to this theme. Your image MUST depict or be inspired by this theme.
+Interpret it through your unique artistic perspective, but the theme should be clearly present in the image."""
+        else:
+            instruction = """Create a visual artwork. Let it emerge from who you are and what you're experiencing."""
 
         # Generate detailed visual description
         prompt = f"""You are {creator.name}.
@@ -234,8 +236,8 @@ WHAT YOU'VE EXPERIENCED RECENTLY:
 
 HOW YOU'RE FEELING:
 {sentiment_summary if sentiment_summary else "Present and aware."}
-{challenge_section}
-Create a visual artwork. Let it emerge from who you are and what you're experiencing.
+
+{instruction}
 
 TITLE: [your title]
 
