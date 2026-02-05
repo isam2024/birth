@@ -5,7 +5,9 @@ Entry point for running the simulation.
 
 import argparse
 import asyncio
+import select
 import sys
+import threading
 
 from rich.console import Console
 from rich.live import Live
@@ -20,27 +22,46 @@ from birth.observation.logger import setup_logging, get_logger
 console = Console()
 logger = get_logger("birth.main")
 
+# Global shutdown flag for clean exit
+_shutdown_event = threading.Event()
+
 
 async def input_listener(canvas) -> None:
     """Listen for interactive commands while simulation runs.
 
     Commands:
       c - Issue a creative challenge
-      p - Pause/resume simulation
-      q - Quit (same as Ctrl+C)
+      q - Quit
+      ? - Help
     """
     loop = asyncio.get_event_loop()
 
-    while True:
+    def read_input_with_timeout():
+        """Read input with timeout so we can check shutdown flag."""
+        while not _shutdown_event.is_set():
+            # Use select to wait for input with timeout (Unix only)
+            if sys.platform != "win32":
+                ready, _, _ = select.select([sys.stdin], [], [], 0.5)
+                if ready:
+                    return sys.stdin.readline()
+            else:
+                # Windows fallback - just read (less responsive to shutdown)
+                return sys.stdin.readline()
+        return ""
+
+    while not _shutdown_event.is_set():
         try:
-            # Read a single character (non-blocking via executor)
-            line = await loop.run_in_executor(None, sys.stdin.readline)
+            line = await loop.run_in_executor(None, read_input_with_timeout)
+            if _shutdown_event.is_set():
+                break
+
             line = line.strip().lower()
 
             if line == "c":
-                # Issue a challenge
                 console.print("\n[bold yellow]Enter creative challenge (or empty to cancel):[/bold yellow]")
-                challenge_text = await loop.run_in_executor(None, sys.stdin.readline)
+                challenge_text = await loop.run_in_executor(None, read_input_with_timeout)
+                if _shutdown_event.is_set():
+                    break
                 challenge_text = challenge_text.strip()
 
                 if challenge_text:
@@ -48,16 +69,23 @@ async def input_listener(canvas) -> None:
                 else:
                     console.print("[dim]Challenge cancelled.[/dim]")
 
+            elif line == "q":
+                console.print("\n[yellow]Quit requested...[/yellow]")
+                _shutdown_event.set()
+                break
+
             elif line == "?":
                 console.print("\n[bold]Interactive Commands:[/bold]")
                 console.print("  [cyan]c[/cyan] - Issue a creative challenge to all agents")
+                console.print("  [cyan]q[/cyan] - Quit simulation")
                 console.print("  [cyan]?[/cyan] - Show this help")
                 console.print("  [cyan]Ctrl+C[/cyan] - Stop simulation\n")
 
         except asyncio.CancelledError:
             break
         except Exception:
-            pass
+            if _shutdown_event.is_set():
+                break
 
 
 def create_status_display(engine) -> Table:
@@ -149,8 +177,12 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
         last_snapshot = 0
 
         try:
-            while engine.is_running:
+            while engine.is_running and not _shutdown_event.is_set():
                 await asyncio.sleep(5)
+
+                # Check for quit request from input listener
+                if _shutdown_event.is_set():
+                    break
 
                 # Print periodic status
                 metrics = engine.get_metrics()
@@ -167,9 +199,21 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
                     console.print(f"[magenta]Snapshot saved at cycle {metrics['cycles']}[/magenta]")
 
         except KeyboardInterrupt:
-            console.print("\n[yellow]Stopping simulation...[/yellow]")
-            input_task.cancel()
-            await engine.stop("user_interrupt")
+            pass  # Handle below
+
+        # Graceful shutdown
+        console.print("\n[yellow]Stopping simulation...[/yellow]")
+        _shutdown_event.set()
+
+        # Cancel input listener
+        input_task.cancel()
+        try:
+            await asyncio.wait_for(input_task, timeout=1.0)
+        except (asyncio.CancelledError, asyncio.TimeoutError):
+            pass
+
+        # Stop engine (suppresses in-flight request errors)
+        await engine.stop("user_interrupt")
 
         # Final status
         final_metrics = engine.get_metrics()
@@ -189,11 +233,26 @@ async def run_interactive(agent_count: int, challenge: str | None = None) -> Non
         raise
 
     finally:
-        # Cleanup
-        await close_ollama_client()
-        await close_sd_client()
-        if 'canvas' in locals():
-            await canvas.shutdown()
+        # Ensure shutdown flag is set
+        _shutdown_event.set()
+
+        # Cleanup with error suppression (in-flight requests will fail)
+        import warnings
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            try:
+                await close_ollama_client()
+            except Exception:
+                pass
+            try:
+                await close_sd_client()
+            except Exception:
+                pass
+            if 'canvas' in locals():
+                try:
+                    await canvas.shutdown()
+                except Exception:
+                    pass
 
 
 async def run_headless(agent_count: int, duration: float | None) -> None:

@@ -1,5 +1,6 @@
 """Ollama LLM client for agent cognition."""
 
+import asyncio
 import base64
 from pathlib import Path
 from typing import Any, AsyncIterator
@@ -128,8 +129,10 @@ class OllamaClient:
         except httpx.HTTPStatusError as e:
             logger.error("ollama_generation_failed", status_code=e.response.status_code)
             raise OllamaGenerationError(f"Generation failed: {e}") from e
-        except httpx.HTTPError as e:
-            logger.error("ollama_request_failed", error=str(e))
+        except (httpx.HTTPError, asyncio.CancelledError) as e:
+            # Don't log cancelled errors (expected during shutdown)
+            if not isinstance(e, asyncio.CancelledError):
+                logger.error("ollama_request_failed", error=str(e))
             raise
 
     async def generate_stream(
