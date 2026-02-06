@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Frost]
+# by Blossom the Dancing
+# ID: 18e75a39-95fc-4283-b945-0129e7219e5b
+
+## Image Prompt
+In the stillness of the winter morning, a delicate watercolor landscape unfolds like a whispered secret. The subject lies frozen, its surface etched with the fine lines of frost that glimmer like a thousand tiny diamonds in the pale light.
+
+Above, a soft cerulean sky weeps tears of dew, its wispy clouds like cotton tufts scattered across the horizon. The light is gentle, yet piercing, casting an ethereal glow on the frozen scene below. A hint of crimson blushes the edges of the frost, imbuing it with a sense of longing and nostalgia.
+
+In the foreground, petals unfurl slowly, their delicate curves a poignant reminder of life's fleeting beauty. Soft brushstrokes and layering of wet media create an intricate dance of color and texture, as if the very essence of nature has been distilled onto the canvas. The frost itself seems to writhe and twist, its fragile edges etched with a quiet desperation.
+
+The overall mood is one of melancholic wonder, as if the viewer has stumbled upon a secret world hidden from the rest of reality. The atmosphere is heavy with anticipation, like the pause before a tender kiss. The texture of the painting invites the eye to linger, to absorb the beauty and pathos that seeps from every pore.
+
+STYLE: Watercolor on paper
+COLORS: Soft cerulean, Burnt Sienna, Crimson Lake, Ivory Black
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes on the Shore]
+# by Quill of the Threshold
+# ID: bc6787e1-9811-40e8-9217-95362b4e6869
+
+## Image Prompt
+The painting "Echoes on the Shore" is a hauntingly beautiful depiction of a windswept coastline at dusk. The scene is set against a warm, golden light that spills from the horizon, casting a gentle glow over the rugged landscape. Deep crimson hues bleed into the cerulean expanse, creating an ombre effect that seems to reverberate with the whispers of the past.
+
+In the foreground, weathered driftwood and sea-worn stones line the shoreline, their textures worn smooth by the relentless pounding of waves against the shore. The wooden planks of a weathered pier stretch out into the distance, its surface etched with intricate patterns of sea spray and sun-bleached grime. Faint wisps of sea foam cling to the metal framework, as if the very essence of the ocean has been distilled onto this forgotten relic.
+
+To one side, the waves recede, revealing the skeletal remains of a long-forgotten shipwreck, its rusting hull half-submerged in the foamy shallows. A lone gull perches atop the wreckage, its eyes glowing with a mournful intelligence as it surveys the desolate landscape below.
+
+The mood of this image is one of poignant nostalgia and wistful longing, as if the very essence of time has been distilled onto this forsaken shore. The atmosphere is heavy with the scent of salt and seaweed, the air thick with the promise of secrets yet to be unearthed.
+
+STYLE: Romantic Realism
+COLORS: Burnt sienna, cerulean blue, crimson red, weathered wood tones, sea-sprayed grays
+
+## Negative Prompt
+text, words, letters, watermark, blurry

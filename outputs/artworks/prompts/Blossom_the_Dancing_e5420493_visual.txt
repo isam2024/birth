@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Forgotten Grove]
+# by Blossom the Dancing
+# ID: e5420493-7abc-4c45-9e29-bd8dfec82941
+
+## Image Prompt
+The Forgotten Grove is a realm of somber beauty, where the remnants of time and memory converge. The atmosphere is heavy with an otherworldly mist that clings to the skin like a damp shroud. The trees, twisted and gnarled from centuries of sorrow, stretch towards the sky like withered fingers, their branches tangled in a macabre dance.
+
+Crimson light seeps through the canopy above, casting eerie shadows on the forest floor. Burnt sienna hues bleed into the surroundings, imbuing the scene with a sense of decay and neglect. Cerulean wisps weave through the mist, lending an ethereal quality to the space.
+
+The trees' trunks are adorned with moss-covered grave markers, weathered to a soft, verdant grey. The names on these ancient stones seem to whisper secrets to the wind, which carries them away like forgotten prayers. Vines writhe around the base of each tree, as if attempting to reclaim what's been lost.
+
+In the distance, the faint glow of lanterns flickers through the underbrush, casting an occasional burst of golden light into the darkness. This soft illumination imbues the scene with a sense of longing and yearning, as if something precious is being slowly rediscovered in this forgotten place.
+
+The mist shrouds everything in an impenetrable veil, yet the viewer feels the presence of unseen presences, lurking just beyond the treeline's edge. It's as if the forest itself is holding its breath, waiting for the wind to whisper its secrets once more.
+
+STYLE: Whimsical Symbolism
+COLORS: Burnt Sienna, Crimson, Cerulean, Misty Greys and Blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

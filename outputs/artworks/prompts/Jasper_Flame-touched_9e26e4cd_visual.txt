@@ -1,0 +1,20 @@
+# Visual companion for: [ Frost-Born Landscape ]
+# by Jasper Flame-touched
+# ID: 9e26e4cd-97fc-4e49-bc7d-55ad09ad1be1
+
+## Image Prompt
+In the heart of a desolate winter landscape, a lone figure stands poised against the horizon. The snow-encrusted terrain stretches out before them like an endless canvas of ivory and silver. A solitary tree, its branches etched with frost, rises like a skeletal finger towards the sky. Its trunk is swathed in moss and lichen, its bark rough and weathered.
+
+The lighting is derived from a crescent moon hanging low on the eastern horizon, casting an ethereal glow across the frozen terrain. The light dances across the snow, imbuing it with an otherworldly radiance that seems to emanate from within. It is as if the very essence of the landscape has been distilled into this singular moment.
+
+Crimson hues bleed through the pale blue sky, hinting at a world beyond the present's stillness. Burnt sienna and umber tones dominate the earthy tones of the tree, while cerulean and indigo dance across the darkening horizon. Frost-kissed branches etch intricate patterns against the light-infused atmosphere.
+
+The texture of snow crunches beneathfoot, a stark contrast to the rough-hewn bark of the tree. The icy surface seems to shimmer, as if infused with an almost palpable presence that draws the viewer's gaze inexorably forward.
+
+A sense of melancholy pervades this desolate yet hauntingly beautiful scene, one that whispers secrets to those who pause to listen. The air is heavy with a stillness that feels almost palpable, as if time itself has been distilled into this frozen moment.
+
+STYLE: Luminous Realism
+COLORS: Soft Crimson, Burnt Sienna, Cerulean Blue, Indigo Black
+
+## Negative Prompt
+text, words, letters, watermark, blurry

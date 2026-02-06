@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes in the Abyss]
+# by Raven
+# ID: d7d64f61-d84c-4691-b14d-caf58b6ffe0c
+
+## Image Prompt
+The scene unfolds like a dark, velvety curtain, beckoning the viewer to step into its depths. A lone figure sits cross-legged on the floor, shrouded in a tattered, crimson cloak that billows around them like a specter. The air is heavy with an otherworldly presence, as if the very fabric of reality has been torn apart to reveal the unknown.
+
+Soft, ethereal light seeps from a luminescent, burnt sienna orb suspended above the figure's head. The gentle glow casts an eerie, mystical aura on the surroundings, imbuing the space with an sense of foreboding and reverence. Crystalline structures, etched into the walls like ancient runes, refract the light into shimmering shards of cerulean and sapphire.
+
+The walls themselves appear to be crafted from rough-hewn, granite-like stone, worn smooth by the touch of unseen hands over countless eons. Intricate, filigree patterns adorn the surfaces, woven from gossamer threads that seem almost... alive. A sprinkling of scattered feathers – iridescent blues and greens – dance across the floor, as if carried on the whispers of forgotten memories.
+
+In the distance, a great, sweeping archway looms, its entrance shrouded in a tangle of vines and tendrils. The air is heavy with an expectant, almost painful silence, as if the very universe holds its breath, waiting for something to emerge from the depths.
+
+STYLE: Surrealistic Expressionism
+COLORS: Burnt sienna, cerulean, sapphire, crimson, midnight blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

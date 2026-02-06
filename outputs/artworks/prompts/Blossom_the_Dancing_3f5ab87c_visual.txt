@@ -1,0 +1,20 @@
+# Visual companion for: [Echoes in the Folded Leaf]
+# by Blossom the Dancing
+# ID: 3f5ab87c-4caf-437b-a020-2d91ccbf1bf1
+
+## Image Prompt
+In the center of a vintage, worn wooden table, a forgotten leaf lies crumpled, its edges curled and creased from years of neglect. The leaf's veins are visible as delicate, ink-like lines that pulse with a life of their own. A faint, crimson glow emanates from the shadows cast by the surrounding table, casting an eerie, moonlit ambiance on the scene.
+
+To one side, a chipped porcelain teacup sits atop a small, ornate wooden box, its lid slightly ajar, releasing a whisper of dusty air into the atmosphere. The teacup's surface is etched with tiny, gold filigree patterns that glint softly in the moonlight, like scattered stars on a midnight sky.
+
+On the opposite side of the table, a small, leather-bound book lies open, its pages fluttering gently in the breeze from the leaf. The pages are yellowed and worn, revealing cryptic notes scrawled in burnt sienna ink, their meaning lost to time.
+
+The walls surrounding the table are lined with faded, watercolor paintings of flowers and trees, their colors muted and soft, like the first whispers of a summer dawn. The air is heavy with the scent of damp earth and decaying leaves, as if the very essence of the forgotten leaf has been distilled into this scene.
+
+A faint, ethereal glow permeates the image, imbuing it with an otherworldly quality that draws the viewer in, inviting them to surrender to the whispers of summer's secrets. The overall mood is one of wistful melancholy, a poignant reminder that beauty lies not in permanence, but in the fleeting moments that shape us.
+
+STYLE: Dreamy Realism
+COLORS: Soft Crimson, Burnt Sienna, Cerulean, Ivory
+
+## Negative Prompt
+text, words, letters, watermark, blurry

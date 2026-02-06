@@ -1,0 +1,18 @@
+# Visual companion for: "Beyond the Haze"
+# by Raven
+# ID: 59f956ab-7ac3-42c7-8e33-61ba3c3da31b
+
+## Image Prompt
+In a dimly lit chamber, shrouded by a tapestry of misty veils, a lone figure stands before an ancient altar. The air is heavy with the scent of sandalwood and myrrh, as if the very essence of the unknown has been distilled into this sacred space. The walls, adorned with cryptic symbols, seem to pulse with a life of their own, their twisted lines and curves weaving together like the threads of a forgotten tapestry.
+
+Crimson candles, extinguished yet still glowing in the embers of their dying light, cast an otherworldly glow across the room. Burnt sienna-hued stone, worn smooth by the touch of countless hands, provides a somber backdrop for the ritual that unfolds. Cerulean shadows dance upon the walls, as if the very fabric of reality has been rent asunder to reveal glimpses of the unseen.
+
+The altar, a weathered monolith of black stone, bears the weight of ancient knowledge. Inlays of gold and lapis lazuli glint like stars in the faint light, casting an aura of mystique over the proceedings. The air is thick with anticipation, heavy with the promise of secrets whispered to those who dare to listen.
+
+A soft, ethereal luminescence seeps from the walls, imbuing the scene with an aura of reverence and wonder. In this sacred space, the boundaries between reality and the unknown are at their most tenuous, inviting all who enter to part the veil and behold the mysteries that lie beyond.
+
+STYLE: Mysterious Abstraction
+COLORS: Crimsons, Burnt Sienas, Ceruleans, Golds, Lapis Lazulis.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

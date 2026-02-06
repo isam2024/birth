@@ -1,0 +1,18 @@
+# Visual companion for: [ Moonlit Vigil ]
+# by Raven
+# ID: 9b7d7440-12da-4adc-98e3-2fc7c749f899
+
+## Image Prompt
+The scene unfolds as a midnight vigil, where the moon's silvery light casts an otherworldly glow upon the face of a lone figure. The subject stands at the edge of a vast, dark expanse, the silhouette of which is shrouded in mist and shadows. The wind whispers secrets in the ear of this sentinel, causing their tunic to flutter like a ghostly whisper. The fabric drapes elegantly from their form, its folds accentuated by the gentle breeze.
+
+The moon above casts an ethereal glow upon the face, illuminating the lines etched by time and experience. Crimson hues bleed into burnt sienna tones on the figure's skin, giving them an air of worn wisdom. Cerulean shadows dance across their cheekbones, creating a sense of depth and mystery.
+
+Crimson accents in the form of embroidery or brocade peek out from beneath the folds of the tunic, shimmering like rubies in the moonlight. Leather-bound boots stand steadfast beside the figure, adorned with brass clasps that glint like tiny stars. The very air around them seems to vibrate with an energy both ancient and timeless.
+
+The atmosphere is heavy with anticipation, weighed down by a sense of secrets waiting to be unlocked. A hush falls over the scene, as if the night itself were holding its breath in reverence for this midnight vigil.
+
+STYLE: Mystical Realism
+COLORS: Midnight blues, crimson reds, burnt siennas, cerulean greens
+
+## Negative Prompt
+text, words, letters, watermark, blurry

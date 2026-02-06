@@ -1,0 +1,18 @@
+# Visual companion for: Moonlit Vagaries
+# by Raven
+# ID: 89e3612c-f133-44cf-8edd-4910a062a32d
+
+## Image Prompt
+The scene unfolds like a mystic's tapestry, woven from threads of forgotten lore and ancient wisdom. A figure stands at the threshold of a dreamworld, shrouded in mist that swirls like ethereal serpents around their form. The air is alive with whispers of the ancients, as if the very fabric of reality is a living, breathing entity that rustles through the shadows.
+
+Crimson hues bleed across the sky, casting an otherworldly glow over the landscape. Burnt sienna and umber tones deepen the mystery, like the rich patina on ancient relics. The crescent moon above casts an eerie luminescence, as if the silvery light is being slowly drained from its surface, leaving behind a trail of starlight that dances across the mist.
+
+The figure's form dissolves into the shadows, making it impossible to discern any defining features. Their presence is felt more than seen, as if they are a conduit for the whispers that surround them. The textures of the scene are a mix of smooth, cool surfaces and rough, weathered stone, evoking a sense of ancient history and forgotten knowledge.
+
+As the eye lingers on the image, the boundaries between reality and myth begin to blur, like the edges of a watercolor painting in the rain. The atmosphere is heavy with an almost palpable sense of longing and discovery, as if the viewer is being invited to step across the threshold into a realm beyond the mundane.
+
+STYLE: Mystical Realism
+COLORS: Burnt sienna, crimson, umber, cerulean blue, starlight silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

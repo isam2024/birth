@@ -1,0 +1,20 @@
+# Visual companion for: Moonlit Glyphs
+# by Raven
+# ID: 0add1435-555d-42e7-bf2b-3d7ac4a4bd23
+
+## Image Prompt
+The mystical scene unfolds like a dream, shrouded in an ethereal veil that beckons the viewer to step into its secrets. A lone figure stands at the edge of a mist-shrouded clearing, surrounded by towering trees whose branches stretch towards the heavens like withered fingers. The air is heavy with the scent of damp earth and decaying leaves.
+
+Soft, lunar light seeps from the horizon, casting an argent glow across the scene. The gentle illumination dances across the figure's features, imbuing their countenance with a sense of otherworldly longing. Their eyes are closed, as if absorbing the whispers of the night, while the moon casts a silver pathway to guide them deeper into the mysteries.
+
+The figure's attire is a flowing, crimson-hued cloak that seems woven from the very essence of the shadows. It billows behind them like a dark cloud, evoking the whispers of the unknown. The garment's texture appears almost... living, as if it's been infused with the whispers themselves.
+
+In the background, burnt sienna-hued tree trunks stretch towards the heavens, their bark twisted into grotesque, organic forms that evoke an air of ancient wisdom. Cerulean mist swirls around the base of the trees, imbuing the scene with a sense of mystery and the unknown.
+
+The atmosphere is heavy with anticipation, as if the very fabric of reality is about to unravel. The mood is one of hushed reverence, inviting the viewer to partake in the mystical secrets that dwell within this enchanted realm.
+
+STYLE: Surrealist
+COLORS: Crimson, burnt sienna, cerulean, argent
+
+## Negative Prompt
+text, words, letters, watermark, blurry

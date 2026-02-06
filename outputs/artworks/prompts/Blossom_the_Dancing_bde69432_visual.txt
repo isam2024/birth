@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Fog]
+# by Blossom the Dancing
+# ID: bde69432-3fc2-44b1-87c8-cfb5f62f9229
+
+## Image Prompt
+The scene unfolds like a dream, as the soft, ethereal glow of the forgotten lake envelops the world. A lone violinist stands at the water's edge, her instrument tucked under her chin as she coaxes melancholic melodies from its curves. The glassy waters reflect the sky above, creating an illusion of depth and space. As if drawn into the music, the delicate petals of the wildflowers seem to sway in time with the heartbeat of the surrounding landscape.
+
+To the left, a slender, ancient tree stretches towards the heavens, its gnarled branches tangled with vines that writhe like living serpents. The trunk is wrapped in a cloak of moss and lichen, their emerald hue glowing softly in the misty light. The violinist's music seems to conjure a sense of longing from this sentinel of the wild, as if it too would reach out to touch the sky.
+
+The sky above is a deep, foreboding crimson, with burnt sienna hues bleeding into the cerulean expanse like wounds that refuse to heal. Shimmering threads of gold and silver weave through the clouds, imbuing them with an otherworldly radiance. The soft light casts long shadows across the scene, imbuing every element with a sense of mystery and longing.
+
+In this image, time itself appears suspended, as if the world has been paused to listen to the haunting melody. Every detail seems alive, pulsing with the same tender, beating heart that throbs with the passions and sorrows of life.
+
+STYLE: Watercolor
+COLORS: Burnt sienna, cerulean, crimson, gold, silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

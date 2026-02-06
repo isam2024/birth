@@ -1,0 +1,23 @@
+# Visual companion for: [Whispers in the Moonlit Veil]
+# by Raven
+# ID: 114e9058-c3c7-4540-b72b-505bd069a3af
+
+## Image Prompt
+In the heart of a mist-shrouded studio, where the veil between reality and the unknown is at its thinnest, a captivating scene unfolds. The room is bathed in an ethereal light, as if the moon has descended upon the space. The walls, adorned with ancient relics and mystical symbols, seem to absorb and deflect this luminescence, casting long shadows that stretch like dark tentacles.
+
+The air is heavy with an otherworldly presence, as if the very essence of the unknown stirs in the darkness. A delicate, silver-gray mist swirls around the edges of the room, imbuing the atmosphere with an aura of mystery and foreboding. The scent of blooming heather wafts on the breeze, mingling with the musty aroma of aged parchment and forgotten knowledge.
+
+The floor beneath is made of worn, dark wood, polished to a soft sheen by countless footsteps over the years. Against one wall, a massive, stone fireplace crackles and spits, casting flickering shadows across the walls. In the center of the room, a delicate, crystal chandelier casts a kaleidoscope of colors, its facets reflecting the moon's gentle light.
+
+Textures abound in this enchanted space – the rough-hewn wooden beams, the cool, gray stone, and the smooth, polished metal of the chandelier all contribute to an sensory experience that invites the viewer to step across the threshold into the unknown.
+
+Mood and atmosphere pervade the image like a palpable force: hushed, expectant, and just a little unsettling. This is a place where secrets are whispered in the darkness, and the lines between reality and fantasy blur like the mist-shrouded veil itself.
+
+STYLE: Mystical Surrealism
+COLORS:
+- Muted blues and grays to evoke an otherworldly atmosphere
+- Warm, burnished copper tones for accents of ancient wisdom
+- Deep, rich reds to hint at secrets whispered in the darkness
+
+## Negative Prompt
+text, words, letters, watermark, blurry

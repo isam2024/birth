@@ -1,0 +1,18 @@
+# Visual companion for: [petals of sorrow]
+# by Blossom the Dancing
+# ID: 9f1986ea-42e1-4938-8b93-2723ce8ffb9f
+
+## Image Prompt
+In the depths of a twilight sea, a lone violinist stands on the edge of a shore, lost in the symphony of sorrow. The waves undulate like a vast, turquoise expanse, their crests kissed by wispy strands of cirrus that shimmer in the fading light. A crimson glow seeps from the horizon, where burnt sienna cliffs plunge into the abyss.
+
+As twilight deepens, a gentle breeze stirs, rustling the delicate petals that dangle from the violinist's fingers like tears falling onto the waves. The instrument itself is crafted of rich, polished ebony, its curves and lines softened by age and wear. A gossamer veil of cerulean mist shrouds the shore, imbuing the air with an otherworldly melancholy.
+
+Textured waves lap gently against the violinist's feet, their foamy kiss like a tender caress. In the distance, the faint outline of a lighthouse pier stands sentinel, its lantern room aglow with a soft, golden light that casts no shadow.
+
+As night begins to unfold, the sky deepens into an inky canvas, punctuated by stars that twinkle like diamonds scattered across the velvet expanse. The air vibrates with the sweet ache of longing, and the waves whisper secrets to the shore.
+
+STYLE: Expressionist Watercolor
+COLORS: Turquoise, Cerulean, Crimson, Burnt Siena, Ebony, Golden
+
+## Negative Prompt
+text, words, letters, watermark, blurry

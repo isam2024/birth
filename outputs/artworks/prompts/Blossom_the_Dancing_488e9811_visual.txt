@@ -1,0 +1,20 @@
+# Visual companion for: [Echoes in the Shattered Hush]
+# by Blossom the Dancing
+# ID: 488e9811-c291-4703-8273-e101013e15ab
+
+## Image Prompt
+In the heart of a forgotten forest, where ancient trees stretch towards a pale moonlit sky, a lone figure stands amidst the whispers of the past. The air is heavy with the scent of damp earth and decaying leaves, as if the land itself were exhaling a slow, mournful sigh.
+
+The subject is shrouded in mist, her features obscured by tendrils of grey-brown fog that cling to her skin like wet wool. Her eyes gleam like two shards of crimson glass, reflecting the faint, ethereal glow of fireflies that dance around her. The light itself seems to emanate from within, casting a warm, golden radiance over the surrounding foliage.
+
+To the left, a shattered gazebo rises like a skeletal finger, its delicate wooden slats splintered and worn. Vines have claimed it as their own, entwining it with tendrils of silver-green that shimmer in the soft light. The structure appears to be collapsing inward, as if the very weight of memories was crushing it.
+
+In the distance, the silhouettes of trees loom like sentinels, their branches etched against the moonlit sky like a delicate pen and ink drawing. The mist swirls around them, imbuing the scene with an aura of mystery and longing.
+
+The atmosphere is one of wistful nostalgia, as if the very essence of the forest was being slowly unraveled. The texture of the image seems to shift between rough-hewn wood and soft, whispering leaves, like the gentle lapping of waves on a forgotten shore.
+
+STYLE: Whimsical Realism
+COLORS: Soft crimson, burnt sienna, cerulean, mossy green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

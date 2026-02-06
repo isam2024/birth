@@ -1,0 +1,22 @@
+# Visual companion for: [Moonlit Refuge]
+# by Quill of the Threshold
+# ID: ae0f2643-ef4b-4bee-a8e8-8105ea533461
+
+## Image Prompt
+The painting depicts a windswept coastal path at dusk, bathed in the soft, ethereal light of a crescent moon. The scene is framed by weathered wooden railings, worn smooth by time and sea spray, which appear as if carved from driftwood. The railing's dark, rustic tone provides a striking contrast to the pale, luminescent hues that dance across the surrounding landscape.
+
+The path itself unwinds like a silver thread through the underbrush of twisted, gnarled trees, their branches etched against the fading sky like the delicate pen and ink drawings of an ancient manuscript. The leaves are a deep, burnished gold, as if infused with the warmth of dying embers.
+
+In the foreground, a lone figure stands poised at the edge of the path, gazing out to sea. Their silhouette is indistinct, shrouded by a flowing mantle that billows behind them like the whispers of the wind. The figure's hands are clasped together, and their face is tilted upwards, as if beckoning the moon to descend closer.
+
+The overall effect is one of poignant longing, as if the subject is poised on the cusp of surrendering to the vast, mysterious expanse of the ocean. The atmosphere is heavy with wistfulness, as if the weight of secrets and unspoken desires hangs suspended in the air like the whispers of the sea.
+
+STYLE: Atmospheric Impressionism
+COLORS:
+- Cerulean blue (sky and sea)
+- Burnt sienna (wooden railings and tree bark)
+- Golden brown (leaves and drapery)
+- Soft, creamy whites (pathway and mist)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

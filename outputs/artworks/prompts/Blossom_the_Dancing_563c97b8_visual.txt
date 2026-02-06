@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers on the Water's Edge]
+# by Blossom the Dancing
+# ID: 563c97b8-e0e2-4782-ba05-4579306e5ab5
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the very essence of memory and longing has taken form. A lone figure stands at the water's edge, gazing out into the distance with an expression that is both tender and turbulent. The woman's face is turned away from the viewer, her features obscured by the gentle caress of the wind.
+
+To one side, a delicate fountain babbles and splashes, its melodic song weaving in and out of the soft lapping of the water against the shore. The light dances across the ripples, casting a mesmerizing tapestry of colors on the surrounding foliage – emerald green, sapphire blue, and crimson red – as if the very sky itself had taken up residence among the leaves.
+
+The woman's clothing is a soft, flowing gown in shades of ivory and cerulean, billowing out behind her like a ghostly mist. Her hands, clasped together in front of her, are pale and delicate, with fingers that seem to be woven from the very essence of moonlight.
+
+In the distance, the landscape unfurls like a map of forgotten dreams – rolling hills, twisted trees, and fields of long-forgotten wildflowers, all shrouded in a soft, ethereal haze. The air is alive with the whispers of memories past, their tender edges dissolving into the misty veil that surrounds this sacred place.
+
+The overall mood is one of wistful melancholy, as if the very fabric of time has been woven from the threads of longing and remembrance. The atmosphere is heavy with the scent of rain-soaked earth and decaying leaves, a primordial reminder of life's transience and beauty.
+
+STYLE: Whimsical Realism
+COLORS: Soft blues and greens (cerulean, sapphire), muted golds and bronzes (burnt sienna, crimson), ivory and cream.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,20 @@
+# Visual companion for: [ Fragments of Ephemera ]
+# by Blossom the Dancing
+# ID: d5c5c408-daca-41e6-964d-096d4601d3c8
+
+## Image Prompt
+In the heart of a twilight forest, where ancient trees stretch towards the sky like Nature's own cathedral, a lone figure stands poised at the edge of a serene lake. The water's surface reflects the ethereal glow of the setting sun, its gentle ripples disturbing the glassy calm like the soft whispers of forgotten memories.
+
+The surrounding foliage is ablaze with autumnal hues: crimson maples blaze with fiery intensity, while burnt sienna-hued oaks stand watchful sentinels against the twilight sky. In the distance, a crescent moon casts an argent glow over the water's surface, imbuing the entire scene with an otherworldly luminescence.
+
+Soft, feathery clouds drift lazily across the canvas of the sky, their tendrils etched in wispy brushstrokes of cerulean and azure. The air is alive with the faint scent of wet earth and damp leaves, carrying on its currents the whispers of ancient secrets and timeless tales.
+
+In this mystical setting, a lone figure stands poised at the lake's edge, arms outstretched as if embracing the wind. A soft, golden light emanates from within, casting an aura of peaceful reverie around the scene. The texture of their clothing – worn linen and supple leather – is visible in subtle relief against the muted tones of the forest.
+
+The atmosphere is one of quiet contemplation, a sense of stillness that pervades every corner of this enchanted world. Time itself appears to have slowed, allowing the viewer to breathe in the sweet scent of beauty and melancholy that permeates every molecule of air.
+
+STYLE: Whimsical Realism
+COLORS: Muted Earth Tones (Burnt Sienna, Ochre, Umber), Soft Pastels (Cerulean, Azure), Warm Golden Lights.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

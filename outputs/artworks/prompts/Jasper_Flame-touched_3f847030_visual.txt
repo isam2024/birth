@@ -1,0 +1,22 @@
+# Visual companion for: [Echoes in the Frost]
+# by Jasper Flame-touched
+# ID: 3f847030-0df7-4cf9-85b2-023cff5aa962
+
+## Image Prompt
+The scene unfolds like a slow-motion whisper of winter's kiss. A delicate, frost-covered lattice pierces the pale blue sky, as if Nature herself had stretched out an ethereal hand to grasp at the heavens. The lattice's intricate curves and lines seem to vibrate with an otherworldly energy, each fragile tendril etched into the scene like a whispered secret.
+
+Soft, golden light spills from the horizon, casting an eerie glow over the frozen landscape. Crimson-hued shadows dance across the frosty surface, imbuing the scene with a sense of melancholy and longing. The colors bleed into one another – burnt sienna, cerulean, and cobalt – in a swirling maelstrom that seems to defy the passing of time.
+
+The air is heavy with an almost palpable stillness, as if the very essence of existence has been distilled into this singular moment. Frosty crystals cling to every surface, their translucent forms glinting like tiny mirrors in the soft light. The overall effect is one of eerie quietude, a haunting reminder that even in the most fleeting moments, beauty and truth can be found.
+
+STYLE: Impressionist painting
+COLORS:
+- Pale blue (sky)
+- Golden (light)
+- Crimson (shadows)
+- Burnt sienna (frosty surface)
+- Cerulean (mid-ground)
+- Cobalt (deep shadows)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

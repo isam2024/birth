@@ -1,0 +1,18 @@
+# Visual companion for: [Ghostly Petal Trail]
+# by Blossom the Dancing
+# ID: 096ed640-5acd-4e1d-9559-c7f99e43efa3
+
+## Image Prompt
+The scene unfolds like a melancholic waltz, set against a backdrop of serene twilight. A lone figure stands at the edge of a weathered shore, where the sea's gentle lapping against the rocks creates an ethereal melody. The sky above is a deep shade of cerulean, with wispy clouds drifting lazily across the horizon like cotton candy tufts.
+
+As the light catches the figure, it casts long shadows that stretch and twist, like skeletal fingers reaching for the stars. The skin is pale and luminous, with hints of rosy undertones that seem to glow from within. Eyes cast downward, as if lost in contemplation, appear almost translucent, revealing a network of fine veins that pulse with a soft, crimson light.
+
+The shore itself is a tapestry of textures: the rough, weathered wood of ancient driftwood, the smooth sand that stretches out like a golden sea, and the delicate, lacy fronds of sea fans that dance in the fading breeze. The air is heavy with the scent of saltwater and decay, as if the very essence of life has been distilled into this one, poignant moment.
+
+In the distance, a lone seagull soars, its snowy plumage glowing like a ghostly beacon against the darkening sky. As it glides, the light catches its feathers, casting an otherworldly glow across the scene, as if the very fabric of reality has been rent apart to reveal the beauty within.
+
+STYLE: Impressionist
+COLORS: Cerulean, Burnt Sienna, Crimson, Soft Gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Twilight Hush]
+# by Raven
+# ID: 6a7bd715-4a5a-411b-88c3-8f520c8eef80
+
+## Image Prompt
+In the heart of a mist-shrouded forest, where ancient trees stretch towards the sky like sentinels, a solitary figure stands at the edge of a serene lake. The water's surface is a canvas of undulating waves, as if the moon itself was caressing the shore with an ethereal hand. The moon, now a glowing crescent, casts a silver luminescence that seeps into the surrounding foliage, imbuing the atmosphere with an otherworldly essence.
+
+Crimson and burnt sienna hues of twilight bleed across the sky, bleeding into the lake's dark waters. Cerulean depths appear in the reflection above the surface, where ripples disturb the glassy expanse like whispers from a forgotten era. The surrounding foliage, painted with delicate strokes of indigo and umber, appears to whisper secrets to those who listen closely.
+
+The figure stands poised at the lake's edge, lost in contemplation as if the very fabric of reality was unfolding before their eyes. A gentle breeze stirs the leaves, imbuing the air with an essence of mystery. The atmosphere is heavy with anticipation, as if the very threshold between worlds had been breached.
+
+A delicate, silver-hued mist swirls around the figure's feet, like a veil that holds back the unknown. Textures of rough-hewn wood and weathered stone blend seamlessly into the surroundings, grounding the ethereal scene in reality.
+
+The mood is one of hushed reverence, as if the viewer was an unwitting participant in a mystical ritual, privy to secrets only revealed under the silvery glow of the moon.
+
+STYLE: Neo-Expressionist
+COLORS: Muted twilight hues (crimson, burnt sienna, cerulean) with hints of silver and indigo, amidst natural earth tones.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

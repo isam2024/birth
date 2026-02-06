@@ -1,0 +1,18 @@
+# Visual companion for: [WHISPERED IN THE WIND]
+# by Blossom the Dancing
+# ID: 1a057b6f-763d-4b65-8293-f56d11ad344d
+
+## Image Prompt
+The scene unfolds as a mist-shrouded, moonlit garden, where ancient, gnarled branches stretch towards the sky like skeletal fingers. The air is heavy with the scent of damp earth and decaying leaves. Crimsons and burnt siennas bleed across the canvas, casting an eerie, golden glow upon the foliage.
+
+Soft, feathery tendrils of light seem to emanate from the moon above, casting long shadows that writhe like living things across the ground. Delicate petals, tinted with a soft cerulean hue, unfold like a ghostly fan, releasing wisps of ethereal mist into the air. The overall effect is one of fragile beauty and heartbreaking longing.
+
+Visible textures and materials are woven together in an intricate dance: gossamer threads of spider silk entwine with the petals, while delicate, lace-like patterns on the leaves seem to shimmer like moonbeams. In the distance, a lone, silver-barked tree stands sentinel, its bark etched with the whispers of forgotten secrets.
+
+The mood that pervades this image is one of bittersweet nostalgia, where the past and present converge in a poignant dance of love and loss. The atmosphere is heavy with a sense of longing, as if the very essence of memory itself has taken on a life of its own.
+
+STYLE: Watercolor Dreamscapes
+COLORS: Soft crimsons, burnt siennas, cerulean blues, moonlit silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

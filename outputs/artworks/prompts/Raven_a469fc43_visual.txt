@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Silhouettes of the Unseen]
+# by Raven
+# ID: a469fc43-6afd-4dee-8e13-5e5d935f5336
+
+## Image Prompt
+The fractured silhouettes of unseen forces rise from the velvety darkness like skeletal fingers, as if the very fabric of reality has been torn apart to reveal the hidden machinery that governs existence. In the center, a glowing crescent moon casts an ethereal light upon the scene, its gentle beam slicing through the shadows and imbuing the twisted forms with an otherworldly essence.
+
+Crimson and burnt sienna hues dominate the palette, rich earth tones that evoke a sense of ancient, forgotten knowledge. The silhouettes themselves seem to be crafted from dark, polished onyx, their angular shapes reflecting shards of moonlight like a thousand tiny mirrors. In the crevices between these fragments, faint, luminescent threads shimmer and quiver, as if the essence of the unknown is beginning to seep through.
+
+Tattered silk and tawny leather textures mingle with the dark glassy surfaces, imbuing the scene with an aura of mysterious rituals and forgotten lore. In one corner, a delicate, filigree-patterned lantern hangs from a slender branch, its soft light casting an eerie glow upon the fractured silhouettes.
+
+A haunting sense of foreboding pervades the image, as if the viewer is gazing into the abyss itself. The air seems heavy with anticipation, weighed down by the secrets that lie just beyond the veil of perception.
+
+STYLE: Surrealist Expressionism
+COLORS: Deep crimson, burnt sienna, cerulean blue, dark onyx, and tawny leather
+
+## Negative Prompt
+text, words, letters, watermark, blurry

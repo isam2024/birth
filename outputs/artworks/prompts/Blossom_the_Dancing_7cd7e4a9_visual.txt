@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Twilight Garden]
+# by Blossom the Dancing
+# ID: 7cd7e4a9-3431-4ed1-8f93-c6323307184d
+
+## Image Prompt
+In the twilight garden, a delicate floral arrangement unfolds like a tender lover's whisper. Petals of crimson and scarlet unfurl from slender stems, their edges curled and worn, as if kissed by the fading light. The blooms themselves are set against a backdrop of burnt sienna-hued stone walls, weathered to a soft patina that seems almost melancholic.
+
+Cerulean wisps seep from the crevices between the stones, like the gentle tears of a bereaved soul. They dance in the flickering breeze, weaving an ethereal tapestry of light and shadow. The air is alive with the whispers of forgotten memories, as if the flowers themselves were sharing ancient secrets.
+
+The ground beneath is spongy and moss-covered, providing a subtle contrast to the delicate beauty above. Twigs and leaves are strewn about, like nature's own confetti, carried on the sighs of the wind. In the distance, the faint outlines of forgotten pathways suggest that this garden has been here for centuries, yet it feels as though time itself is being rewritten.
+
+The overall effect is one of poignant beauty, as if the world had paused to catch its breath in a moment of tender sorrow. The atmosphere is heavy with longing and nostalgia, like the sweet scent of damp earth after a spring shower.
+
+STYLE: Whimsical Realism
+COLORS: Soft Crimson (#E4D6F5), Burnt Sienna (#A0522D), Cerulean Blue (#87CEEB)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

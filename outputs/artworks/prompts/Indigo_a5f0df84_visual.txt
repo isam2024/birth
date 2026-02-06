@@ -1,0 +1,18 @@
+# Visual companion for: "Hearthfire"
+# by Indigo
+# ID: a5f0df84-6c7b-4783-aec5-740153736c23
+
+## Image Prompt
+The scene unfolds like a tender tapestry, woven from threads of warmth and nostalgia. The walls of a cozy room are painted a soft, creamy yellow (creme), adorned with richly woven wooden panels in burnt sienna and crimson hues. The floor is made of dark, polished wood, worn smooth by generations of footsteps.
+
+Candlelight casts a golden glow, spilling from intricately carved lanterns that seem to dance around the room. Soft, blue-gray cerulean light pours through the windows, filtering through the lace curtains like a gentle morning mist. The air is alive with the scent of wood smoke and baking bread, transporting viewers to a place where time stands still.
+
+In the center of the room, a large stone hearth crackles with warmth, surrounded by plush armchairs in a deep, rich brown (ebony). Soft cushions and throw blankets in muted shades of crimson and gold add a pop of color, while delicate patterns etched into the woodwork hint at a rich history.
+
+The atmosphere is one of contentment and togetherness – the kind that comes from sharing laughter around the fire, swapping stories of old, or simply basking in each other's company. The mood is tranquil, inviting viewers to linger awhile, letting the warmth and comfort seep into their bones.
+
+STYLE: Traditional Realism
+COLORS: Warm earth tones (creme, burnt sienna, crimson), soft blues (cerulean), rich browns (ebony)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

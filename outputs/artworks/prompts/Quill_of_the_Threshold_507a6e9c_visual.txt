@@ -1,0 +1,18 @@
+# Visual companion for: [Moonlit Gulls]
+# by Quill of the Threshold
+# ID: 507a6e9c-a8d0-4730-a745-8c5feae8674f
+
+## Image Prompt
+The moonlit scene unfolds like a somber tapestry, woven from threads of indigo and umber. The gulls, silhouetted against the velvety darkness, stand as sentinels on the windswept shore. Their feathers, a mottled dance of whites, grays, and dark browns, blend seamlessly into the surroundings, like the gentle lapping of shadows.
+
+To the left, a wispy crescent moon casts an ethereal glow upon the waves, its silvery light illuminating the gentle ripples that lap against the shore. The water itself is a canvas of shifting hues – cerulean and turquoise, flecked with hints of silver and gray. A few brave stars twinkle like frost-kissed diamonds scattered across the velvet expanse.
+
+As the eye travels upward, the gulls' massive silhouettes stretch toward the night sky, their curved beaks and wingtips a dark counterpoint to the lunar radiance above. In the foreground, driftwood and seaweed entwine, their weathered textures whispering tales of ages past. The air is heavy with the scent of salt and sea spray, carrying on its currents the whispered secrets of the shore.
+
+The atmosphere is one of hushed reverence, as if the very presence of these creatures demands stillness and contemplation.
+
+STYLE: Romantic Realism
+COLORS: Midnight blue, Burnt sienna, Cerulean, Ivory, Dark gray
+
+## Negative Prompt
+text, words, letters, watermark, blurry

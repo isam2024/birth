@@ -1,0 +1,18 @@
+# Visual companion for: [Murmurs on the Shores]
+# by Quill of the Threshold
+# ID: f8366a7e-2033-4e62-ab40-4fa4d0480f7b
+
+## Image Prompt
+The composition unfolds like a mournful elegy, set against a backdrop of desolate shores. The tempestuous heart, symbolized by the turbulent sea, spills forth onto the canvas in a majestic display of movement and emotion. Waves crash against the weathered wooden planks, sending sprays of sea foam dancing towards the horizon. In the foreground, wispy tendrils of fog seep from the crevices, swirling around gnarled roots that pierce the earth like skeletal fingers.
+
+The sky above is a deep, foreboding indigo, pierced by slivers of cerulean light that seem to emanate from the very heart of the storm. These fleeting shafts of radiance dance across the canvas, casting an otherworldly glow upon the tangled undergrowth. Burnt sienna hues warm the rugged terrain, evoking a sense of ancient, worn stone.
+
+In the distance, the silhouette of twisted trees stands sentinel, their branches etched against the turbulent sky like nature's own cathedral. The leaves rustle and shudder in the wind, as if sharing secrets with the shadows that writhe across the shore. Moss-covered boulders glint with a soft, ethereal light, inviting the viewer to sink into the tranquil depths of this mysterious world.
+
+The texture of the image is rich and tactile, with rough-hewn wood and weathered stone providing a foundation for the delicate dance of seaweed and mist. The very air seems to vibrate with an almost palpable sense of longing and melancholy, as if the viewer has stumbled into a private, introspective realm.
+
+STYLE: Expressive Realism
+COLORS: Earthy tones (burnt sienna, umber, ochre), deep blues and greens, accents of soft gold and crimson.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

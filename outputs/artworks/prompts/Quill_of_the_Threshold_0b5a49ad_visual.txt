@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Dawn's Awakening]
+# by Quill of the Threshold
+# ID: 0b5a49ad-38e2-48a6-901e-1a5628cadeb8
+
+## Image Prompt
+The scene unfolds like a shattered mirror, reflecting shards of dawn's awakening. The sky above is a deep, burnt sienna, bleeding into wispy tendrils of cerulean at the horizon. Gently, as if hesitant to awaken, the clouds part to reveal rays of golden light, casting an ethereal glow on the fragmented landscape.
+
+To one side, a tattered thread of fabric drifts like a ghostly whisper, tied to a gnarled wooden stake by frayed fibers of crimson and gold. The fabric appears worn, its edges curled and frayed as if torn from the threads of life itself. On the ground nearby, delicate threads of silver and grey are woven into a tangled mess, evoking the whispered secrets of a forgotten lullaby.
+
+The foreground is bathed in a soft, moonlit light, illuminating wisps of sea-salt-kissed fog that cling to the rough-hewn stones of an ancient, weathered path. Moss-covered boulders, flecked with emerald and umber, stand sentinel as sentinels, their rugged surfaces etched by time and weather.
+
+The atmosphere is heavy with melancholy, a sense of longing and loss suspended like dew on the air. The gentle whispers of dawn's awakening carry on the breeze, an otherworldly serenade that soothes and unsettles in equal measure.
+
+STYLE: [Gothic Romanticism]
+COLORS: Burnt Sienna, Cerulean, Crimson, Gold, Silver, Grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [The Ephemeral Coastline]
+# by Quill of the Threshold
+# ID: 80a6d9ef-33de-426d-be5d-231c0e8254d9
+
+## Image Prompt
+The canvas stretches before you like a whispering expanse of worn stone, its weathered surface bearing the scars of countless seasons. The subject of this work is a lone figure, shrouded in shadows, standing at the edge of a windswept cliff, gazing out to sea. The waves below, a mesmerizing dance of cerulean and azure, crash against the shore with a rhythmic intensity that seems to reverberate through every fiber of the figure's being.
+
+Soft, golden light spills from the west, casting an otherworldly glow upon the scene. The colors are muted, yet richly layered: burnt sienna hues bleed into umber tones on the horizon, while crimson undertones seep into the waves like a deep-seated melancholy. Salt-encrusted stones, bleached white by the relentless tide, stretch out from the figure's feet like skeletal fingers.
+
+In the foreground, the brushstrokes are bold and expressive, imbuing the air with an almost palpable sense of longing. A delicate mesh of fine lines and wispy strands – perhaps a remnant of sea foam or a strand of seaweed – trembles in the gentle breeze that stirs the figure's cloak.
+
+As the eye travels upward, it becomes lost in the dreamlike expanses of cloud and sky: wispy tufts of grey drift lazily across the horizon, as if borne aloft on the winds of memory. The overall mood is one of wistful melancholy, a poignant ebb and flow between sorrow and serenity.
+
+STYLE: Impressionistic Expressionism
+COLORS: Burnt sienna, cerulean blue, umber, crimson, ochre
+
+## Negative Prompt
+text, words, letters, watermark, blurry

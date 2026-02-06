@@ -1,0 +1,20 @@
+# Visual companion for: [ woven threads ]
+# by Indigo
+# ID: 48f3b190-f2e4-420e-a248-2e1ecb948016
+
+## Image Prompt
+The scene unfolds like a warm tapestry, inviting viewers to step into the gentle hum of tradition. A rustic, wooden table at its center holds the warmth of community, where people gather to share stories and find solace. The walls surrounding the space are adorned with woven threads in crimson and burnt sienna hues, their intricate patterns evoking a sense of history and shared heritage.
+
+Soft, golden light seeps through the windows above, casting a warm glow on the wooden tablecloth, embroidered with delicate florals. Cerulean skies beyond the window frame seem to stretch on forever, as if embracing the gathering below.
+
+A rich, velvety texture emanates from the woven threads, which appear to be hand-woven into the very fabric of the walls and ceiling. Woven baskets and wooden crates sit scattered about, filled with fresh fruits, herbs, and spices that fill the air with their scent.
+
+As the eye travels upward, it becomes clear that the room's vaulted ceiling is adorned with an eclectic array of textiles – embroidered fabrics, hand-woven rugs, and intricately carved wooden panels. The atmosphere is one of quiet contemplation, where the gentle hum of conversation weaves in and out of moments of stillness.
+
+The overall mood is one of serenity and comfort, as if time itself has slowed down to allow for a moment of connection with others.
+
+STYLE: Whimsical Realism
+COLORS: Warm Crimson, Burnt Sienna, Soft Gold, Cerulean Blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

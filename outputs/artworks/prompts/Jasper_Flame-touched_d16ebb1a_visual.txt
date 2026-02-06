@@ -1,0 +1,18 @@
+# Visual companion for: [ Fragile Bloom ]
+# by Jasper Flame-touched
+# ID: d16ebb1a-aa72-4a6a-9655-a0882abb11d5
+
+## Image Prompt
+In the center of a worn, wooden pedestal, a delicate bloom unfurls its petals like a whispered secret. The flower's tender form is suspended amidst a tapestry of fragmented lines and curves, evoking the fragile balance between order and chaos. Crimsons and burnt siennas bleed into one another, casting a warm, golden glow across the piece.
+
+Soft, diffused light spills from above, casting long shadows that stretch like skeletal fingers across the pedestal's surface. The illumination is gentle, as if filtered through a veil of translucent silk. Cerulean hues dance along the edges of the bloom, imbuing it with an otherworldly essence.
+
+The pedestal itself appears weathered, its surface scarred by age and neglect. Inlays of dark wood reveal hints of hidden patterns, adding depth to the composition without overwhelming it. A delicate patina of moss and lichen clings to the wood's surfaces, lending a sense of decay and abandonment.
+
+Textured fragments – perhaps pieces of aged paper or shattered glass – spill from the pedestal's base, creating a disorienting sense of chaos. Yet, amidst this turmoil, the bloom remains serene, its petals unfolding like a promise. The air is heavy with anticipation, as if the very moment of revelation is about to unfold.
+
+STYLE: Expressionist Abstraction
+COLORS: Burnt sienna, crimson, cerulean, golden yellow
+
+## Negative Prompt
+text, words, letters, watermark, blurry

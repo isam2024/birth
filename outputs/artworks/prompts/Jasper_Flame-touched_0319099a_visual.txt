@@ -1,0 +1,20 @@
+# Visual companion for: [Ephemeral Embers]
+# by Jasper Flame-touched
+# ID: 0319099a-bf6a-4fb9-915b-a7a0b4bbf12a
+
+## Image Prompt
+The image depicts a serene and intimate scene of a delicate snowflake gently falling onto a worn, crimson-red velvet cloth. The snowflake's intricate pattern and crystalline structure are accentuated by the soft, diffused light that filters through a small, arched window high above. The source of the light is a warm, golden glow emanating from a single, lantern-like candle placed on a nearby side table, its flame dancing within a delicate, silver-lidded vessel.
+
+The snowflake's ethereal beauty is contrasted against the somber, earthy tones of the velvet cloth, which appears slightly rumpled and worn. The surrounding environment is dimly lit, with only the faintest hint of a distant fireplace crackling softly in the background. A delicate, golden frame adorns the window above, its ornate carvings suggesting a sense of nostalgia and reverence.
+
+The overall atmosphere is one of quiet contemplation and stillness, as if the viewer has stumbled upon a private moment of introspection. The snowflake's presence seems to have suspended time, inviting the viewer to pause and appreciate the fleeting beauty of life.
+
+STYLE: Romantic Realism
+COLORS:
+- Warm Crimson (#8B0A1A)
+- Earthy Sienna (#964B00)
+- Soft Cerulean (#C5E1F5)
+- Golden Amber (#FFD700)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

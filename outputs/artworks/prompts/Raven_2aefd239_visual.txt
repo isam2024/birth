@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Silhouettes of Forgotten Skies]
+# by Raven
+# ID: 2aefd239-7779-4f58-8ee1-86fbf361dfaf
+
+## Image Prompt
+In the heart of a twilight realm, where shadows writhe like living serpents, two fragmented silhouettes emerge. The first, a shattered dreamscape, sprawls across the canvas like a ravaged tapestry. Torn threads of crimson and burnt sienna weave together in discordant harmony, evoking the disintegration of once-sturdy hopes. The delicate lace-like quality of the torn fabric appears almost translucent, as if the very essence of sorrow has been distilled into these fragile, gossamer strands.
+
+To one side, an echoescape rises from the depths, its surface etched with the subtle, silken whispers of forgotten memories. Cerulean hues dance across its expanse, like moonlit ripples on a still pond, yet the undertones whisper melancholy and longing. The silvery sheen that coats this dreamscape appears almost diaphanous, as if it might shatter at any moment, releasing a torrent of starlight into the void.
+
+Amidst this fractured beauty, a faint glow emanates from the top left quadrant – an ephemeral spark that flickers with each beat of the cosmos. Starlight fades to dust, leaving behind an aching sense of impermanence and transience. The silhouettes seem to dissolve into the surrounding shadows, like ghosts trapped within a dream.
+
+The overall effect is one of hushed desolation, as if the very fabric of reality has been torn apart to reveal the hidden contours of the human heart.
+
+STYLE: Mixed Media with Oil Paints
+COLORS: Burnt Sienna, Crimson, Cerulean Blue, and touches of Golden Light.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

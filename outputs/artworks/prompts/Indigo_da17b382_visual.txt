@@ -1,0 +1,18 @@
+# Visual companion for: [Soft Ember Woven]
+# by Indigo
+# ID: da17b382-9f3f-47ad-962f-8a5880e26cd2
+
+## Image Prompt
+The scene unfolds like a warm fireside gathering on a winter's eve. A softly lit room, bathed in the gentle glow of candles and the crackling warmth of a fire, is set against a backdrop of rich, earthy tones. The walls, adorned with woven textiles and vintage trinkets, seem to envelop the viewer in a sense of comfort and familiarity.
+
+Crimson hues dance across the room, casting a romantic light on the faces of those gathered around the hearth. Burnt sienna and umber tones warm the space, while cerulean blue accents add a touch of serenity. The fire itself is a gentle blaze, its flames licking at the darkness with a soothing rhythm.
+
+The atmosphere is heavy with the scent of old books, fresh woodsmoke, and the faint hint of pipe tobacco. A soft, velvety rug lies before the fireplace, woven with intricate patterns that seem to shimmer in the flickering light. The air is thick with the promise of shared stories and whispered secrets.
+
+As the viewer's gaze lingers on the scene, it becomes clear that this is a space where memories are woven into the very fabric of existence. Time stands still, and the world outside recedes, leaving only the gentle warmth and comfort of this gathering place.
+
+STYLE: Romantic Realism
+COLORS: Warm golden light (crimson, burnt sienna, umber), soft blue accents (cerulean, pale lavender), rich wood tones (walnut, mahogany)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

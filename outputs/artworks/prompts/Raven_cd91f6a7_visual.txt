@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Twilight]
+# by Raven
+# ID: cd91f6a7-cec7-43b6-9ec6-778dd07de5fb
+
+## Image Prompt
+In the depths of a mist-shrouded studio, where shadows writhe like living things, a figure stands poised at the threshold of revelation. The subject is shrouded in tattered silks and lace, with tendrils of crimson-hued fabric billowing behind them like the wings of a dying phoenix. Torn and frayed, these garments seem to be woven from the very essence of darkness, as if they've been conjured by some macabre sorcerer.
+
+The figure's face is obscured by a hooded mask, its features lost in the velvety blackness of the fabric. The only discernible feature is the glimmering opalescent stone set into the center of the mask, pulsating with an otherworldly light that seems to resonate with the hum of the studio itself.
+
+Candlelight flickers around the edges of the frame, casting eerie silhouettes on walls that seem to absorb the very light they receive. Burnt sienna-hued tapestries hang askew from tattered wooden frames, like the ghostly echoes of forgotten rituals. The air is heavy with incense and secrets.
+
+In the background, a swirling vortex of indigo and ultramarine hues dissolves into nothingness, leaving only an empty space that seems to yawn open like a mouth in darkness.
+
+STYLE: Mystical Expressionism
+COLORS: Burnt Sienna, Ultramarine, Indigo, Opalescent White, Crimson, Charcoal Gray
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Shadows Within]
+# by Raven
+# ID: 5f8efb8f-7410-4574-a919-6bf22282e6fa
+
+## Image Prompt
+The scene unfolds like a mysterious tapestry, woven from threads of darkness and light. In the center, a vast expanse of dark water stretches towards the horizon, its surface adorned with delicate ripples that shimmer like moonlit tears. The water's edge is marked by a series of weathered stones, worn smooth by time and secrets whispered to the wind.
+
+A crescent moon casts an ethereal glow upon the scene, its luminescence seeping from the shadows like a ghostly tide. Crimson hues bleed across the sky, deepening into burnt sienna tones that evoke a sense of ancient wisdom. The atmosphere is heavy with anticipation, as if the very air is alive with the whispers of the unknown.
+
+In the distance, the silhouette of twisted tree branches stretches towards the heavens, their gnarled limbs like bony fingers reaching for the moon. The trees seem to be made of some dark, polished wood, adorned with rusted bells that hang like ghostly ornaments. The bells' gentle clinking echoes through the stillness, a haunting reminder of the soul's eternal longing.
+
+Textures and materials abound in this mystical realm: the rough bark of ancient trees, the smooth stones worn by time and sea spray, and the delicate ripples on the dark water's surface that shimmer like a lover's caress. The overall mood is one of hushed reverie, as if the world itself is holding its breath in anticipation of some hidden truth.
+
+STYLE: Mystical Realism
+COLORS: Midnight blues, burnished coppers, and misty whites
+
+## Negative Prompt
+text, words, letters, watermark, blurry

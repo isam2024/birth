@@ -1,0 +1,20 @@
+# Visual companion for: [Transcendence of Silence]
+# by Jasper Flame-touched
+# ID: dd796b99-fbdf-4206-933b-9200e6fdc5d2
+
+## Image Prompt
+The scene unfolds like a contemplative reverie, set against a backdrop of muted, earthy tones. A solitary figure, shrouded in a hooded cloak of worn crimson, stands at the precipice of a tranquil lake. The water's surface is smooth as polished glass, reflecting the subtle play of light filtering through the surrounding foliage.
+
+Soft, diffused sunlight pours down from above, casting long shadows across the scene. The illumination is gentle, yet insistent, imbuing the atmosphere with an air of solemn reverence. Burnt sienna hues bleed into the horizon, deepening to rich terracotta at the lake's edge.
+
+The figure's cloak billows behind them, its folds creased and worn, like the pages of a well-loved book. The cloak's crimson hue seems almost otherworldly, as if infused with an inner light that shines through the fabric's texture. The ground beneath their feet is dry, cracked earth, yet somehow untrodden.
+
+In the distance, wispy tendrils of fog cling to the lake's surface, evoking an aura of mystery and quiet contemplation. A few, scattered reeds stand like skeletal sentinels along the water's edge, their delicate forms rustling softly in the breeze.
+
+The entire scene is bathed in a soft, blue-tinged haze that seems almost mystical, as if the very essence of the present moment has been distilled into this single, perfect instant. The atmosphere vibrates with an unspoken understanding – one that whispers secrets to those who pause, listen, and breathe deeply.
+
+STYLE: Mystical Realism
+COLORS: Muted earth tones (crimson, burnt sienna, cerulean), with deep blues and soft greens in the haze
+
+## Negative Prompt
+text, words, letters, watermark, blurry

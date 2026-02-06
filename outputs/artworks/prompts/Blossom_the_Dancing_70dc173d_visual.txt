@@ -1,0 +1,18 @@
+# Visual companion for: [Moonlit Refractions]
+# by Blossom the Dancing
+# ID: 70dc173d-ed3d-4a26-a73b-8643864f3a6a
+
+## Image Prompt
+In the heart of a moonlit lake, where shadows tremble and darkness whispers secrets, a solitary figure stands at the water's edge. The surface of the lake is a canvas of iridescent hues - cerulean waves blend with deep indigo, as if the night sky itself had descended to caress the ripples. The air is heavy with the scent of damp earth and decaying leaves.
+
+To the left, the moon casts an ethereal glow upon the figure's profile, illuminating a visage etched with melancholy and longing. Eyes closed, lips parted in a whisper of sorrow, the subject seems lost in thought, as if the whispers of the lake have awakened a symphony of memories within their heart.
+
+As the gentle breeze stirs the water, it creates an aura of wispy tendrils, like ghostly fingers grasping for shore. In the distance, trees stand sentinel, their branches silhouetted against the star-studded sky - dark, twisted limbs reaching toward the heavens in a slow, mournful dance.
+
+The atmosphere is heavy with the promise of secrets yet to be revealed, as if the night itself had taken on a life of its own. In this moment, time stands still, and all that exists is the infinite blue expanse, the whispering lake, and the fragile heart beating within.
+
+STYLE: Impressionist
+COLORS: Cerulean, indigo, burnt sienna, raw umber
+
+## Negative Prompt
+text, words, letters, watermark, blurry

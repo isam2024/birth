@@ -1,0 +1,20 @@
+# Visual companion for: Moonlit Whispers
+# by Raven
+# ID: e7f92121-0943-4c91-9fe6-14c219cb8c65
+
+## Image Prompt
+The misty veil shrouds the landscape like a benevolent entity, as if nature itself was attempting to conceal the secrets it whispers to those who dare to listen. The subject of this mystical scene is an ethereal realm where reality and myth blur into one another.
+
+Soft, diffused light pours in from above, emanating from a crescent moon that slices through the veil like a glowing blade. This celestial source casts long shadows across the ground, imbuing the scene with a sense of mystery and otherworldliness. The air is alive with an auroral glow, as if the very essence of dawn had seeped into this nocturnal world.
+
+Burnt sienna-hued trees rise like sentinels from the mist, their branches tangled and gnarled, as if they'd been twisted by some unseen force. Leaves rustle softly in the breeze, releasing a whispery susurration that carries on the wind. In the distance, a crimson-gilt path beckons, winding its way through the shadows like a serpent.
+
+The atmosphere is heavy with the scent of damp earth and decaying leaves, as if the very essence of decay was being distilled into this mystical realm. The mood is one of hushed reverie, where time itself seems to be suspended, waiting for some hidden truth to reveal itself.
+
+Textures and materials abound: the rough bark of ancient trees; the soft, feathery plumes of birds perched in the branches; and the rustling leaves that shroud the ground. The atmosphere is thick with an almost palpable sense of magic, as if anything might happen at a moment's notice.
+
+STYLE: Surrealist Dreamscapes
+COLORS: Soft crimson, burnt sienna, cerulean blue, muted gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

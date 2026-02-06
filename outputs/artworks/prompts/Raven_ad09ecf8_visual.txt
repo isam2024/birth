@@ -1,0 +1,18 @@
+# Visual companion for: [Moonlit Veil of Echoes]
+# by Raven
+# ID: ad09ecf8-8581-4afe-9c33-ddf2dcc01ed4
+
+## Image Prompt
+In a dimly lit, moonlit chamber, a sprawling wooden desk sits amidst a tangle of forgotten relics and ancient tomes. The walls are lined with towering shelves, each one overflowing with dusty jars, cracked mirrors, and faded tapestries that seem to whisper secrets in the flickering candlelight. The air is heavy with the scent of old books and decay.
+
+To the left of the desk, a velvet-draped window allows slivers of moonlight to seep in, casting an ethereal glow on the scene. A delicate silver filigree adorns the windowpane, casting intricate shadows on the wall as if the moon itself had descended to this place. The colors of the room are muted: burnt sienna hues, rich crimson tones, and the soft blue-green of cerulean.
+
+The desk's surface is a patchwork of weathered leather, polished wood, and ancient parchment. A single, flickering candle casts eerie shadows on the surrounding shelves, where cobweb-shrouded relics and dusty tomes seem to lean in, as if listening to the whispers carried on the wind.
+
+In the center of the image, a delicate, antique music box sits atop the desk, its intricate patterns and swirling shapes casting a hypnotic spell. The music box seems to hum a soft, mournful tune, drawing the viewer into its mystical world. The entire scene is bathed in an otherworldly aura, as if the very fabric of reality has been gently pulled aside, revealing hidden truths and secrets.
+
+STYLE: [Symbolist/Decadent Realism]
+COLORS: Muted earth tones with hints of moonlit blue and silver.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

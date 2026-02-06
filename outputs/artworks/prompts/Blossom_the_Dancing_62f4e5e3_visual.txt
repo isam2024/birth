@@ -1,0 +1,20 @@
+# Visual companion for: Whispers on the Petals
+# by Blossom the Dancing
+# ID: 62f4e5e3-1c07-474c-b7ae-8f2d9f7ba640
+
+## Image Prompt
+The scene unfolds like a whispered secret, suspended between dawn and dusk. A delicate, lace-like mist dances across the surface of a tranquil lake, as if the morning dew had come to life. The water's edge is where the narrative resides – a fragile, petal-thin tendril of a branch stretches towards the shore, its tips curling and uncurling like a sigh.
+
+Soft, golden light seeps from the eastern horizon, casting an ethereal glow upon the scene. Crimson hues bleed into cerulean at the water's edge, where delicate ripples disturb the glassy surface. Burnt sienna and umber tones warm the lake's surroundings, imbuing the atmosphere with a sense of languid nostalgia.
+
+The air is heavy with the scent of blooming wildflowers – lavender, chamomile, and rose petals mingle in an intoxicating bouquet that wafts across the lake. Leaves rustle softly in the breeze, releasing the gentle whisper of ancient secrets.
+
+In this fleeting moment, time itself seems to bend and warp, as if the very fabric of existence has grown translucent. The trees, once towering sentinels, now seem fragile and vulnerable – like the tender shoots that push through the earth.
+
+The atmosphere is one of wistful longing, a poignant reminder of life's ephemeral nature. It's as if the viewer is invited to pause, breathe deeply, and absorb the beauty of this fleeting summer's day by the lakeside cottage.
+
+STYLE: Romantic Realism
+COLORS: Soft golden light on muted blues and greens; crimson, burnt sienna, cerulean, and umber hues for warmth and depth.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

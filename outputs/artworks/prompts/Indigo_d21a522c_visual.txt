@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Hearth]
+# by Indigo
+# ID: d21a522c-464a-4a12-8f1f-9d27a37b37bd
+
+## Image Prompt
+The scene unfolds like a warm ember, glowing softly from within. The walls of the cozy room are lined with rustic wooden paneling, adorned with delicate carvings that seem to dance in the gentle light. A crackling fireplace dominates one wall, its flames flickering like golden tongues that lap at the darkness. The hearth is ablaze with a warm, crimson glow, casting a sensual ambiance over the space.
+
+Above the fire, the soft illumination of candles – their cerulean tapers swaying in the breeze – casts an ethereal sheen on the faces of gathered individuals. The room is filled with the sweet scent of old books and baked goods wafting from a nearby wooden chest. Plush armchairs and overstuffed sofas beckon weary souls to settle in, their worn upholstery adorned with vibrant, hand-embroidered patterns that seem to whisper stories.
+
+As the eye wanders around the room, the viewer is met with an explosion of textures: soft velvet drapes, rough-hewn wood accents, and velvety plushness underfoot. The atmosphere is alive with laughter, whispers, and the gentle crackle of firewood, weaving a rich tapestry of warmth, comfort, and togetherness.
+
+In this snug sanctuary, time stands still as the world outside recedes. 
+
+STYLE: Intimate Realism
+COLORS: Warm Beige (#F5F5DC), Burnt Sienna (#E5763D), Cerulean Blue (#87CEEB), Rich Wood Tones (e.g., Walnut Brown #A52A2A)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

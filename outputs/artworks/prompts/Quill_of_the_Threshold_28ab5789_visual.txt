@@ -1,0 +1,18 @@
+# Visual companion for: [whispers in the wind]
+# by Quill of the Threshold
+# ID: 28ab5789-2664-40e2-93d4-5854b5e76a2d
+
+## Image Prompt
+In the heart of a serene, moonlit meadow, a lone figure stands at the threshold of twilight. The subject is shrouded in an ethereal mist that dances around their frame, as if the very essence of the wind has taken form. The gentle breeze stirs the delicate petals of long-forgotten blooms, releasing a cascade of crimson and gold hues into the air.
+
+Soft, warm light emanates from the setting sun, casting a golden glow across the meadow. The sky is painted with hues of burnt sienna and umber, deepening to cerulean towards the horizon. Shadows stretch and twist, like dark silhouettes against the vibrant colors below. In the distance, the silvery outline of distant mountains glows like a specter, beckoning the figure forward.
+
+The mist swirls around the figure's feet, where wisps of fine linen fabric flutter in the breeze. A tattered veil clings to their neck, adorned with delicate silver filigree that glints like tiny moonstones. Their eyes, pools of deep sapphire, seem to hold a world of sorrow and longing within them. Soft, feathery wings sprout from their shoulders, as if the gentle breeze has imbued them with the power of the wind.
+
+Texture and material abound in this mystical scene: the delicate petals of the long-forgotten blooms; the smooth, unbroken threads of the figure's veil; and the softness of the mist that shrouds them all. The atmosphere is heavy with a sense of melancholy and wistfulness, as if the very fabric of time has been torn asunder.
+
+STYLE: Impressionist
+COLORS: Soft golds, burnt siennas, ceruleans, crimson reds, moonlit blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

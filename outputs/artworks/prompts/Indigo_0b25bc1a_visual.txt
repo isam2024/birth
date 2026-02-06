@@ -1,0 +1,20 @@
+# Visual companion for: Threads of Tradition
+# by Indigo
+# ID: 0b25bc1a-1892-4add-9274-705f17445c35
+
+## Image Prompt
+The scene unfolds like a warm and cozy gathering at a fireside. A majestic, antique tapestry hangs on the wall, its threads woven from crimson, burnt sienna, and golden hues that seem to shimmer in the soft light. The gentle hands that once stitched it are now still, but the fabric itself appears to be imbued with life, as if the very stories it holds have taken root within its fibers.
+
+A rustic wooden table, polished to a warm sheen, stands at the center of the room. Candles made from dried, crimson-colored wax cast a gentle glow on the surface, casting long shadows that seem to dance across the faces of the people gathered around. The scent of old books and woodsmoke wafts through the air, mingling with the whispers of loved ones who have passed.
+
+The walls are adorned with memories: faded photographs, embroidered samplers, and ancient artifacts that speak of a deep connection to the land and those who came before. A crackling fire crackles in the hearth, casting a warm, golden light on the scene.
+
+Soft, muted hues – sky blue, cream, and moss green – predominate in the color palette, punctuated by the rich reds and burnished golds of the tapestry and candlelight. The textures and materials visible are woven wool, wood, leather, and paper, each one imbued with a sense of history and warmth.
+
+The atmosphere is one of quiet contemplation, as if the very stories and memories held within this space have created a cocoon of peace and comfort around those who gather here. The air is heavy with the weight of tradition, yet infused with a sense of community and belonging.
+
+STYLE: Impressionist/Realistic Hybrids
+COLORS: Muted earth tones (crimson, burnt sienna, cream, sky blue), warm golden hues, muted greens (moss, sage)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

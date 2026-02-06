@@ -1,0 +1,24 @@
+# Visual companion for: [Whispers on the Windswept Shore]
+# by Blossom the Dancing
+# ID: bc6f9635-c596-4c3d-82b1-730ec25cf9c3
+
+## Image Prompt
+The scene unfolds like a cinematic poem, as a lone figure stands at the edge of a windswept shore, bathed in the soft, ethereal glow of a misty morning. The gentle rain falls upon them, casting a veil of crystalline droplets that refract and reflect the pale light. The air is alive with the whispers of the past, as if the echoes of love and loss linger on every breath.
+
+In the distance, the shore stretches out like a worn, weathered path, where the horizon meets the cerulean sky. Burnt sienna hues bleed into the mist, imbuing the atmosphere with a sense of melancholy and longing. The figure's silhouette stands in stark contrast to this soft palette, their dark form a poignant reminder of the fragility of human emotion.
+
+To the left, the skeletal remains of a forgotten lighthouse pierce the sky like a shard of bone, its rusty metal weathered to a warm, golden brown. The wooden beams, cracked and worn, seem to whisper secrets to the wind, as if sharing ancient tales of love, loss, and longing.
+
+The texture of the image is tactile, inviting the viewer's gaze to linger on the intricate details. The soft folds of the figure's cloak rustle in the breeze, releasing wisps of rain-kissed fabric that seem to dance in the air. The mist-shrouded shore dissolves into a subtle gradient, with cerulean and sky blue bleeding into each other like watercolors.
+
+The entire scene is bathed in an otherworldly light, as if the sun has long since departed, leaving only the faint glow of dawn's promise.
+
+STYLE: Romantic Realism
+COLORS:
+- Warm beige (for the shore)
+- Burnt sienna (for the lighthouse and wooden beams)
+- Cerulean blue (for the sky and mist)
+- Pale gold (for the figure's cloak)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

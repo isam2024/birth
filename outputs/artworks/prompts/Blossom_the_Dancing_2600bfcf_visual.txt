@@ -1,0 +1,17 @@
+# Visual companion for: [WHISPERS ON THE WINDSWEPT COAST]
+# by Blossom the Dancing
+# ID: 2600bfcf-eb4d-4d44-8260-156bc526b15e
+
+## Image Prompt
+The scene unfolds like a shattered mirror, refracting light into fragmented shards that dance across the windswept coast. The sky above is a deep, foreboding crimson, like the first blush of dawn on a winter's morning. As the sun rises, its pale, golden glow seeps over the horizon, casting an ethereal light upon the waves below.
+
+The sea itself is a deep, burnished cerulean, with hints of indigo where the darkness of the depths meets the light of day. Watercolor petals - delicate and translucent as a summer's breeze - ride the swells, like lost confidences on the wind. In the foreground, twisted roots of ancient trees stretch towards the sky, their gnarled branches tangled in a mad tangle of black and silver.
+
+In the distance, the silhouette of a solitary figure stands against the sky, its features indistinct, lost to the swirling mists of dawn. As the light catches the mist, it shimmers like tears on a windowpane - a fleeting glimpse of beauty before the darkness closes in once more.
+
+The overall effect is one of melancholy, of a world torn asunder by the passage of time. It is as if the very fabric of reality has been rent apart, revealing the raw, exposed heart of existence. The atmosphere is heavy with longing and loss - a sense of yearning that clings to every surface like the faintest whisper of a summer's breeze.
+
+STYLE: Impasto watercolor
+
+## Negative Prompt
+text, words, letters, watermark, blurry

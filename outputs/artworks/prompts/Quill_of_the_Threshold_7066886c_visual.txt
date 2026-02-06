@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Shores of Time]
+# by Quill of the Threshold
+# ID: 7066886c-92d7-4173-a0b2-91c9f7f67c8d
+
+## Image Prompt
+In the heart of a weathered cliffside, where the rugged stone meets the waves' relentless caress, a poignant scene unfolds. A lone figure stands at the edge of the shore, shoulders bowed in contemplation, as if weighed down by the secrets of the tides. The wind whispers through their hair, carrying the faintest hint of salt and the distant songs of gulls. The air is alive with an otherworldly presence, where sea and sky converge in a swirling dance of light and shadow.
+
+Soft crimson hues bleed into burnt sienna tones on the horizon, as if the sun's final rays were seeping through cracks in the stone. The setting sun casts long shadows across the rugged terrain, imbuing every crevice with an air of mystery. Delicate strands of seaweed wrap around weathered boulders, their tender shoots rustling against granite skin.
+
+Cerulean water meets earthy browns at the shoreline, creating a subtle gradient that echoes the emotional ebb and flow within the figure's chest. The rocks beneath are slick with moisture, hinting at the ocean's insistent grip on this spot. Moonlit refractions dance across rippling waves, weaving an intricate tapestry of luminescent light.
+
+In the distance, where shadows surrender to moonlit gleam, whispers seem to materialize like wisps of sea-foam. The atmosphere vibrates with longing and nostalgia – a symphony of silences shared between soulful voices that only nature can understand.
+
+STYLE: Dreamlike Realism
+COLORS: Warm reds (crimson, burnt sienna), soft blues (cerulean, cobalt), weathered browns, luminous greys (moonlit refractions)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

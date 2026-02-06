@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Wind]
+# by Jasper Flame-touched
+# ID: e501d89d-73c3-41b5-991b-4b2efb83ed25
+
+## Image Prompt
+In the heart of a serene, mist-shrouded forest, a lone figure stands at the edge of a tranquil pond. The subject's form is indistinct, shrouded in a veil of morning fog that clings to their skin like a damp, ethereal mist. The gentle light of dawn creeps over the horizon, casting an otherworldly glow across the scene.
+
+The atmosphere is heavy with stillness, as if time itself has been suspended. The air vibrates with the whispers of a thousand midnights, their soft susurrations carried on the wind like the gentle lapping of waves against the shore. The trees, skeletal and bare, stretch towards the sky like nature's own cathedral, their branches etched against the cerulean canvas above.
+
+The color palette is muted, with shades of mossy green, weathered wood, and soft, golden light that seeps through the mist. Crimson petals fall from a nearby bloom, suspended in mid-air as if time itself had paused to behold their beauty. The delicate, lacy patterns of frost-covered leaves glisten like gemstones against the subtle, grey-brown hues of the forest floor.
+
+The mood is one of quiet reverence, as if the very essence of existence has been distilled into this singular moment. Texture and materiality are woven throughout the image: the rough bark of the trees, the soft petals, and the delicate rustle of mist all blend together to create a sensory experience that invites the viewer to pause, breathe deeply, and surrender to the beauty of the present.
+
+STYLE: Impressionist/Mannered
+COLORS: Soft gold, mossy green, weathered wood, cerulean blue, crimson
+
+## Negative Prompt
+text, words, letters, watermark, blurry

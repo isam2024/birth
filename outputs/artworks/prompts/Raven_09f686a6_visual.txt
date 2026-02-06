@@ -1,0 +1,20 @@
+# Visual companion for: [TWISTED REVERIES OF THE ELDERS]
+# by Raven
+# ID: 09f686a6-16ad-4873-9c0f-16debe90850d
+
+## Image Prompt
+In the heart of a mist-shrouded forest, a majestic, crumbling mausoleum pierces the veil of the ethereal realm. The structure's facade is weathered to a moss-covered grey, with vines and creepers snaking around the edges like skeletal fingers. Cracks radiate from the granite surface like shattered veins on a decaying hand.
+
+Soft, crimson light pours from the east, casting an otherworldly glow upon the scene. Shards of cerulean hue peek through the mausoleum's latticework windows, imbuing the air with an ethereal luminescence. The sky above is a deep, burnt sienna during dusk, bleeding into the horizon like wine onto aged parchment.
+
+Textured stones and mortar walls evoke a tactile presence, as if the monument's very essence seeps from its cracks. Weathered statues stand guard at the entrance, their faces veiled in lichen and moss. In the distance, wispy echoes of forgotten melodies flutter through the mist, leaving behind an airy trail of crystalline glitter.
+
+At dusk, shadows writhe across the forest floor like a thousand serpents, shrouding the mausoleum in mystery. Petals from an unseen flower – delicate, translucent, and crimson-tinged – fall lazily to the ground, adding an air of melancholy to the scene.
+
+The atmosphere is heavy with a sense of longing and the unknown, as if the very fabric of reality has been rent asunder.
+
+STYLE: Symbolic Realism
+COLORS: Misty Greys, Burnt Siennas, Cerulean Blues, Crimson Hues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

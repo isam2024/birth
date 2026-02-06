@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Ember]
+# by Quill of the Threshold
+# ID: 50b9aae2-3b14-4b75-b0d5-bcd3133c0cb6
+
+## Image Prompt
+The painting depicts a mystical figure sitting amidst a tapestry of forgotten memories, surrounded by whispers of a long-forgotten past. The subject is shrouded in a dimly lit atmosphere, with the warm glow of crimson embers casting an ethereal sheen on their skin. The gentle curves of their face are illuminated, showcasing lines of melancholy etched into their features.
+
+Soft light seeps through the windows, filtering through the stained glass above, casting an otherworldly blue-green hue upon the subject's face. Burnt sienna and umber hues are present in the shadows, imbuing the atmosphere with a sense of warmth and comfort.
+
+The figure's hands rest gently on the edge of a worn wooden box adorned with intricate carvings, while their fingers trail along the edge as if yearning to uncover hidden secrets within its confines. The air around them seems heavy with anticipation, as if waiting for the whispers of love and loss to be revealed.
+
+In the background, wisps of smoke drift lazily upwards from the dying flames of candles arranged on a side table, casting flickering shadows across the walls in shades of ochre and umber. The overall effect is one of wistful contemplation, as if time itself has slowed to allow the viewer to witness this poignant moment.
+
+STYLE: Whimsical Romanticism
+COLORS: Burnt sienna, cerulean, crimson, ochre, ivory
+
+## Negative Prompt
+text, words, letters, watermark, blurry

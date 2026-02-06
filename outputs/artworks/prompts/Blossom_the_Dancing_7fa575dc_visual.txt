@@ -1,0 +1,17 @@
+# Visual companion for: [Whispers on the Water's Edge]
+# by Blossom the Dancing
+# ID: 7fa575dc-4211-462f-a94d-54185108e307
+
+## Image Prompt
+The scene unfolds as a serene and intimate moment by a still pond's edge. Softly glowing sunlight seeps through wispy clouds, casting an ethereal light upon the surrounding landscape. The atmosphere is heavy with the promise of spring, yet melancholy lingers like the whispers of autumn.
+
+Crimson hues bleed into burnt sienna tones on the horizon, where the sky meets the water's edge. Cerulean and turquoise waters reflect the gentle warmth, creating a mesmerizing dance of color. Delicate petals from flowers – perhaps cherry or magnolia – float upon the surface, like confetti carried by the breeze.
+
+The surrounding foliage is adorned with dew-kissed leaves, their edges trembling in the faint morning light. The tree's gnarled branches stretch toward the sky, their knotted limbs etched against a soft blue-green background. Water lilies and lotus flowers bloom in every hue – whites, pinks, purples – each one suspended like an expectant whisper.
+
+A delicate mesh of reeds and water striders dance on the pond's surface, as if performing a private ballet. In the distance, the sound of a solitary bird can be heard, its song a haunting melody woven into the symphony of life. The entire scene seems to vibrate with a quiet intensity, as if the very essence of memory and longing has been distilled into this fleeting moment.
+
+STYLE: Watercolor
+
+## Negative Prompt
+text, words, letters, watermark, blurry

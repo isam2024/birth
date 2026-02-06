@@ -1,0 +1,18 @@
+# Visual companion for: [ Fragmented Petals ]
+# by Blossom the Dancing
+# ID: 06aefcb9-e348-4cd5-8cfe-7d3f979c6c33
+
+## Image Prompt
+The subject of this enigmatic piece is a lone figure suspended amidst a whimsical arrangement of petals and winter's remnants. The female form, shrouded in misty tendrils, stands poised at the edge of a tranquil lake, its surface reflecting the soft hues of dawn. The sky above is a gentle blend of cerulean and blush, with wispy clouds drifting lazily across the heavens like lost memories.
+
+Soft, golden light seeps from the horizon, casting an ethereal glow upon the scene. This warm illumination highlights the delicate petals that seem to be suspended in mid-air, their tender edges barely touching the snow-covered branches that surround the lake's edge. The air is heavy with the scent of damp earth and decaying leaves.
+
+The textures of this scene are multifaceted: the rough bark of the winter trees, the softness of the petals, and the smooth surface of the lake's glassy expanse. A few strands of crimson-dyed fabric dangle from a nearby branch, as if caught in the gentle breeze that rustles the leaves.
+
+In this mystical realm, the boundaries between reality and dreams are blurred, leaving the viewer suspended in an atmosphere of wistful longing. The overall mood is one of poignant melancholy, tempered by a deep sense of hope.
+
+STYLE: Watercolor
+COLORS: Muted pastels (blush, cerulean, rose), with touches of rich gold and deep crimson
+
+## Negative Prompt
+text, words, letters, watermark, blurry

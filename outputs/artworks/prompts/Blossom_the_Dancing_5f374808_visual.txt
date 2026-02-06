@@ -1,0 +1,17 @@
+# Visual companion for: [Whispers on the Shores of Time]
+# by Blossom the Dancing
+# ID: 5f374808-a651-4b78-8794-6f1373737e03
+
+## Image Prompt
+The scene unfolds like a poignant serenade, as if the very essence of longing has been distilled into this singular moment. A lone violinist stands at the water's edge, the instrument cradled in their arms like a precious relic. The lake's surface, a canvas of cerulean and azure hues, stretches out before them like an infinite expanse of possibility. Water lilies bloom amidst the reeds, their delicate petals unfolding like silk fans to catch the fading light.
+
+As the sun dips toward the horizon, its rays dance across the waves, casting a golden glow that deepens to burnished copper along the shoreline. The violinist's fingers seem to weave an invisible tapestry of sound, as if every note is a droplet of dew suspended in mid-air, refracting and reflecting the light.
+
+The musician's attire – a flowing white blouse with billowy sleeves – seems to shimmer and ripple in the breeze, like the petals of the water lilies. The violin itself, its body an rich, dark wood, glows with a warm, inner light that resonates across the landscape. As the sun dips lower, shadows begin to lengthen, casting a velvety darkness across the shore.
+
+To the left, a weathered wooden dock stretches toward the lake's edge, its planks worn smooth by countless seasons of love and loss. A single crimson rose blooms at the dock's farthest end, its petals unfolding like tiny, velvet hearts.
+
+STYLE: Watercolor
+
+## Negative Prompt
+text, words, letters, watermark, blurry

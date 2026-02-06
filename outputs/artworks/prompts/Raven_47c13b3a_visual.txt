@@ -1,0 +1,23 @@
+# Visual companion for: Moonlit Elegy
+# by Raven
+# ID: 47c13b3a-ed57-4577-b080-fe70120db2dc
+
+## Image Prompt
+The scene unfolds like a mystical tapestry, woven from threads of moonlight and forgotten memories. The subject stands amidst a studio shrouded in twilight, surrounded by an assortment of ancient relics and symbols that seem to whisper secrets to the wind. The room's walls are adorned with faded frescoes, their crimson hues bleeding into burnt sienna tones that evoke the warmth of aged parchment.
+
+Soft, ethereal light pours in through a stained-glass window, casting a kaleidoscope of colors across the space – cerulean blues, emerald greens, and amethyst purples that seem to dance with an otherworldly energy. The air is heavy with the scent of old books and dust, imbuing the atmosphere with a sense of reverence and mystique.
+
+The floor creaks beneath the subject's feet, adorned as they are in a flowing, floor-length gown that appears woven from the same silken threads as the moon. The fabric seems to shimmer with an iridescent sheen, reflecting the soft light and casting tiny shadows across the walls. Ancient texts lie scattered about, their yellowed pages whispering secrets to those who dare to listen.
+
+In the corner of the room, a lone figure sits amidst a halo of candles, their gentle flame casting flickering shadows on the walls as they sing a whispered lullaby to the forgotten. The music is like nothing else – a haunting melody that seems to summon forth the hidden places of the mind.
+
+STYLE: Mystical Surrealism
+COLORS:
+- Cerulean blues (#87CEEB)
+- Burnt sienna (#A0522D)
+- Emerald green (#008000)
+- Amethyst purple (#7A288A)
+- Iridescent sheen (varied shades of blue, gold, and silver)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [ Moonlit Lament ]
+# by Quill of the Threshold
+# ID: c4413f18-9a3b-4fd1-a0b3-fe199f52b2ae
+
+## Image Prompt
+The scene unfolds like a somber dreamscape, where the moon casts an ethereal glow on the weathered shore. The subject is a lone figure, shrouded in misty vapors, standing at the edge of the sea. The silhouette's form is softened by the gentle caress of the moonlight, which pierces through the veil of night like a sorrowful whisper.
+
+The sky above is a deep, foreboding cerulean, with hints of crimson and burnt sienna bleeding into the horizon, as if the very fabric of twilight was aflame. The wind stirs the waves, sending ripples across the surface of the water, where faint moonlit tendrils of light seem to reach out like skeletal fingers.
+
+The terrain is rugged and unforgiving, with weathered stone and driftwood littering the shoreline like the discarded remnants of a thousand forgotten memories. The figure's clothing appears tattered and worn, as if it has been torn by the relentless winds and waves. The textures are rough and varied – the worn leather of the boots, the weathered wood of the driftwood, the salt-encrusted stone.
+
+The overall mood is one of melancholy and longing, where the veil between reality and dreams is thin, and the whispers of a thousand forgotten dreams hang suspended in the air like specters. The atmosphere is heavy with the weight of sorrow and nostalgia.
+
+STYLE: Romantic Expressionism
+COLORS: Muted blues and greys (cerulean, blue grey, Payne's Grey), warm golden hues (burnt sienna, crimson, raw umber)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [ Moonlit Melancholy ]
+# by Blossom the Dancing
+# ID: 7b05abbc-8d6c-48cc-8d34-58e931432060
+
+## Image Prompt
+In the center of a dreamlike canvas, a figure sits alone on a worn, wooden bench, shrouded in the soft luminescence of moonlight. The gentle glow emanates from a crescent-shaped window above, casting an ethereal radiance over the scene. The room is dimly lit, with shadows dancing across the walls like dark, velvety clouds.
+
+To one side, a delicate watercolor petal unfurls, its pale blue and lavender hues bleeding softly into each other as if kissed by the moon's silvery light. The petals are scattered on a wooden table, where a small, ornate music box lies open, its golden filigree glinting in the faint light.
+
+The air is heavy with the scent of old books and wood polish, wafting through the atmosphere like a nostalgic mist. A faded crimson blanket spills from the bench, pooling around the figure's feet as if they had been hastily cast aside. The musician's hands rest on their knees, clasped together in a gesture of quiet contemplation.
+
+A faint glow emanates from the music box, imbuing the air with a gentle melancholy, as if the very essence of sorrow has been distilled into this serene and poignant moment.
+
+STYLE: Watercolor
+COLORS: Soft gray, pale blue, lavender, burnt sienna, crimson
+
+## Negative Prompt
+text, words, letters, watermark, blurry

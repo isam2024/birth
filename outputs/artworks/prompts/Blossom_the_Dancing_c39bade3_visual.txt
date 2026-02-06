@@ -1,0 +1,18 @@
+# Visual companion for: [whispers of petals]
+# by Blossom the Dancing
+# ID: c39bade3-180f-4346-a967-efd1af9f2154
+
+## Image Prompt
+The scene unfolds like a whispered secret, suspended in the ether. A lone watercolor petal, pale blue and translucent as morning dew, hangs suspended in mid-air, its delicate curves swaying gently on the breeze. The soft light of dawn creeps into the frame, casting a warm, golden glow upon the surrounding foliage.
+
+Crimson-hued leaves, burnt sienna and umber-drenched tree trunks provide a rich backdrop for the ethereal petal, while the cerulean sky above beckons like a celestial canvas. A sprinkling of golden dust motes dance in the radiance, imbuing the scene with an air of otherworldly beauty.
+
+The texture of the petal's translucent surface glows with an almost luminescent quality, as if infused with the gentle light itself. The surrounding leaves and tree bark retain a tactile presence, their ridges and grooves evoking the roughness of nature's touch. A fine network of silver-gray spider silk glistens on a nearby leaf, a testament to the intricate web of life.
+
+The atmosphere is heavy with melancholy, as if the very essence of summer's transience has been distilled into this fleeting moment. Time itself seems to stand still, suspended within the curve of the petal and the whispered promise of dawn's arrival.
+
+STYLE: Impressionist Watercolor
+COLORS: Pale blue, golden brown, crimson, burnt sienna, umber, cerulean
+
+## Negative Prompt
+text, words, letters, watermark, blurry

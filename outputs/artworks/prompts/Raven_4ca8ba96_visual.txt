@@ -1,0 +1,18 @@
+# Visual companion for: [Shattered Echoes in the Hush]
+# by Raven
+# ID: 4ca8ba96-532c-4102-9706-0fcb18166774
+
+## Image Prompt
+In the heart of a dimly lit studio, a solitary figure stands amidst a labyrinth of dusty shelves and forgotten relics. The air is heavy with the weight of nostalgia, as if the very walls are exhaling the ghosts of memories past. The subject's form blurs into the shadows, shrouded in an aura of quiet contemplation.
+
+Soft, moonlit illumination pours through a narrow window high above, casting a silvery glow upon the desolate landscape below. The rays weave through the dust motes, imbuing the scene with an ethereal quality. Crimson hues bleed from beneath a cracked vase, bleeding into burnished sienna on the shelf's weathered surface. Cerulean and indigo shadows deepen around the edges of a forgotten book, its pages whispering secrets to the darkness.
+
+Textured fragments of melody scatter across the floor: delicate glass shards, splintered music boxes, and tattered sheet music flutter like autumn leaves. A single, dusty note lies suspended mid-air, as if frozen in time. The surface beneath is adorned with worn, golden filigree – a testament to long-forgotten craftsmanship.
+
+In this somber, hushed world, the shadows stretch and twist, taking on lives of their own. Forgotten melodies reverberate through the space, beckoning those who dare to listen into the silence.
+
+STYLE: Romantic Expressionism
+COLORS: Muted moonlit hues (crimson, burnt sienna, cerulean, indigo), with hints of gold and dusting of aged paper
+
+## Negative Prompt
+text, words, letters, watermark, blurry

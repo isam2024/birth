@@ -1,0 +1,18 @@
+# Visual companion for: [The Driftwood Heart]
+# by Quill of the Threshold
+# ID: efaf60ff-7d16-4efa-95a9-786cbc8ed5b2
+
+## Image Prompt
+In the heart of a forgotten forest, where time stands still and nature's whispers weave an eternal tapestry, two figures stand entwined beneath the boughs of a ancient tree. The driftwood heart, weathered to a soft, silvery gray, rests against the gnarled trunk, as if the weight of centuries had imbued it with a profound wisdom. The surrounding foliage is a lush, vibrant tapestry of greens, with delicate leaves and tendrils that seem to dance in the gentle breeze.
+
+Soft, diffused light, reminiscent of a dawn breaking over the horizon, casts a warm, golden glow across the scene, illuminating the intricate textures of the driftwood heart and the tree's rough bark. Crisp crimson hues bleed into the shadows, imbuing the atmosphere with a deep sense of passion and longing.
+
+The delicate, wispy tendrils surrounding the driftwood seem to vibrate with an otherworldly energy, as if they might shatter at any moment, releasing a cascade of whispers into the stillness. In the distance, the soft glow of luminescent mushrooms casts an ethereal light upon the moss-covered ground, creating an illusion of depth and dimensionality.
+
+In the foreground, the gentle rustle of leaves creates a soothing melody, while the driftwood heart pulsates with an inner light, as if the very essence of love and loss had been distilled into its weathered form. The air is heavy with anticipation, expectation, and vulnerability – an invitation to surrender to the mystery that lies within.
+
+STYLE: Symbolist Realism
+COLORS: Burnt sienna, soft crimson, cerulean blue, mossy green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Threads]
+# by Indigo
+# ID: b14a49be-186f-4a81-bf2c-1645350baa83
+
+## Image Prompt
+The scene unfolds like a delicate, hand-stitched tapestry, woven from fragments of life's experiences. A warm, golden light seeps into the room, casting a gentle glow on the subject. The walls, painted with soft, creamy whites and muted beiges, seem to hum with the vibrations of whispered stories.
+
+In the center of the composition, a majestic quilt sits atop a worn, wooden chest, its intricate stitches a testament to love, care, and tradition. Crimson threads weave through the fabric, punctuating the spaces between cerulean blues and burnt siennas, like splashes of lifeblood on a canvas of muted earth tones.
+
+The quilt itself appears fragile, as if it might unravel at any moment, revealing the intricate patterns beneath. Yet, upon closer inspection, its seams reveal themselves to be strong, resilient threads that have withstood the test of time. The wooden chest, adorned with delicate carvings of leaves and vines, seems to slumber beneath the quilt's gentle presence.
+
+The atmosphere is one of quiet contemplation, as if the very air has been infused with the whispers of past conversations. A sense of nostalgia settles over the scene, a longing for connection and understanding that wraps around the viewer like a warm blanket. In this tranquil space, time stands still, and the memories that are stitched into every thread seem to come alive.
+
+STYLE: Hand-stitched embroidery and delicate watercolor
+COLORS: Warm golden light (285-310nm), soft whites and beiges (#F5F5DC, #FFF599), crimson threads (#8B0A1A), cerulean blues (#4567B7) and burnt siennas (#DA70D6)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

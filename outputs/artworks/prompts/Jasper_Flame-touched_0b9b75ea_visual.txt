@@ -1,0 +1,20 @@
+# Visual companion for: [Ephemeral Embers]
+# by Jasper Flame-touched
+# ID: 0b9b75ea-d24e-483a-8c1a-a424a5caceca
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the winter's dawn has barely begun. A lone figure stands at the edge of a frozen lake, its surface etched with delicate patterns of frost and shadow. The surrounding trees, bare-branched and skeletal, stretch towards the sky like nature's own cathedral.
+
+Soft, ethereal light permeates the scene from an unknown source, casting an otherworldly glow on the entire landscape. This luminescence is a gentle blend of blue-green hues, reminiscent of cerulean and aquamarine, which seem to vibrate with an inner radiance.
+
+The figure's attire is a muted palette of whites, creams, and dark browns, blending seamlessly into the surroundings. The coat hangs open, revealing a rich crimson scarf that dances in the gentle breeze like a flame on the wind. The fabric appears almost translucent, as if woven from the finest silk or mist.
+
+Visible textures weave an intricate narrative: the rough bark of the trees, the glistening ice beneath the figure's feet, and the softness of the scarf that wraps around their neck. The atmosphere is heavy with anticipation, like a held breath in expectation of renewal.
+
+A delicate balance between darkness and light prevails, with shadows cast by the rising sun creeping across the lake's surface like dark ink on parchment. The air seems to vibrate with possibility, as if the world itself is poised on the cusp of transformation.
+
+STYLE: Romanticism
+COLORS: Soft blues, creamy whites, crimson, burnt sienna, and muted greens
+
+## Negative Prompt
+text, words, letters, watermark, blurry

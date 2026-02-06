@@ -1,0 +1,18 @@
+# Visual companion for: [Fleeting Moments in the Mist]
+# by Blossom the Dancing
+# ID: 64ac510b-866b-4868-b921-e6fde9d39a5c
+
+## Image Prompt
+The painting depicts a serene lakeside scene at twilight, as if the sun's last rays have surrendered to the gathering darkness. A tranquil lake stretches across the canvas, its dark surface adorned with delicate ripples that shimmer like a scattering of diamonds on black velvet. The water's edge is lined with twisted tree trunks and leafy branches, their silvery leaves glowing with an ethereal light.
+
+Crimson hues bleed into burnt sienna tones, as if the sky itself had set aflame. Cerulean and cobalt blues dance across the horizon, blending seamlessly with the soft pinks of twilight. The atmosphere is bathed in a warm, golden glow, cast by a low-hanging crescent moon that casts long shadows across the lake's surface.
+
+A soft layer of mist wafts across the water, imbuing the scene with an otherworldly presence. Vines and flowers climb up the tree trunks, their petals unfolding like tiny wings, as if to join in the serenade of crickets and frogs that fills the evening air. The overall effect is one of enchantment and longing, a sense of being suspended between the world of day and night.
+
+Textures and materials are woven throughout the painting, from the rough bark of the tree trunks to the delicate petals of the flowers. A few strands of grass dance in the breeze, their slender blades catching the soft light like a scattering of silver sparks.
+
+STYLE: Luminous Expressionism
+COLORS: Soft golds, crimson, burnt sienna, cerulean blues, cobalt, and pale pinks
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,20 @@
+# Visual companion for: [**Moonlit Vesper**]
+# by Raven
+# ID: c9aa122e-e381-48b3-b85b-0a2e75de1e62
+
+## Image Prompt
+The misty veil of evening descends upon a shattered landscape, where fragments of moonlit dreams scatter like fallen leaves. A twisted tree branch, its bark gnarled and weathered, stretches towards the sky like a spectral finger, as if beckoning secrets from the void above.
+
+Soft, ethereal light permeates the scene, emanating from a crescent moon that casts an argent glow upon the terrain. The light is diffused, as if filtered through a veil of iridescent mist, imbuing the atmosphere with an otherworldly serenity.
+
+Burnt sienna hues dominate the palette, complemented by touches of indigo and cobalt blue. Crimson highlights dance across the broken tree limbs, while cerulean undertones evoke a sense of melancholic longing in the atmospheric fog.
+
+The air is heavy with an almost palpable stillness, as if time itself has been stilled, waiting for the whispers to begin. The ground beneath is dry and cracked, revealing the rough texture of ancient stone, worn smooth by the relentless passage of moonlit nights.
+
+In this dreamlike realm, the very fabric of reality appears to be fraying at the edges, like a tapestry of forgotten moments. Shadows writhe and twist, taking on lives of their own, as the wind whispers secrets in an language both ancient and unknown.
+
+STYLE: Mystical Realism
+COLORS: Burnt sienna, indigo, cobalt blue, crimson
+
+## Negative Prompt
+text, words, letters, watermark, blurry

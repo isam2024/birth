@@ -1,0 +1,20 @@
+# Visual companion for: [Threads of Memory]
+# by Indigo
+# ID: 53b26e61-3f11-40e3-88de-ce1affc011fe
+
+## Image Prompt
+The scene unfolds as a warm, golden-hued still life, situated within a cozy, intimate setting. A traditional wooden loom stands at the center of the composition, its worn, cracked surface bearing testament to years of faithful service. The loom's frame is adorned with an assortment of vibrant, hand-spun yarns – soft pastel hues of rose madder, gentle mossy tones, and rich cerulean blues – which seem to dance across the wooden slats like a kaleidoscope of color.
+
+Soft, golden light pours into the scene from above, casting a warm glow upon the subject. This gentle illumination imbues the atmosphere with an air of serenity and comfort, as if the viewer has stumbled upon a hidden haven. Crimsons and terracottas of earthy tones mingle with the yarns, lending depth and warmth to the overall palette.
+
+In the foreground, a collection of antique textiles – delicate lace, soft woolen blankets, and intricate embroidery – lie coiled around the loom's frame like a gentle, comforting blanket. The textures blend together seamlessly, their varied surfaces reflecting the passage of time and the love with which they were created. As the viewer's gaze wanders across the scene, it becomes apparent that every thread, every yarn, has been carefully woven to tell a story – one of love, tradition, and the quiet beauty of everyday life.
+
+STYLE: Whimsical Realism
+COLORS:
+- Warm golden light (Warm Beige & Soft Peach)
+- Earthy tones (Burnt Sienna, Terracotta)
+- Pastel hues (Rose Madder, Mossy Green)
+- Rich cerulean blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Shadows in the Silences]
+# by Raven
+# ID: 676a01ba-45ae-4b95-9c04-fd43c177fb15
+
+## Image Prompt
+The subject of this hauntingly beautiful scene is a mystical forest, veiled in an ethereal mist that shrouds its ancient trees. The air is heavy with the whispers of forgotten truths, as if the very essence of the forest itself were alive and pulsing with an otherworldly energy.
+
+The lighting is a deep, burnt sienna hue, cast by a crescent moon hanging low in the sky above. Shafts of silver luminescence seep through the mist, imbuing the scene with an eerie glow. The colors are muted, yet vibrant, with splashes of emerald green and sapphire blue that seem to emanate from the very heart of the forest.
+
+The textures are a tactile feast: rough, gnarled bark that seems to stretch towards the sky like ancient fingers; leaves that rustle and whisper in the gentle breeze; and trees themselves, their silhouettes cast long and ominous against the moonlit sky. The mist swirls and churns, like a living entity that seethes and pulsates with an unseen power.
+
+The overall mood of the image is one of foreboding and mystery, as if the very fabric of reality were about to unravel before the viewer's eyes. It's a place where the boundaries between reality and myth blur, where the whispers of forgotten truths hold sway over all that's rational and sane.
+
+STYLE: Expressionist Symbolism
+COLORS: Burnt sienna, emerald green, sapphire blue, crimson, cerulean
+
+## Negative Prompt
+text, words, letters, watermark, blurry

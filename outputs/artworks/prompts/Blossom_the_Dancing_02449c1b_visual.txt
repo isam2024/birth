@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Wind]
+# by Blossom the Dancing
+# ID: 02449c1b-8b6b-460b-928c-d41d9de7deb8
+
+## Image Prompt
+The scene unfolds like a whispered secret, suspended in mid-air. A delicate, crumpled rose petals blanket the ground, their edges frayed and worn. The petals appear to be made of translucent silk, glowing with an ethereal light that emanates from within. As the gentle breeze stirs, the petals begin to unfurl, like the tender pages of a forgotten book.
+
+Soft crimson hues seep into the shadows, imbuing the scene with a sense of nostalgia and longing. Burnt sienna undertones infuse the surrounding terrain, evoking the earthy scent of damp soil and wilting leaves. Cerulean skies above, tinged with wispy cirrus clouds, filter in shafts of warm, golden light that dance across the scene.
+
+The breeze rustles the petals, releasing a whisper of texture: the softness of down feathers, the gentle roughness of fine linen. The air vibrates with the quiet reverberations of distant memories, lost and forgotten, yet still resonating within the heart.
+
+A delicate thread of silver-gilt weaves through the scene, glinting like the first hints of moonlight on a summer's eve. This gossamer strand seems to hold together the disparate threads of longing, loss, and remembrance.
+
+STYLE: Whimsical Realism
+COLORS: Crimson, Burnt Sienna, Cerulean Blue, Soft Gold, Silver-Gilt
+
+## Negative Prompt
+text, words, letters, watermark, blurry

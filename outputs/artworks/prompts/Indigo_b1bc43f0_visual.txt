@@ -1,0 +1,16 @@
+# Visual companion for: [Stitching Memories]
+# by Indigo
+# ID: b1bc43f0-71e5-48bc-980c-8a74c7e5dc23
+
+## Image Prompt
+The scene unfolds like a warm, golden afternoon in a quaint, rural village. A large, old wooden armchair sits at the center of a cozy attic, surrounded by dusty trunks and forgotten heirlooms. Soft, candlelight spills across the walls, casting a gentle glow on the room's eclectic treasures. The air is thick with the scent of aged wood, worn leather, and the faint hint of forgotten memories.
+
+The chair itself appears weathered, its wooden frame adorned with intricate carvings that evoke stories of love and loss. A delicate, hand-stitched patchwork quilt covers one of its cushions, while a nearby vase overflows with dried wildflowers in shades of crimson, burnt sienna, and earthy tones. The walls are lined with books, their worn spines and yellowed pages whispering secrets to the shadows.
+
+Cerulean hues seep through the attic's grimy windows, casting an ethereal glow on the room's treasures. A delicate, silver locket lies open on a nearby surface, its contents lost in the soft, golden light. The overall atmosphere is one of nostalgia and warmth, as if the very walls are imbued with the gentle whispers of memories past.
+
+STYLE: Whimsical Realism
+COLORS: Warm golds (candlelight), muted reds (wildflowers), earthy tones (wood, leather)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

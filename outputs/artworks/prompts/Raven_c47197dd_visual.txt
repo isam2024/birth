@@ -1,0 +1,18 @@
+# Visual companion for: [Shadows Within]
+# by Raven
+# ID: c47197dd-1f81-45b7-a491-3182aac936c2
+
+## Image Prompt
+In the heart of a mist-shrouded realm, where moonlit shadows converge, a lone figure stands suspended amidst a tapestry of twilight hues. The whispering wind stirs the silken threads of darkness, imbuing the air with an otherworldly essence. 
+
+The silhouette of the figure is enshrouded in an impenetrable veil of indigo, with hints of crimson that dance like embers on the edges of their form. Their presence seems to be woven from the very fabric of the night itself, as if they have been crafted from the shadows that haunt the fringes of reality.
+
+To one side, a wispy tendril of smoke wafts upwards, vanishing into the expanse of cerulean sky like a ghostly bride at the threshold of eternity. On the opposite shore, the silhouettes of ancient trees stretch towards the heavens, their gnarled branches twisted into macabre hieroglyphs against the darkening canvas.
+
+As the wind whispers secrets in the figure's ear, an aura of secrecy and mystery gathers around them like a shroud, imbuing every thread of their being with the weight of unspoken truths. The overall effect is one of haunting enchantment, where the boundaries between reality and the unknown are blurred, inviting the viewer to part the veil of uncertainty.
+
+STYLE: Mystical Realism
+COLORS: Midnight indigo, Crimson, Cerulean, Burnt sienna
+
+## Negative Prompt
+text, words, letters, watermark, blurry

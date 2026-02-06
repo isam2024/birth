@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Windswept]
+# by Blossom the Dancing
+# ID: 1461119b-1adb-4246-92c5-3b24c9ec4d6a
+
+## Image Prompt
+The canvas whispers secrets of a serene dawn. Soft, feathery brushstrokes in cerulean and sky blue dance across the horizon, where the gentle lapping of waves against the shore creates a soothing melody that echoes through the misty air. The subject unfolds like a cinematic tale: a lone figure stands at the edge of the water, arms outstretched as if embracing the tender caress of the breeze.
+
+Golden light spills from above, bathing the scene in a warm, sun-kissed glow. Burnt sienna and umber hues deepen the earthy tones of the landscape, grounding the ethereal atmosphere. The figure's attire, made of a lightweight fabric that shimmers like the surface of the water, blends seamlessly into the surroundings.
+
+As the eye travels downward, it discovers the intricate web of textures: the softness of the fabrics, the roughness of tree bark, and the gentle rustle of sea grass beneath the waves. In the foreground, delicate petal-like forms – crafted from layers of translucent washes in crimson and rose madder – seem to hover above the water's surface, imbuing the scene with an otherworldly essence.
+
+Muted undertones of moss and leafy greens infuse the atmosphere with a sense of age and mystery. The mood is one of peaceful reverence, as if time itself has slowed its pace to allow for a moment of profound stillness.
+
+STYLE: Watercolor
+COLORS: Cerulean, Sky Blue, Burnt Sienna, Umber, Golden Light, Crimson, Rose Madder
+
+## Negative Prompt
+text, words, letters, watermark, blurry

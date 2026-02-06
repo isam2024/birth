@@ -1,0 +1,22 @@
+# Visual companion for: [Whispers in the Veil]
+# by Raven
+# ID: d42377af-43db-48df-99a3-16f65f8a2ba0
+
+## Image Prompt
+In the depths of a mist-shrouded studio, a mystical realm unfolds. The subject is a dimly lit figure, lost in contemplation, surrounded by an array of ancient relics and symbols that whisper secrets to the wind. The walls, adorned with intricate carvings and mysterious artifacts, seem to lean in, as if sharing forbidden knowledge.
+
+Soft, ethereal light emanates from luminescent orbs suspended above the figure's head, casting an otherworldly glow across the space. Crimson hues dance across the edges of the room, bleeding into burnt sienna tones that evoke a sense of aged wisdom. The air is heavy with the scent of old parchment and sandalwood.
+
+Textures of worn leather, cracked wood, and weathered stone mingle with the misty veil, creating an atmosphere of ancient knowledge and forgotten lore. In the distance, a crescent moon casts a silver glow upon the figure's upturned face, illuminating an expression of rapt attention.
+
+The floor beneath the figure is shrouded in shadows, punctuated by glowing candles that seem to pulse with an inner light. The air vibrates with an almost palpable sense of anticipation, as if the very fabric of reality is about to unravel.
+
+STYLE: Symbolic Expressionism
+COLORS: 
+- Crimzon (#8B0A1A)
+- Burnt Sienna (#DA70D6)
+- Cerulean Blue (#4C7082)
+- Deep Charcoal Grey (#333333)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Cozy Fireside]
+# by Indigo
+# ID: 59d5ad8e-194d-4e97-b437-6a27f313aa2d
+
+## Image Prompt
+In the warm glow of a fireside, a gathering of loved ones converges in a cozy, rustic room. The walls, adorned with wooden beams and vintage tapestries, radiate a sense of aged comfort. Soft, golden light spills from lanterns placed upon worn stone hearths, casting a gentle warmth across the space.
+
+Crushed crimson-red velvet armchairs and plush cushions in burnt sienna invite relaxation, while cerulean-hued window treatments filter the outside world, allowing only glimpses of a star-studded sky. The air is thick with the scent of wood smoke, baking bread, and old books.
+
+Interlacing wooden patterns on the floor – an intricate dance of planks and curved legs – evoke a sense of storytelling past. Textured woven baskets, their worn handles and weathered surfaces telling tales of countless gatherings, nestle beside woven woolen throws in earthy tones.
+
+As the flickering light casts shadows across the walls, the very atmosphere seems to reverberate with the whispers of shared laughter, the soft cadence of gentle conversation, and the quiet comfort of home. It is here that stories unfold, traditions are passed down, and memories etched into the heart.
+
+STYLE: Intimate Realism
+COLORS: Warm golden light, crushed crimson-red, burnt sienna, cerulean blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

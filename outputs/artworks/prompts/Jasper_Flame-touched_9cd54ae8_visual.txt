@@ -1,0 +1,18 @@
+# Visual companion for: [Empty Spaces in the Flame]
+# by Jasper Flame-touched
+# ID: 9cd54ae8-69bd-47d0-9eb2-2f76f5fccb7a
+
+## Image Prompt
+In the heart of a desolate, moonlit landscape, a lone flame flickers to life. The gentle breeze whispers secrets through the ashen trees, casting long shadows that stretch like skeletal fingers towards the sky. As the wind stirs, the flame's dance becomes more frenzied, casting an ethereal glow across the barren expanse.
+
+Soft crimson hues bleed into burnt sienna, casting a warm, golden light upon the frozen earth. The color palette deepens to rich umber and midnight blue as the eye navigates the desolate terrain. Cerulean skies above seem to vibrate with the flame's presence, imbuing the scene with an otherworldly essence.
+
+In the foreground, the skeletal trees stand sentinel, their gnarled branches etched against the star-studded sky like a macabre pen-and-ink drawing. Fissures in the rocky terrain hint at long-forgotten lava flows, now cooled and petrified into eerie, translucent slabs that reflect the flame's light.
+
+As the eye delves deeper, delicate wisps of smoke coalesce into ethereal tendrils that seem to reach out from the very core of the flame. The air vibrates with an almost-palpable sense of impermanence, as if the very fabric of reality is being slowly unraveled by the flame's gentle caress.
+
+STYLE: Muted Abstractionism
+COLORS: Crimson ( burnt sienna, scarlet), Earth Tones (umber, midnight blue), Celestial Blues (cerulean)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

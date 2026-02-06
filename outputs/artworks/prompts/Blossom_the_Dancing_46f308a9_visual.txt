@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Attic]
+# by Blossom the Dancing
+# ID: 46f308a9-c957-4b8f-819f-635cff01065e
+
+## Image Prompt
+The scene unfolds like a forgotten tapestry, its threadsbare and worn. In the center of the attic, a delicate wooden loom stands, its intricately carved frame seeming to absorb the faint light that filters through the dusty air. The loom's surface is adorned with a tangle of crimson silk threads, their soft hue glowing with an ethereal intensity.
+
+To one side, a worn armchair sits atop a patchwork quilt, its upholstery a vibrant swirl of burnt sienna and golden yellow. The chair's cushions are puffed with age, and the wooden frame appears to be adorned with tiny, delicate carvings that evoke the gentle touch of summer breezes. On the walls, framed photographs seem to hang by themselves, their subjects' faces blurred and indistinct.
+
+Cerulean light spills through a grimy skylight above, casting an otherworldly glow over the space. Faint wisps of cloud drift across the sky, like the silken strands that bind us all. The air is heavy with the scent of old books, dust, and memories long past.
+
+Textures abound: the rough, wooden beams; the soft, woolen quilt; the delicate silk threads; and the worn, leather-bound tomes stacked haphazardly on a nearby shelf. As the eye wanders, it becomes lost in the intricate patterns of light and shadow, the sense of melancholy and nostalgia palpable.
+
+In this sacred space, time seems to stand still, suspended like a forgotten melody. The air vibrates with the whispers of the past, their gentle caress imbuing the atmosphere with a poignant beauty.
+
+STYLE: Impressionist Watercolor
+COLORS: Warm, muted hues (crimson, burnt sienna, cerulean, soft blues and yellows)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

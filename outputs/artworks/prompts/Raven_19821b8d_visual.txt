@@ -1,0 +1,18 @@
+# Visual companion for: [Moonlit Calligraphy of the Forgotten]
+# by Raven
+# ID: 19821b8d-7579-4cb9-b13b-95d9ac5a2a39
+
+## Image Prompt
+The scene unfolds like a mystical portal, beckoning the viewer to step into its realm. In the center of the composition, a solitary figure stands at the edge of a mist-shrouded forest, surrounded by an ethereal glow that seems almost otherworldly. The figure's face is turned upwards, as if drawn towards a celestial canvas, while their body merges seamlessly with the trees, creating an unsettling sense of symbiosis.
+
+Soft, silvery light spills from above, casting an argent sheen on the mist, imbuing it with an eerie luminescence. Crimson and burnt sienna hues bleed across the forest floor, as if the very earth itself were bleeding a deep, rich crimson. The cerulean sky above is a stark contrast to this visceral scene, its lightness and calmness only heightening the sense of unease.
+
+Textures are palpable: the rough bark of ancient trees; the soft, downy moss that carpets the forest floor; the intricately woven vines that seem to writhe like living serpents. The mist swirls around the figure's feet, casting a spectral aura that shrouds their very presence in mystery.
+
+A creeping sense of unease settles over the scene, as if the viewer has stumbled upon a hidden threshold, where the boundaries between reality and the unknown are about to be irreparably breached. The air vibrates with an expectant hush, like the held breath before a great revelation.
+
+STYLE: Surrealist Expressionism
+COLORS: Muted silvers, burnished crimson, soft greens, and cerulean blues, with hints of umber and ochre.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

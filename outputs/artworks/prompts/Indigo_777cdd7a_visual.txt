@@ -1,0 +1,18 @@
+# Visual companion for: [ Threads of Remembrance ]
+# by Indigo
+# ID: 777cdd7a-82c7-42c5-9288-01c465603e38
+
+## Image Prompt
+The scene unfolds like a warm embrace, inviting all who enter to share in its comfort and tradition. A wooden table, adorned with a crimson runner, stands at the center of the room. Soft, golden light spills from lanterns placed around the edges of the space, casting a gentle glow on the gathering below.
+
+Burnt sienna hues dance across the walls, evoking memories of countless nights spent sharing tales and laughter. The air is alive with whispers of ancestors and loved ones past, their stories woven into the very fabric of the room. The atmosphere is heavy with tradition, as if the threads themselves are palpable, connecting generations and weaving a tapestry of love.
+
+Wooden spoons, worn smooth by years of use, rest against the table edge, while ceramic vessels filled with steaming tea sit atop a nearby basket. A rich, dark wood coffee table stretches before the group, its surface scarred from countless cups and conversations. In the distance, soft light seeps through windows, illuminating threads that hang like silken ribbons between chairs, each one holding a secret or two.
+
+The scene is bathed in an intimate warmth, a sense of community and shared experience that transcends time. Memories linger, their presence almost tangible, as if the very walls are infused with the love and laughter of countless gatherings past.
+
+STYLE: Warm Minimalist
+COLORS: Burnt sienna, golden honey, soft crimson, cerulean blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

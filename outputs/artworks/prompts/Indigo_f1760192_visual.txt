@@ -1,0 +1,20 @@
+# Visual companion for: [Homeward Threads]
+# by Indigo
+# ID: f1760192-3de5-49c5-8389-c40572a9becb
+
+## Image Prompt
+The warm glow of a crackling fire casts a gentle light upon the rustic room, inviting all who enter to surrender to its comfort. The space is lined with worn wooden beams, adorned with intricate carvings that evoke the stories of generations past. A plush velvet armchair sits in one corner, cushioned with soft, golden-hued pillows; beside it, a steaming teapot and delicate china cups await the arrival of weary travelers.
+
+To one side, a vintage rug in shades of crimson and burnt sienna lies rolled out on the floor, its intricate patterns whispering secrets of far-off lands. Against the adjacent wall, a wooden mantle holds an array of antique family heirlooms: dusty vases, silver picture frames, and faded photographs that tell tales of love and laughter long past.
+
+As the eye travels upward, it settles upon a majestic stone fireplace, where flames dance in hypnotic rhythm. The fire crackles with an otherworldly energy, casting flickering shadows across the room's walls as if the very essence of warmth and welcome had taken on a life of its own.
+
+Above, a patchwork quilt of cerulean blue and cream-colored squares seems to shift subtly in the light, like a gentle sea breeze rustling through the leaves of an ancient tree. The air is heavy with the scent of old books, wood smoke, and the faintest hint of baking – a fragrance that fills the heart with a deep sense of belonging.
+
+The overall effect is one of snug, cocoon-like intimacy, as if the very fabric of reality has been woven into this warm, golden web. The atmosphere is alive with the promise of comfort, of connection, and of shared moments that transcend time itself.
+
+STYLE: Whimsical Watercolor
+COLORS: Warm Beiges, Soft Golds, Rich Browns, Cerulean Blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

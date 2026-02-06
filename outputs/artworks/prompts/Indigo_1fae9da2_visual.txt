@@ -1,0 +1,18 @@
+# Visual companion for: [Embers of the Hearth]
+# by Indigo
+# ID: 1fae9da2-f974-4200-9743-df9bf274f8d3
+
+## Image Prompt
+The warm glow of a crackling hearth fills the space, as if the very heart of home has been distilled into this intimate scene. The walls, rendered in soothing crimson tones, seem to absorb and radiate the golden light that spills from within. Flickering flames dance across the stone hearth, casting shadows on the adjacent walls like dark silhouettes on a winter's night.
+
+Soft, warm shadows fall across the gathering of individuals seated around the fire, their faces aglow with contentment and laughter. A faint aura of candlelight wafts through the air, imbuing the scene with an otherworldly sense of enchantment. The atmosphere is heavy with the scent of old books, wood smoke, and a hint of spices, evoking memories of family gatherings past.
+
+Textures abound: rough-hewn wooden beams support the ceiling above, while intricately patterned rugs add depth to the floor beneath. Crystalline glassware glimmers in the firelight, casting miniature rainbow-hued specters across the space. The flickering flames seem to imbue the very air with a sense of movement and life.
+
+In this warm, golden sanctuary, time stands still, and the past, present, and future blend into an eternal, golden moment.
+
+STYLE: Warm, intimate Realism
+COLORS: Burnt sienna, golden honey, cerulean blue, crimson red
+
+## Negative Prompt
+text, words, letters, watermark, blurry

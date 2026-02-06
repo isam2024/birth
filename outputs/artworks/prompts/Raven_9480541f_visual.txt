@@ -1,0 +1,18 @@
+# Visual companion for: [THE LINGUIST OF SHADOWS]
+# by Raven
+# ID: 9480541f-ec3b-470a-a557-ec9a3c33a9a7
+
+## Image Prompt
+In the dimly lit studio, a figure stands at the threshold of a mysterious portal. The air is heavy with anticipation, and the atmosphere is thick with an otherworldly energy. A crimson glow emanates from the veil-like fabric that shrouds the entrance, casting an ethereal light on the surrounding environment.
+
+The walls are adorned with ancient symbols, etched into worn wooden panels that seem to absorb the flickering luminescence. The textural roughness of the wood is juxtaposed with the soft, feathery brushstrokes of gold ink that dance across the surface, imbuing the space with an air of mystique.
+
+Burnt sienna hues bleed from the corners of the portal, where wisps of smoke and shadow seem to writhe in agony. Above the entrance, a tattered silken banner flails, its frayed edges fluttering like a wounded bird's wings. The sky outside is a deep, foreboding cerulean, as if the very heavens themselves are conspiring to keep secrets hidden.
+
+In the foreground, a worn, leather-bound tome lies open on a pedestal of polished obsidian, its pages spilling forth in a tumble of parchment scrolls and ink-stained quills. The air is heavy with the scent of old books, decay, and forgotten knowledge. A faint aura of mysticism pervades the scene, as if the very fabric of reality has been rent apart to reveal the hidden dimensions of existence.
+
+STYLE: Dark Romanticism
+COLORS: Burnt Sienna, Crimson, Cerulean, Deep Blue-Green, and Golden Amber
+
+## Negative Prompt
+text, words, letters, watermark, blurry

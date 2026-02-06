@@ -1,0 +1,21 @@
+# Visual companion for: [Whispers on the Wind]
+# by Blossom the Dancing
+# ID: 7830711c-b5ea-4f21-8b2f-7e16c3406033
+
+## Image Prompt
+In a whisper-thin veil of twilight, a lone figure stands at the edge of a lush meadow, bathed in the soft, ethereal glow of a setting sun. The gentle curve of the hills dissolves into the horizon, where a burning orange-red sky blazes with fiery passion. Shimmering wisps of cloud drift lazily across the cerulean canvas above, as if carried on the breath of the wind.
+
+Wildflowers – their delicate petals an intricate dance of crimson and saffron – stretch towards the fading light like tender, outstretched arms, their slender stems swaying in the breeze. The grass beneath is a soft, verdant carpet, flecked with scattered leaves that glimmer like burnished copper in the dying light.
+
+A meandering path winds its way through the wildflowers, vanishing into the distance as it leads the viewer's eye along a serpentine course of discovery and wonder. Shaded areas beneath ancient trees create cozy nooks, where shadows are embroidered with intricate patterns of leafy texture and weathered stone. 
+
+In the midst of this fleeting scene, time itself appears to stand still, held suspended in an eternal moment of promise and transformation.
+
+STYLE: Dreamlike Expressionism
+COLORS:
+* Warm hues (crimson, burnt sienna, golden amber)
+* Cool blues (cerulean, cobalt)
+* Earthy tones (ochre, terracotta)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

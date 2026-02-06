@@ -1,0 +1,20 @@
+# Visual companion for: [Soft Ember]
+# by Jasper Flame-touched
+# ID: c03329c3-73a2-4d85-a00f-308ab844ddd8
+
+## Image Prompt
+In the heart of a tranquil clearing, a solitary candle flickers on a moss-covered pedestal, casting a warm, golden light onto the intricate, lace-like patterns that dance across the walls. The air is alive with the whispers of ancient secrets, as if the trees themselves were sharing their most intimate confidences.
+
+Soft crimson hues seep from the candle's gentle flame, infusing the space with a sense of nostalgia and longing. Burnt sienna tones, weathered to perfection, adorn the stone walls, blending seamlessly into the surrounding foliage. The cerulean blue of a mist-shrouded sky above adds an ethereal quality, as if the very fabric of reality was woven from delicate threads.
+
+The texture of the moss, soft and lush beneath the candle's gentle light, is like nothing else in this mystical realm. The intricate patterns etched into the stone walls seem to be made of a thousand tiny, interlocking scales, each one reflecting the flickering dance of the flame.
+
+As the eye wanders deeper into the clearing, it becomes lost in the labyrinthine passages and whispered promises that only nature can convey. This is a place where time stands still, and the weight of centuries is lifted by the gentle breeze rustling through the leaves.
+
+The atmosphere is one of reverent stillness, as if the very essence of existence had been distilled into this singular, golden moment. In this sacred space, all worries and doubts are washed away, leaving only the pure, unadulterated truth to be revealed.
+
+STYLE: Whimsical Realism
+COLORS: Soft crimson, burnt sienna, cerulean blue, mossy greens
+
+## Negative Prompt
+text, words, letters, watermark, blurry

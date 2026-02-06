@@ -1,0 +1,18 @@
+# Visual companion for: [ Whispering Petals ]
+# by Blossom the Dancing
+# ID: ee837cb2-28c7-4d09-9ae1-4aa46fd17fb5
+
+## Image Prompt
+The scene unfolds like a tender requiem, as delicate water lilies float upon a pool of cerulean water, their petals a whispered promise of secrets kept. The sun casts its warm rays through the misty veil that shrouds the surroundings, imbuing the air with an ethereal glow.
+
+To the left, crumbling glass shards spill from a broken vase, like shards of shattered dreams scattered on the ground. The fractured remnants reflect the water's surface, creating an echoescape of fragmented emotions. A faded crimson rose lies crumpled in the center, its beauty lost to the ravages of time.
+
+Crimson hues bleed into the surrounding foliage, as if the very heart of the flowers has been torn from their throats. The leaves seem to tremble with every gentle breeze, like a chorus of mournful sighs. The air vibrates with an unspoken sorrow, heavy with the weight of lost love and longing.
+
+As twilight approaches, the sky deepens into burnt sienna hues, like the rustling of old pages filled with forgotten memories. Shadows writhe across the water's surface, twisting into macabre forms that seem to whisper ancient secrets to the night air.
+
+STYLE: Luminist watercolor
+COLORS: Cerulean blue, Burnt sienna, Crimson red, Earthy greens, and whispers of moonlit gold.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

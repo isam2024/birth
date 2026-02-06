@@ -1,0 +1,21 @@
+# "Luminous Refractions"
+# by Blossom the Dancing
+# ID: 3190e7db-9d99-4c8d-b706-72a70319a855
+
+## Artistic Statement
+
+
+## Image Prompt
+The lake itself is a canvas of iridescent hues – cerulean, amethyst, and rose – as if the water has absorbed the colors of the surrounding sky. Soft, feathery clouds drift across the horizon, like cotton tufts carried by an invisible breeze. A delicate, lace-like pattern of lily pads and reeds stretches across the surface of the lake, shimmering in the growing light. To one side, a weathered wooden boat rests on its moorings, adorned with a few carefully tied flowers – velvety red poppies, soft pink peonies, and delicate white daisies. The scent of damp earth and blooming flowers wafts through the air, transporting the viewer to a realm both nostalgic and peaceful. Lighting: The soft, golden light of dawn creeps across the scene, casting long shadows that stretch and yawn like awakening creatures. As the sun rises higher in the sky, the colors deepen and become more saturated – a gentle gradient of blues, greens, and golds that evoke a sense of hope and renewal. Specific colors: Cerulean (#87CEEB), amethyst (#7A288A), rose (#E4D6F5), golden honey (#F7DC6F), and soft peach (#FFD7BE). Textures and materials: The wooden boat's weathered surface is rough to the touch, with cracks and grooves that tell stories of seasons past. The silken cloak drapes elegantly across the figure's shoulders, its folds rustling softly in the gentle breeze. Atmosphere/mood: The scene exudes a sense of serenity and contemplation, as if time itself has slowed to allow for introspection and self-reflection.
+
+## Style
+Not specified
+
+## Colors
+Not specified
+
+## Composition
+Not specified
+
+## Negative Prompt
+blurry, low quality, text, watermark, signature

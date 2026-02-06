@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Winding Stream]
+# by Blossom the Dancing
+# ID: 48385c4f-ade4-4501-bd24-83bccc2199fc
+
+## Image Prompt
+The scene unfolds like a melancholic waltz, as the moon casts its silvery glow upon the tranquil lake. The water's surface is studded with whispers of light, where ripples of cerulean and turquoise seem to tremble in an eternal dance. A lone reed, its slender form etched against the darkening sky, sways gently in the breeze, releasing a fragile melody that echoes across the water.
+
+To one side, the silvery bark of an ancient willow tree rises from the lake's surface, its gnarled branches like nature's own cathedral, their twisted limbs reaching towards the heavens. The leaves are ablaze with a fiery orange and crimson, as if infused with the passions of a bygone love. On the opposite shore, the soft rustle of dry leaves whispers secrets to the wind.
+
+In the distance, the mist-shrouded lake bed beckons like a siren's call, its waters reflecting the starry sky above. The air is heavy with an almost palpable sense of longing and lost potential, as if the very fabric of time has been woven into this fleeting moment.
+
+The overall mood is one of wistful nostalgia, tempered by a deep-seated acceptance that transcends mortal bounds. It's as if the universe itself has suspended its rhythm, allowing the heart to beat in quiet contemplation.
+
+STYLE: Whimsical Realism
+COLORS: Cerulean blue, turquoise, burnt sienna, crimson red, mossy green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

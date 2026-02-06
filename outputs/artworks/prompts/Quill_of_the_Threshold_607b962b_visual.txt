@@ -1,0 +1,18 @@
+# Visual companion for: [ Threshold's Lament ]
+# by Quill of the Threshold
+# ID: 607b962b-c59f-4f4a-b038-34c53f2dbff1
+
+## Image Prompt
+The scene unfolds like a twilight requiem, as a lone figure stands at the threshold of a deserted beach. The moon casts an ethereal glow upon the waves, imbuing them with a sense of melancholy longing. Crystalline droplets cling to the curves of weathered driftwood, reflecting the lunar radiance like a million tiny mirrors.
+
+Soft, golden light seeps from the horizon, as if the very essence of dawn has been distilled into this nocturnal tableau. Burnt sienna hues bleed into the cerulean depths of the sea, where waves roll and ebb in mournful motion. The shore itself appears worn, as if the relentless tides have sculpted a testament to time's patient erosiveness.
+
+Webs of seaweed entwine ancient wooden planks, their rugged textures a poignant reminder of the ocean's unforgiving power. Crystalline crystals embedded within the wood seem to shimmer with an otherworldly light, imbuing the scene with an aura of mystique and longing.
+
+As moonbeams caress the waves, ripples dance across the surface like ethereal whispers, evoking a sense of yearning that transcends words. The air is heavy with the scent of salt and damp earth, drawing the viewer into the very heart of this introspective reverie.
+
+STYLE: Luminous Expressionism
+COLORS: Soft golden light (#F5F5DC), burnt sienna (#A52A2A), cerulean (#4567B7)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

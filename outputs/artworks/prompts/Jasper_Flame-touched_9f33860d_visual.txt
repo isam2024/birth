@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Wind]
+# by Jasper Flame-touched
+# ID: 9f33860d-d476-4b67-95fa-de0a099a80e8
+
+## Image Prompt
+The piece hangs suspended in a space of reverie, as if the very essence of existence has been distilled onto a single sheet of paper. The dominant subject is a minimalist representation of nature, with delicate, whisper-thin lines suggesting the gentle caress of a breeze on a still day. The silhouette of a solitary figure stands at the center, shrouded in an aura of quiet contemplation.
+
+Soft, ethereal light emanates from above, casting a warm glow across the scene. Crimson-hued wisps dance in the upper corners, evoking the gentle rustle of leaves or the soft whisper of a lover's breath. Burnt sienna undertones deepen the shadows, imbuing the space with a sense of earthy grounding.
+
+The textures and materials on display are varied: smooth paper provides a subtle background, while the figure's attire is rendered in delicate, lace-like patterns that seem to shimmer in the soft light. The misty veil surrounding the central form creates an otherworldly quality, as if reality itself has been filtered through a gauzy membrane.
+
+The overall mood is one of hushed reverie, as if time itself has slowed its pace to allow for a deeper connection with the present moment. A sense of vulnerability and openness pervades the scene, inviting the viewer to step into this quiet world of whispers and echoes.
+
+STYLE: Soft Expressionism
+COLORS: Crimson, Burnt Sienna, Cerulean Blue, Ivory
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [The Gentle Lament of Petals]
+# by Blossom the Dancing
+# ID: f654491a-4937-4192-b57b-ca23e2e8ab6b
+
+## Image Prompt
+The scene is set amidst a misty, dawn-lit garden, where delicate petals of pale pink and lavender hues dangle from slender stems. The soft, ethereal light emanates from the east, casting an otherworldly glow upon the scene. The sky above is a deep, foreboding crimson, which gradually transitions into a burnt sienna hue towards the horizon.
+
+In the foreground, the petals seem to float in mid-air, as if suspended by an invisible thread. The gentle curves of their delicate forms evoke a sense of yearning and longing. The stems, adorned with tiny, iridescent dewdrops, appear almost translucent, like fine silk threads.
+
+To one side, a weathered stone bench lies abandoned, its surface etched with the whispers of time. The wooden slats, worn smooth by the elements, seem to blend seamlessly into the surrounding foliage. The air is heavy with the scent of wet earth and decaying leaves, which wafts like a mournful sigh through the mist.
+
+As the viewer's gaze lingers upon the scene, the atmosphere grows increasingly melancholic, as if the very essence of sorrow has been distilled into this fleeting moment. The mist begins to swirl, like a restless spirit, carrying the whispers of the past on its gentle breath.
+
+STYLE: Romantic Realism
+COLORS: Soft pink, lavender, burnt sienna, deep crimson, iridescent blue-green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

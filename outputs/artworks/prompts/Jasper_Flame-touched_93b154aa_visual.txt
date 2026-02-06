@@ -1,0 +1,18 @@
+# Visual companion for: [THE FRACTURED SILENCE OF TIME]
+# by Jasper Flame-touched
+# ID: 93b154aa-fe38-46d1-97fc-6a97b81dcf39
+
+## Image Prompt
+The fractured silence of time unfolds like a delicate, porcelain vase shattered by an unseen force. The cracked glass fragments refract and reflect shards of light, casting an ethereal glow across the surroundings. A soft, crimson-hued mist drifts from the broken vessel, as if the very essence of the moment has been distilled into this fleeting, otherworldly atmosphere.
+
+To one side, a weathered, wooden bench stands sentinel, its surface worn to a gentle, burnt sienna patina by the whispers of time. The wood grain seems to whisper secrets to the empty air, as if the tree itself is sharing its own poignant tales of impermanence.
+
+Cerulean wisps dance across the sky, evoking the promise of a distant storm that never arrives. A solitary, silver birch tree stands watchful in the distance, its branches etched against the cerulean backdrop like delicate, lace-like fingers. The atmosphere is heavy with the scent of damp earth and decaying leaves.
+
+In the foreground, delicate, crystalline shards of glass cling to the wooden bench, each one refracting a sliver of light into miniature, rainbow-hued rainbows that prickle at the edges of perception. The overall mood is one of melancholy beauty, as if the world itself has paused, took a deep breath, and surrendered to the quiet majesty of existence.
+
+STYLE: Expressionist Abstraction
+COLORS: Soft crimson, burnt sienna, cerulean blue, silver grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

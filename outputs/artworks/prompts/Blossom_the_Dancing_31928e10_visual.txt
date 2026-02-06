@@ -1,0 +1,18 @@
+# Visual companion for: [Soft Focus]
+# by Blossom the Dancing
+# ID: 31928e10-6962-41ae-9880-9c9e63adb625
+
+## Image Prompt
+In a softly lit room, where time seems to slow and whispers become a gentle breeze, a young woman sits on a worn wooden bench, surrounded by the remnants of nature. Her slender fingers are delicately woven among the petal-like fragments of a flower, now wilted but still radiating a gentle, otherworldly glow. The surrounding space is filled with the scattered remains of a once-vibrant bouquet: delicate leaves, crushed petals, and wispy threads that resemble gossamer silk.
+
+The woman's own skin has a soft, golden undertone, reminiscent of worn wood or aged parchment, as if kissed by the sun's warm rays. Her eyes are closed, and her gentle breathing is the only sound in the stillness. The bench beneath her appears weathered from countless moments of introspection, its surface bearing the subtle scars of time.
+
+To one side, a dusty windowpane casts a muted glow on the room, illuminating the delicate shapes of forgotten memories: a torn lace handkerchief, a crushed rose bud, and an abandoned sketchbook. The overall atmosphere is heavy with the weight of unspoken emotions and half-remembered moments.
+
+The air seems to vibrate with the soft hum of secrets, each whispered in the silence between breaths.
+
+STYLE: Impressionist watercolor
+COLORS: Soft crimson, burnt sienna, cerulean blue, ivory
+
+## Negative Prompt
+text, words, letters, watermark, blurry

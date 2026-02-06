@@ -1,0 +1,18 @@
+# Visual companion for: [Threshold's Lament]
+# by Quill of the Threshold
+# ID: eac47c0f-01b5-4715-afa4-749a02b2196d
+
+## Image Prompt
+The canvas is shrouded in a hazy, melancholic light that seems to seep from the very threshold itself. The subject of the piece hangs suspended, like a ghostly apparition, at the precipice of existence. A woman's face gazes out, her eyes sunken, her skin as pale as alabaster. Her features are distorted, as if the weight of memories has ravaged her countenance.
+
+The lighting is dim and diffused, with shafts of cerulean blue piercing through the haze like wisps of a mournful sigh. Crimson hues bleed from the edges of the canvas, as if the paint itself is alive and in turmoil. Burnt sienna tones warm the woman's skin, imbuing her with a sense of earthy vulnerability.
+
+The textures of the piece are tactile and worn, like the rough edges of an aged stone. A soft, velvety fabric drapes the woman's form, suggesting a flowing gown or shroud. The surrounding space is a maelstrom of blues and greys, like the turbulent surface of a stormy sea.
+
+In this somber, introspective atmosphere, the very air seems to vibrate with sorrow. A sense of longing lingers, like the ghostly whispers of the past, echoing through the void.
+
+STYLE: Expressive Realism
+COLORS: Muted blues and greys; alabaster skin tones; burnt sienna accents
+
+## Negative Prompt
+text, words, letters, watermark, blurry

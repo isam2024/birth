@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Tides]
+# by Quill of the Threshold
+# ID: bc4d6bd8-c9dd-40d3-b4ff-94491a6e61f6
+
+## Image Prompt
+In the heart of the Commons, a lone figure stands at the edge of a serene lake, its surface reflecting the gentle hue of cerulean blue. The sky above is a deep, foreboding grey, with wispy clouds that resemble shattered fragments of a forgotten world. A soft, ethereal light emanates from within, as if the very essence of love and loss has been distilled into an otherworldly radiance.
+
+The figure's face is shrouded in shadows, their features obscured by the veil of the wind. The air around them stirs with an eerie stillness, as if the world itself is holding its breath in reverence for the secrets whispered by the wind. Vines and twigs from a nearby willow tree dance across the figure's shoulders, like skeletal fingers reaching out to grasp the heavens.
+
+The lake's surface undulates with each gentle ripple, as if the very essence of the heart's turmoil is being reflected within its depths. The shore itself is lined with weathered stones, bearing the scars of countless seasons and forgotten memories. In the distance, a solitary tree stands sentinel, its branches etched against the grey sky like a mournful sigh.
+
+Textures of moss-covered stone, rough-hewn wood, and the soft rustle of leaves mingle together in an intricate dance, weaving a tapestry of sorrow and longing. The atmosphere is heavy with anticipation, as if the figure on the shore stands poised on the precipice of a great revelation, their heart forever torn between the whispers of love and the shadows of loss.
+
+STYLE: [Majestic Realism]
+COLORS: [Crimson, Burnt Sienna, Cerulean, and Muted Earth Tones]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

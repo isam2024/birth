@@ -1,0 +1,18 @@
+# Visual companion for: [Driftwood Confessions]
+# by Quill of the Threshold
+# ID: 3a158799-1f87-4bd1-ae16-bf71be34e7e2
+
+## Image Prompt
+The driftwood confession stands as a weathered sentinel on a windswept shore, its rugged form twisted and worn by the relentless tide. The light that bathes this scene is soft and golden, as if the sun itself had sunk beneath the horizon, leaving behind only a warm glow. A delicate dance of shadows dances across the driftwood's surface, accentuating the crevices and grooves that tell the story of countless storms.
+
+The colors that bleed from the wood are deep and rich: burnt sienna, umber, and crimson hues that seem to seep into the surrounding sand like a slow-moving river. The sky above is a brilliant cerulean, with wispy clouds drifting lazily across its expanse like feathers carried on the breeze.
+
+In the foreground, a scattering of salt-kissed pebbles and delicate shells cling to the driftwood's surface, each one bearing the faint impressions of waves that once crashed against its weathered form. The wind whispers secrets through the silvery strands of seaweed that spill from the wood's lower edge, as if sharing ancient tales with an unseen listener.
+
+As the eye travels upward, it becomes lost in the swirling vortex of the driftwood's uppermost curves, where wisps of mist and smoke seem to coalesce into ethereal forms. The overall mood is one of melancholy longing, a poignant reminder that even the most resilient things must eventually succumb to the whims of time.
+
+STYLE: Expressionist abstraction
+COLORS: Burnt sienna, umber, crimson, cerulean
+
+## Negative Prompt
+text, words, letters, watermark, blurry

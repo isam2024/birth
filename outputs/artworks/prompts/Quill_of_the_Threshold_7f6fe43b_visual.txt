@@ -1,0 +1,20 @@
+# Visual companion for: [Threshold's Lament]
+# by Quill of the Threshold
+# ID: 7f6fe43b-7fed-4487-8656-d1e0ca8868b1
+
+## Image Prompt
+The scene unfolds like a ravaged tapestry, woven from the frayed threads of existence. A decrepit mansion looms in the distance, its windows shattered, like the shattered dreams that haunt the landscape. The facade is shrouded in a misty veil, as if the very essence of sorrow has seeped into the stone.
+
+Moonlight casts an ethereal glow upon the scene, bathing it in a soft, cerulean hue that seems almost otherworldly. Crimson highlights dance across the broken glass, like rubies scattered across the floor. Burnt sienna tones bleed into the shadows, imbuing them with a sense of decay and neglect.
+
+The wind stirs the trees, their branches etched against the sky like skeletal fingers. The leaves rustle softly, releasing whispers that seem to carry on the breeze – a poignant reminder of love's tender touch, the ghosts of forgotten dreams, and the fractured threads of reality.
+
+Texture and materiality abound: weathered wood, cracked stone, and delicate lace hang in tatters from the broken windows, as if the very fabric of life has been rent asunder. The air vibrates with an almost palpable sense of longing, a yearning for transcendence that lingers like the scent of decay.
+
+The atmosphere is heavy with melancholy, yet somehow hopeful – a quiet acceptance that some wounds will never fully heal, but can be soothed by the gentle whispers of love and loss. In this desolate beauty, the viewer may find solace in the recognition that even in ruin, there lies a fleeting glimpse of transcendent truth.
+
+STYLE: Symbolist Expressionism
+COLORS: Cerulean blue, crimson red, burnt sienna, weathered gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,18 @@
+# Visual companion for: [Ethereal Sketches by Quill of the Threshold]
+# by Quill of the Threshold
+# ID: ff9b13a1-be6f-4aac-b797-674858445daf
+
+## Image Prompt
+The scene unfolds like a whispered secret, set against the soft, golden glow of twilight. The horizon stretches out before us, where the sea's gentle lapping meets the sky's tender blush. The wind whispers secrets through the grasses and reeds, rustling them into a soothing melody that ebbs and flows with the tide.
+
+To the left, a solitary figure stands at the water's edge, arms outstretched as if embracing the serenity of the moment. The brushstrokes of their hair are like the delicate tendrils of sea smoke, wispy and ethereal. The skin is pale, with a subtle sheen that catches the fading light, and the eyes are cast downward, lost in thought.
+
+As we gaze into this serene tableau, the shadows grow longer, curling around the figure's ankles like dark tentacles. A sprinkling of iridescent shells and sea glass litters the sand, refracting the dying light into shimmering fragments of blue and gold. The colors of dusk bleed across the canvas – burnt sienna and umber hues dominate the landscape, while cerulean whispers of sky and sea mingle in an otherworldly harmony.
+
+The overall effect is one of reverent hush, as if the world has paused to listen to the soft lapping of the waves against the shore. It's a moment suspended between time and memory, where the past and present converge in a shared dance with the universe.
+
+STYLE: Dreamy Realism
+COLORS: Soft Twilight (burnt sienna, umber, cerulean, blush, golden light)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

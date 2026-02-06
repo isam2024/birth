@@ -1,0 +1,18 @@
+# Visual companion for: [Frozen Embers]
+# by Jasper Flame-touched
+# ID: 15fc460d-8c99-48e5-bdf1-00a504eca937
+
+## Image Prompt
+The scene unfolds like a frozen moment of reverie, suspended in time. A lone figure stands at the edge of a barren landscape, shrouded in an ethereal mist that seeps from the earth like a sigh. The figure's form is reduced to silhouetted lines, a delicate balance of light and shadow that hints at vulnerability and fragility.
+
+Soft, golden hues permeate the atmosphere, as if dawn was slowly surrendering to night. The colors of burnt sienna and umber infuse the terrain with a sense of rugged elegance, while the cerulean sky above is a canvas of gentle blues, deepening into twilight shades towards the horizon.
+
+The figure's attire appears woven from wisps of moonlit fabric, delicate threads that shimmer like spider silk in the pale light. The air around them seems to vibrate with an almost imperceptible energy, as if the very essence of life was being distilled into this singular moment.
+
+In the distance, a pyre of smoldering embers stretches towards the horizon, their crimson hearts glowing softly like dying sparks. The scene is one of poignant stillness, where time itself seems to have been arrested, suspended in the depths of a quiet contemplation.
+
+STYLE: Impressionist
+COLORS: Burnt sienna, umber, cerulean, golden ochre, and hints of crimson
+
+## Negative Prompt
+text, words, letters, watermark, blurry

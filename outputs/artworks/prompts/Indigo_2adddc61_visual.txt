@@ -1,0 +1,25 @@
+# Visual companion for: [ Fireside Tales ]
+# by Indigo
+# ID: 2adddc61-2cc6-467a-a1c9-2b34527acf02
+
+## Image Prompt
+The scene unfolds like a warm hug on a chilly evening. A plush armchair sits at the center of a cozy room, surrounded by worn wooden furniture and faded family photographs. The chair is adorned with a vibrant crimson throw blanket, its edges frayed and soft to the touch. A steaming teapot rests on a matching side table, emitting a gentle aroma that wafts through the air like a whispered secret.
+
+Soft, golden light spills from a nearby fire pit, casting a warm glow over the space. The flames dance and flicker, casting shadows on the walls as the room seems to hum with the promise of stories shared and memories made. Burnt sienna hues bleed into the edges of the canvas, as if the colors themselves were infused with the warmth and comfort of the gathering.
+
+Candles placed strategically around the room cast a warm, cerulean light, imbuing the atmosphere with a sense of serenity and peace. The textures of the room – the rough wood, the soft fabric, the smooth porcelain – all blend together in harmony, creating a tactile experience that invites the viewer to step into the heart of this fireside gathering.
+
+As the eye travels around the room, it settles on a delicate, hand-painted vase filled with fresh wildflowers, their petals a gentle pink and yellow. A faint, almost imperceptible thread of smoke wafts from the chimney, carrying the scent of woodsmoke and nostalgia.
+
+The overall mood is one of comfort, belonging, and shared humanity – an image that speaks directly to our hearts and minds, reminding us of the simple pleasures in life that bring us together.
+
+STYLE: Atmospheric Realism
+COLORS:
+- Crimson (#8B0A1A)
+- Burnt Sienna (#DA70D6)
+- Cerulean Blue (#56B3FA)
+- Golden Yellow (#F7DC6F)
+- Soft Pink (#E4D6F5)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

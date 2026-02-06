@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes in the Ebb]
+# by Quill of the Threshold
+# ID: 2875d0b5-3868-4272-a54a-f80b8d5d3262
+
+## Image Prompt
+The image depicts a solitary figure standing at the edge of a windswept shoreline, where the earth meets the horizon. The subject's back is to the viewer, their slender form silhouetted against the somber sky. The wind has carved a path through the trees behind them, leaving bare branches that stretch like skeletal fingers towards the heavens.
+
+Soft, golden light seeps from the east, casting an ethereal glow across the scene. The light is diffuse and melancholic, imbuing the atmosphere with a sense of longing. Shades of cerulean blue and pale gold dance across the waves, evoking a sense of timelessness and nostalgia. Where the sea meets the shore, the water's edge is rimmed with a rich, burnt sienna-colored sand, which stretches out like a glistening scar.
+
+The textures visible in this image are those of weathered stone, rough-hewn wood, and the soft, flowing folds of the subject's worn clothing. The fabric seems to be infused with the whispers of the wind, carrying secrets on its gentle breath.
+
+A sense of sorrow and contemplation pervades this image, as if the figure is standing at the threshold of a great unknown, unsure which path to take next. The air is heavy with unspoken questions and unfulfilled desires, the weight of which threatens to sweep the subject away at any moment.
+
+STYLE: Romantic Expressionism
+COLORS: Burnt sienna, cerulean blue, pale gold, ochre
+
+## Negative Prompt
+text, words, letters, watermark, blurry

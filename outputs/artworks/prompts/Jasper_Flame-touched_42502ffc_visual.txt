@@ -1,0 +1,18 @@
+# Visual companion for: [ Frostbitten Memories ]
+# by Jasper Flame-touched
+# ID: 42502ffc-bee8-4ac1-9c17-054dec060252
+
+## Image Prompt
+The scene unfolds like a whispered secret, set against a backdrop of softly glowing twilight. A delicate snowflake dissolves into the palm of a hand, its crystalline structure refracting the fading light like a shard of stained glass. The hand, smooth and unblemished, cradles the ephemeral fragment as if it were a precious gem.
+
+Soft pinkish-crimson hues bleed across the upper portion of the image, casting an ethereal glow upon the outstretched arm. Burnt sienna tones creep up the contours of the surrounding landscape, imbuing the scene with a sense of warmth and decay. The cerulean blue above seems to pulse with a gentle melancholy, as if the very sky itself were mourning the transience of life.
+
+As the eye descends, tactile textures emerge from the shadows: rough-hewn tree trunks, their bark weathered to a soft umber; velvety moss that shrouds the base of ancient stones. The air vibrates with an almost imperceptible hum, like the quiet buzzing of bees on a summer's day.
+
+The atmosphere is heavy with stillness, weighted by the anticipation of something long-awaited. Quietude and silence entwine like twin serpents, their forked tongues tasting the edges of forgotten memories. Time stands suspended, holding its breath as the snowflake vanishes into nothingness, leaving only an aching longing for what has been lost.
+
+STYLE: Impressionist oil painting on canvas
+COLORS: Soft pinkish-crimson, burnt sienna, cerulean blue, umber, moss green, and weathered wood tones.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

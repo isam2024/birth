@@ -1,0 +1,30 @@
+# Visual companion for: Moonlit Tapestry of Echoes
+# by Raven
+# ID: 5bbf912f-fd2a-4ec2-a4fe-b78f0a9905ca
+
+## Image Prompt
+The scene unfolds like a mysterious tapestry, woven from threads of forgotten lore. A silvery moon hangs low in the sky, its fragments shattered and scattered across the landscape like diamonds on velvet. The air is heavy with the whispers of ancient tales, their echoes carried on the wind like mournful sighs.
+
+In the foreground, a dark, velvety cloth seems to absorb the faint, ethereal light that filters through the veil of mist. The surface is rough-hewn, like worn leather, and embossed with intricate patterns that shimmer like moonstones in the fading radiance. Closer inspection reveals threads of silver and darker hues, woven together in a delicate dance of light and shadow.
+
+Shadows writhe and twist across the cloth, like living things, their forms shifting and flowing like molten lava. The atmosphere is alive with an otherworldly energy, as if the very fabric of reality has been rent apart to reveal hidden dimensions. A scattering of shards from the shattered moon glint like scattered stardust in the faint light, casting a thousand tiny sparks across the surface.
+
+TEXTURES:
+
+* Rough-hewn, embossed cloth
+* Silky threads of silver and darker hues
+* Smooth, glassy shards from the shattered moon
+
+COLORS:
+
+* Faded blue-gray (cristaline)
+* Dusty crimson
+* Burnt sienna
+* Muted cerulean
+
+STYLE: [Symbolist/Expressionist]
+
+COLORS: Muted, muted, muted with splashes of crystal.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

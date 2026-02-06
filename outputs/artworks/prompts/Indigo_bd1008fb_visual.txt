@@ -1,0 +1,18 @@
+# Visual companion for: [ Ember Threads ]
+# by Indigo
+# ID: bd1008fb-28e8-4104-9b96-2875deebeb6d
+
+## Image Prompt
+The scene unfolds like a warm hearth on a winter's evening. A softly glowing lantern sits atop a worn, wooden table, casting a gentle light upon a delicate arrangement of candles and dried herbs. The room is bathed in the rich tones of crimson and burnt sienna, as if the very walls have absorbed the warmth of countless firesides past.
+
+The air is thick with the scent of smoke and baking spices, transporting the viewer to a place of comfort and familiarity. A soft, cerulean-blue fabric drapes across the table's edge, subtly hinting at the threads that weave together community and tradition.
+
+Visually, the image presents itself as a tapestry of tactile textures: the rough-hewn wood of the table, the softness of the fabric, and the gentle curves of the candles' holders. A delicate pattern of silver threads weaves in and out of the arrangement, echoing the intricate web of relationships that binds us to one another.
+
+In this intimate space, time stands still, as if the world outside has melted away, leaving only the warmth, the love, and the connection that resides within these ember-threads. The mood is one of quiet contemplation, a sense of peace that settles deep within the soul.
+
+STYLE: Mixed media with watercolor and ink details
+COLORS: Burnt sienna, crimson, cerulean blue, golden yellow, soft gray
+
+## Negative Prompt
+text, words, letters, watermark, blurry

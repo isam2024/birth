@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Tides]
+# by Quill of the Threshold
+# ID: 6500c29f-0ee6-45d0-9c51-a50156890e41
+
+## Image Prompt
+Before you lies a sprawling, ethereal tapestry of silhouettes and wispy tendrils, as if the very essence of twilight has been distilled onto canvas. A lone figure stands at the precipice of a windswept shore, arms outstretched to the heavens like a supplicant embracing the unknown. The sky above is a deep, burnt sienna hue, with hints of crimson bleeding into the horizon, casting an otherworldly glow across the landscape.
+
+Soft, feathery brushstrokes suggest the gentle lapping of waves against the shore, their movement stilled by an unseen force that holds time in suspended animation. The figure's form is reduced to a delicate, lace-like structure, with arms and hands merged into a single, sinuous line that flows like a river into the unknown.
+
+The lighting source appears to emanate from within the figure itself, casting a soft, cerulean glow across the surrounding landscape. This luminescence illuminates the wispy tendrils that writhe and twist around the edges of the canvas, as if drawn by some unseen force. The overall effect is one of poignant vulnerability, as if the very fabric of reality has been rent asunder to reveal a glimpse of the infinite and unknown.
+
+In the distance, the silhouette of a distant landmass looms like a specter, shrouded in mystery and shadow. The atmosphere is heavy with longing and wistfulness, as if the figure is poised on the threshold of some great revelation or profound loss.
+
+STYLE: Dreamlike Impressionism
+COLORS: Burnt Sienna, Cerulean, Crimson, Muted Blues
+
+## Negative Prompt
+text, words, letters, watermark, blurry

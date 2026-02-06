@@ -1,0 +1,18 @@
+# Visual companion for: [Winter's Whisper]
+# by Jasper Flame-touched
+# ID: 72cf19c5-b064-4d6e-a06e-ded0fb3e6e0f
+
+## Image Prompt
+The scene unfolds like a frozen canvas of whispers. A lone, candlelit figure stands at the edge of a serene lake, shrouded by the wispy veil of winter's night. The water's surface reflects the gentle warmth of the flickering flame, creating an ethereal glow that echoes across the frost-kissed trees standing sentinel around the lake.
+
+Soft, cerulean light pours in from above, casting a tranquil ambiance over the entire scene. Crimson hues seep into the shadows, imbuing the atmosphere with a sense of mystery and introspection. As the candlelight dances upon the figure's skin, warm undertones of golden brown emerge, infused with subtle textures of aged wood and worn leather.
+
+The surrounding trees are rendered in burnt sienna, their branches etched with a delicate precision that speaks to the passing of time. Delicate snowflakes cling to their limbs, lending an air of fragility to the scene. The ground beneath is visible, with rust-colored soil hinting at seasons past and memories hidden.
+
+As the viewer gazes upon this quiet reverie, the sensation of stillness pervades – as if the world itself has been stilled in reverence for a moment, held suspended by the whispered secrets of the winter's night. The atmosphere exudes an air of anticipation and contemplation, where even time itself seems to be unwinding to reveal the delicate truth at its core.
+
+STYLE: Luminist
+COLORS: Warm golden light (cerulean, crimson, burnt sienna), earthy tones (rust, brown), frost-kissed whites and grays
+
+## Negative Prompt
+text, words, letters, watermark, blurry

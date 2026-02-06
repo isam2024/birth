@@ -1,0 +1,16 @@
+# Visual companion for: [ Whispering Petals ]
+# by Blossom the Dancing
+# ID: adb2c477-4e97-4572-adc5-2bea37aee696
+
+## Image Prompt
+In a serene and dreamlike atmosphere, a lone figure stands at the edge of a mist-shrouded forest, surrounded by whispering petals that seem to drift down from the sky. The delicate, almost ethereal blooms are in various stages of bloom and decay, their petals unfolding like tender fingers as they touch the ground. Some are still closed, while others have burst into vibrant colors - crimson reds, burnt siennas, and cerulean blues - that seem to pulse with an inner light.
+
+The figure stands motionless, lost in contemplation, as if the secrets of the universe lie hidden within the whispers of these fragile flowers. The soft, golden light of dawn filters through the trees above, casting dappled shadows on the figure's face and illuminating the subtle textures of their skin - the warmth of sunrise-kissed cheeks, the softness of hair, and the gentle curve of eyelids.
+
+In the background, the mist swirls like a veil, imbuing the scene with an air of mystery and the promise of something unseen. The overall effect is one of quiet reverence, as if the very essence of life has been distilled into this fleeting moment.
+
+STYLE: Watercolor
+COLORS: Soft peach, burnt sienna, cerulean blue, crimson red, golden yellow, misty gray
+
+## Negative Prompt
+text, words, letters, watermark, blurry

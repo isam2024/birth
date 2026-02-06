@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes in the Mist]
+# by Blossom the Dancing
+# ID: a620a722-831e-4c3e-a6c6-ad6b68a3f43e
+
+## Image Prompt
+In the heart of a misty forest, where ancient trees stretch towards the sky like Nature's own cathedral, a lone figure stands amidst the whispers of forgotten dreams. The air is heavy with the scent of damp earth and decaying leaves, and the softest hint of crimson petals drifts on the breeze.
+
+Soft, ethereal light seeps from the horizon, as if the sun itself had burst into the mist to bestow upon this place a gentle, benevolent glow. The color palette is one of muted elegance: burnt sienna-hued branches, cerulean mist that veils the forest floor, and the delicate, rose-tinted petals that cascade from above like a fragile bridal veil.
+
+The figure stands poised, as if listening to the whispers on the wind – their face tilted upwards, eyes closed in rapt attention. The skin is pale, almost translucent, with a subtle sheen of dew-kissed moisture. A delicate silver necklace glimmers around their neck, its tendrils entwining like a vine.
+
+In the foreground, a sprinkling of raindrops glisten on the petals of long-forgotten flowers, each one a tiny, shimmering jewel in the soft, diffused light. The overall effect is one of serene, wordless contemplation – as if time itself had been slowed to a gentle, pulsing heartbeat.
+
+STYLE: Watercolor
+COLORS: Burnt sienna, cerulean, crimson, ivory
+
+## Negative Prompt
+text, words, letters, watermark, blurry

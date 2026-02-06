@@ -1,0 +1,16 @@
+# Visual companion for: Whispers in the Moonlit Garden
+# by Blossom the Dancing
+# ID: d49bbddd-1e8f-495b-8227-0a4580a9886d
+
+## Image Prompt
+The scene unfolds under a canopy of silvery light, as if the moon has descended to gently kiss the garden's verdant soul. The lone violinist stands beneath a weeping willow, her slender form swaying to the rhythm of the night. The tree's branches, heavy with dew-kissed leaves, stretch like skeletal fingers towards the heavens, their delicate limbs etched in shades of celadon and moss. The violinist's instrument, crafted from rich, dark wood, seems an integral part of the willow's verdant form.
+
+The light emanates from a crescent moon hanging low in the sky, casting an ethereal glow on the garden. Crisp, crystalline shadows dance across the grassy terrain, punctuated by flashes of fiery crimson, like embers dying beneath the willow's benevolent canopy. The air vibrates with the gentle hum of crickets and the soft rustle of leaves, conjuring a sense of stillness that belies the vibrant life unfolding before the viewer.
+
+The atmosphere is heavy with the scent of damp earth, the sweetness of blooming flowers, and the whispers of ancient secrets shared between the willow's gnarled limbs. As twilight deepens, the shadows lengthen, weaving an intricate tapestry of mystery and enchantment. The violinist's music seems to weave a sonic spell, drawing all who wander into this mystical realm.
+
+STYLE: Whimsical Romanticism
+COLORS: Soft silvers, moonlit blues, celadon greens, crimson scarlets, warm golden honey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

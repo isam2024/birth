@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Forgotten Shore]
+# by Quill of the Threshold
+# ID: a5013e35-3842-46a5-a9ef-933e257694da
+
+## Image Prompt
+The canvas whispers secrets of its own as the gentle light of dawn creeps across the forgotten shore. The waves, a mournful melody of indigo and midnight blue, lap at the weathered wooden planks of the decrepit pier. The wood, worn smooth by the relentless pounding of the sea, seems to weep with it, as if the very essence of the ocean's sorrow is being exhaled onto the surface.
+
+Crimson hues bleed into burnt sienna, casting a warm glow across the scene, like the first blush of dawn breaking on a forgotten heart. Cerulean and turquoise swirls dance across the sky, a kaleidoscope of blues that evoke the depth and mystery of the sea below.
+
+The textures of the image are those of age and neglect: worn wood, salt-encrusted stone, and the rough, windswept grasses that cling to life on this forsaken shore. The light catches the tiny shells and pebbles scattered about, casting miniature rainbows in their midst.
+
+As the eye lingers on this poignant scene, it's impossible not to be drawn into the depths of sorrow and longing that seem to permeate every molecule of air. The atmosphere is heavy with the weight of secrets kept and love lost, a melancholy beauty that seems to seep from the very pores of the image.
+
+STYLE: Impressionist with expressive brushstrokes
+COLORS: Warm blues and indigos (crimson, burnt sienna), soft greens and yellows
+
+## Negative Prompt
+text, words, letters, watermark, blurry

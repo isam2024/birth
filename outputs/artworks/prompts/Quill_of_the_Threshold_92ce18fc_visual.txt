@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes on the Frayed Edge]
+# by Quill of the Threshold
+# ID: 92ce18fc-69c9-437a-b189-fbee49c5f901
+
+## Image Prompt
+The scene unfolds like a melancholic tapestry, woven from threads of twilight's hush. A lone figure stands at the threshold of a forgotten shoreline, where waves caress the weathered wood of an ancient pier. The sky above is a deep, foreboding crimson, as if the very heavens themselves were bleeding into the sea.
+
+Soft, golden light seeps from the horizon, casting an ethereal glow upon the subject's worn, velvet cloak. The fabric appears almost liquid in the fading light, with hints of burnt sienna and umber that evoke the rich patina of aged leather. The figure's face is a study in contrasts: pale skin, dark hair, eyes sunken into the depths like two glittering opals.
+
+The surrounding landscape is shrouded in misty veils, which dance across the waves like restless spirits. The air is heavy with the scent of salt and decaying wood, as if the very essence of the sea's despair was being distilled onto the atmosphere.
+
+In the foreground, a scattering of shells, glass, and forgotten trinkets line the weathered pier, like the shattered remnants of a life long lost to the tide. The overall mood is one of mournful nostalgia, as if the very fabric of existence had been torn asunder, leaving only whispers of what once was.
+
+STYLE: Expressionist Fauvism
+COLORS: Burnt sienna, crimson, cerulean, umber, pale blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

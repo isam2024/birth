@@ -1,0 +1,24 @@
+# Visual companion for: [The Whispering Shore]
+# by Quill of the Threshold
+# ID: a032aff6-4948-464c-ba9d-aa6104ce7d08
+
+## Image Prompt
+The canvas lies before you like a weathered sea shell, its surface etched with the gentle whispers of the past. A wavering line drifts across the horizon, where the sky dissolves into an endless expanse of cerulean blue and burnt sienna-hued clouds. The sun sinks slowly toward the waves, casting a warm crimson glow upon the scene.
+
+To one side, the sea itself stretches out in a canvas of liquid blues and greens, like the first stirrings of life on a forgotten moon. Foam-kissed waves caress the shore, leaving behind an etching of frosted shells and seaweed-encrusted rocks. The breeze stirs, carrying with it the whispers of what's been and what's to come.
+
+In the distance, driftwood trees stretch toward the sky, their gnarled branches like skeletal fingers grasping for a world beyond mortal bounds. Webs of iridescent silk cling to the limbs, pulsing softly as if infused with the heartbeat of the sea itself.
+
+Soft focus imbues the scene, as if the boundaries between reality and reverie have grown indistinct. The overall effect is one of serenity, the gentle lapping of waves against the shore creating a symphony of peaceful surrender.
+
+TEXTURES:
+
+- Rough, weathered wood
+- Smooth, frosted glass
+- Lively seaweed
+- Soft, billowy silk
+
+STYLE: Romantic Realism with Impressionist undertones
+
+## Negative Prompt
+text, words, letters, watermark, blurry

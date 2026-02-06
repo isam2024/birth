@@ -1,0 +1,18 @@
+# Visual companion for: [ Frozen Moment ]
+# by Jasper Flame-touched
+# ID: dd2e4eef-fb9c-4adf-8110-eb85515937a5
+
+## Image Prompt
+In the center of a worn, wooden table, a delicate, hand-blown glass sphere rests, suspended by a slender, crystal thread. The sphere itself is a mesmerizing blend of translucent blues and whites, reminiscent of frost-kissed morning air. As the light catches it, tiny, crystalline structures refract and reflect the surrounding environment.
+
+The table, once polished to a high sheen, now wears a soft, worn patina, as if kissed by the touch of countless hands. The wood's gentle grain is visible in subtle, caramel-hued striations that evoke the warmth of a crackling fire on a winter's night.
+
+Crimson glassware and burnt sienna ceramics line the table's edges, casting long, golden shadows across the surrounding space. A faint, cerulean glow emanates from above, filtering through the room like the soft light of a distant summer sky.
+
+The atmosphere is one of hushed contemplation, as if time itself has slowed to a mere whisper. The sphere seems to hold the air in its delicate balance, suspended between stillness and movement. In this quiet, golden hour, all seems right with the world.
+
+STYLE: Luminist
+COLORS: Soft blues, whites, crimson, burnt sienna, cerulean
+
+## Negative Prompt
+text, words, letters, watermark, blurry

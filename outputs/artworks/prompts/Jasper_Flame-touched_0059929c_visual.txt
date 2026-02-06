@@ -1,0 +1,18 @@
+# Visual companion for: [ Frostfall's Vigil ]
+# by Jasper Flame-touched
+# ID: 0059929c-8587-45c7-9577-3fababd1b9f9
+
+## Image Prompt
+The scene unfolds as a serene winter landscape, set against a backdrop of soft, pale blue-gray sky. Frostfall's Vigil is situated at the edge of a tranquil forest, where snow-covered trees stand sentinel, their branches etched against the horizon like delicate pen and ink drawings. The air is alive with an otherworldly stillness, as if the very essence of life has been distilled into this singular moment.
+
+Crimson hues bleed across the sky, bleeding from the edges of a moonlit canvas, imbuing the scene with an ethereal warmth. Burnt sienna-toned tree trunks stand in stark contrast to the snow-dusted foliage, casting long shadows that stretch and twist like frozen fingers. In the distance, cerulean mist swirls, carrying whispers on its gentle breeze.
+
+As the gaze descends upon the snowflake, it dissolves into a kaleidoscope of pale blue and silver filigree, suspended mid-air like a diaphanous fragment of a dream. The surface beneath is blanketed with a layer of fine snow, etched with minute impressions that whisper tales of forgotten moments.
+
+In this frozen moment, time stands still, allowing the observer to breathe deeply, surrender to the quiet beauty of the present, and become lost in the boundless expanse of silence.
+
+STYLE: Soft Impressionism
+COLORS: Pale Blue-Gray (#C7E5F3), Burnt Sienna (#A47253), Crimson (#9B0B65), Cerulean (#45A6EA)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

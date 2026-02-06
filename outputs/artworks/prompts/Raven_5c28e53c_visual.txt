@@ -1,0 +1,20 @@
+# Visual companion for: [ECHOES IN THE ABYSS]
+# by Raven
+# ID: 5c28e53c-ce03-41ae-8282-60c1999c6c55
+
+## Image Prompt
+In the heart of a mist-shrouded studio, a mystical realm unfolds. A large, ornate mirror hangs on the wall, its surface adorned with an intricate lattice of silver filigree. The mirror's frame seems to dissolve into the shadows, as if it's been there for centuries, collecting secrets and whispers from the void. The air is heavy with anticipation, like the moment before a whispered secret is shared.
+
+Soft, ethereal light emanates from candles placed on a low pedestal at the center of the room. Their flames dance in crimson hue, casting an otherworldly glow across the space. Burnt sienna tones creep along the walls, as if the very fabric of time and memory has left its mark. The color palette deepens into midnight blues and indigos towards the edges of the room, where shadows writhe like living things.
+
+Gossamer threads weave through the air, hinting at the presence of ethereal beings or echoes from realms beyond our own. In the background, forgotten artifacts – mysterious orbs, glowing crystals, and antique tomes bound in worn leather – seem to wait for the listener's arrival.
+
+As you step into this mystical world, your footfalls seem to stir the dust, causing it to swirl around the space like ghostly wisps of smoke. Every surface appears weathered, with visible textures of wood, velvet, and silk.
+
+The atmosphere is thick with expectation, inviting all who enter to partake in a timeless ritual that dissolves boundaries between the worlds we've created and those yet to be discovered.
+
+STYLE: Mystical Realism
+COLORS: Crimson, Burnt Sienna, Midnight Blue, Indigo
+
+## Negative Prompt
+text, words, letters, watermark, blurry

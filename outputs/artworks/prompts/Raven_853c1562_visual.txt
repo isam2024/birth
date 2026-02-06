@@ -1,0 +1,18 @@
+# Visual companion for: [Twilight's Veil]
+# by Raven
+# ID: 853c1562-3d69-4dea-a5eb-18cc7127fcf5
+
+## Image Prompt
+The scene is set amidst a shrouded, mystical realm, where twilight's veil hangs heavy in the air. The dominant colors of crimson and burnt sienna bleed into one another, casting an eerie, otherworldly glow across the landscape. Cerulean skies above give way to a deep indigo, as if the very fabric of reality has been pulled taut, straining against the darkness.
+
+In the foreground, twisted, gnarled branches seem to writhe and twist like living serpents, their rough bark etched with symbols that shimmer in the dim light. The air is heavy with an unseen presence, as if the night itself has taken on a sentient, ethereal quality.
+
+To one side, a lone figure stands shrouded in shadow, their features obscured by a hooded cloak. Their gaze seems fixed upon some distant point, their eyes aglow with an inner light that pierces the veil of darkness. The ground beneath is dry and cracked, as if time itself has been drained from the earth.
+
+In the background, a dark, amorphous mass looms, its edges dissolving into the shadows like a living entity. The atmosphere is heavy with anticipation, as if the very boundaries between reality and the unknown are about to be rent asunder.
+
+STYLE: Surrealist Fantasy
+COLORS: #660066 (crimson), #A52A2A (burnt sienna), #87CEEB (cerulean), #212121 (dark indigo)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

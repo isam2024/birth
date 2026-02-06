@@ -1,0 +1,18 @@
+# Visual companion for: [HEARTWARMED HOMESQUARE]
+# by Indigo
+# ID: 09ad6339-c2b8-4263-9903-9da4a47b6631
+
+## Image Prompt
+The warm and inviting scene unfolds like a cozy fireside, where time stands still and hearts connect. A soft, golden light seeps through the windows, casting a gentle glow on the quilted patchwork spread across the wooden table. The room is bathed in a sense of nostalgia, as if the memories stitched into every seam and thread are woven from the very fabric of life.
+
+The walls behind the table, adorned with rustic wooden beams and faded family portraits, add to the sense of history and tradition. A crackling fireplace, its flames dancing in shades of crimson and orange, casts a warm ambiance, making the space feel snug and intimate. The quilt itself appears worn, yet vibrant, like a well-loved treasure passed down through generations.
+
+In the corners of the scene, whispers of greenery peek through – wispy tendrils of ivy curling around wooden frames, or a sprig of fresh rosemary perched on the edge of a candleholder. The overall atmosphere is one of comfort and peace, as if the very act of gathering around this table has conjured a sense of home.
+
+Texture plays a significant role in this image, with the rough-hewn wood of the furniture, the softness of the quilt, and the gentle rustle of fabrics blending together to create a tactile experience. The atmosphere is one of tranquility, where worries are woven away like forgotten threads.
+
+STYLE: Whimsical realism
+COLORS: Earthy tones (burnt sienna, moss green, golden brown), warm pastels (cinnamon, rosewood), and soft metallics (crimson, brass)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

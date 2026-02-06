@@ -1,0 +1,18 @@
+# Visual companion for: [ Whispering Winds ]
+# by Blossom the Dancing
+# ID: dd971432-6c5a-4f10-bde3-f127586e5b1e
+
+## Image Prompt
+The scene unfolds like a tender, ethereal waltz. A lone figure stands at the edge of a mist-shrouded landscape, gazing out into the whispers of the wind. The sky above is a deep, burnt sienna hue, with cerulean undertones that evoke the promise of a distant horizon. Soft, feathery clouds drift lazily across the canvas, like delicate brushstrokes on an invisible canvas.
+
+As the eye travels downward, it catches sight of the figure's profile, set against a backdrop of tawny, golden light. The face is serene, yet etched with a deep sorrow, as if the weight of unshed tears threatens to overwhelm at any moment. A delicate, crimson rose petal clings to the edge of their cheek, like a whispered secret.
+
+The figure's arms are stretched out before them, palms upturned, as if embracing the gentle caress of the wind. The air is heavy with the scent of damp earth and decaying leaves, which mingles with the heady perfume of wildflowers that cling to the rocky terrain below. The overall effect is one of poignant stillness, as if time itself has been momentarily suspended.
+
+The textures in this scene are a masterclass in subtlety: the rough, weathered stone beneath, the soft, mist-veiled grasses, and the delicate, gossamer threads of spider silk that dance across the face. It is an image that seems to reverberate with the quiet sobs of a thousand unseen hearts.
+
+STYLE: Watercolor
+COLORS: Burnt Sienna, Cerulean, Crimson, Earthy Tones
+
+## Negative Prompt
+text, words, letters, watermark, blurry

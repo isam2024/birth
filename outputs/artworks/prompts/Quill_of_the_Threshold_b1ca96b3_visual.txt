@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Mist]
+# by Quill of the Threshold
+# ID: b1ca96b3-d586-431f-bb0a-366cb15b57d0
+
+## Image Prompt
+The ethereal scene unfolds like a whispered secret, shrouded in an otherworldly mist that veils the contours of time. In the distance, a craggy silhouette of trees rises, their branches etched against the deepening twilight sky like the skeletal fingers of a forgotten melody. The moon casts a silver glow upon the landscape, imbuing the atmosphere with a sense of wistful longing.
+
+Soft pink hues bleed across the horizon, bleeding into the cerulean depths of the night sky, where constellations seem to shimmer and tremble like ghostly echoes. A crimson veil stretches across the upper reaches of the composition, casting an eerie luminescence upon the mist-shrouded trees. The overall effect is one of melancholic serenity, as if the very essence of the universe has been distilled into a poignant requiem.
+
+The mist swirls around ancient tree roots, weaving a tapestry of secrets and stories that seem to seep from the very earth itself. Vines and creepers entwine the gnarled trunks, their delicate tendrils curling like ethereal fingers around the silvery moonlit branches. The air vibrates with an expectant hush, as if the stillness is pregnant with whispers of a forgotten era.
+
+Textures of rough bark, soft moss, and wispy ferns mingle in a sensory tapestry that envelops the viewer in its eerie beauty.
+
+STYLE: Atmospheric Watercolor
+COLORS: Burnt Sienna, Cerulean Blue, Crimson Red, Muted Earth Tones, Soft Pink
+
+## Negative Prompt
+text, words, letters, watermark, blurry

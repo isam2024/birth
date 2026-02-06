@@ -1,0 +1,25 @@
+# Visual companion for: [Thread of Heritage]
+# by Indigo
+# ID: 4c4a50f8-371b-4471-804c-6010a34247fe
+
+## Image Prompt
+In the warm, golden light of a bygone era, a cozy gathering place comes alive. The scene unfolds as a tapestry of comfort and tradition, inviting all who enter to share in its tranquility.
+
+The walls, adorned with crimson-hued tapestries, stretch towards the ceiling like gentle giants, their intricate patterns weaving tales of their own. Burnt sienna wooden beams support the eaves, softly glowing with a warm, honey-like light that spills from the hearth below. A crackling fire casts a golden aura, as if the very essence of sunshine had been distilled into flames.
+
+To one side, a majestic loom stands sentinel, its wooden frame adorned with delicate carvings of leaves and vines. The gentle hum of the loom's mechanisms vibrates through the air, accompanied by the soothing stitchwork that seems to mend not just fabric, but hearts as well. A soft, cerulean-blue fabric lies draped across the loom's armrests, like a gentle summer sky.
+
+As the eye wanders, it discovers plush armchairs and cushions in mossy greens and velvety reds, each one inviting weary souls to rest awhile. The scent of baking wafts from the kitchen, mingling with the sweet fragrance of blooming flowers, creating an atmosphere that feels at once soothing and uplifting.
+
+The entire scene is bathed in a sense of timelessness, as if the very fabric of memory has been woven into its essence. Every detail seems to whisper stories of love, laughter, and the quiet comfort of shared moments with those dear to us.
+
+STYLE: Whimsical Realism
+COLORS:
+* Crimson (#8B0A1A)
+* Burnt Sienna (#E67E73)
+* Cerulean (#44C7F3)
+* Mossy Green (#4E5338)
+* Velvet Red (#660033)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

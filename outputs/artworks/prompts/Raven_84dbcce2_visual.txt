@@ -1,0 +1,20 @@
+# Visual companion for: [ Whispering Shadows ]
+# by Raven
+# ID: 84dbcce2-a3dd-4ffd-85a5-2954428b4353
+
+## Image Prompt
+The scene is set within a mist-shrouded studio, where the air is heavy with an otherworldly essence. The walls, adorned with ancient symbols and relics, seem to whisper secrets to each other in hushed tones. At the center of the room, a lone figure stands before a dimly lit altar, surrounded by candles that cast flickering shadows on the stone floor.
+
+Soft, ethereal light seeps through the misty veil, illuminating the space with an ethereal glow. Crimson hues bleed into burnt sienna, as if the very walls are set aflame by an unseen force. Cerulean blue accents appear in the form of delicate, swirling patterns etched into the stones, like the gentle lapping of waves against a moonlit shore.
+
+The figure's attire is shrouded in mystery, with flowing robes that seem to be woven from the very fabric of the mist itself. Tiny, intricate symbols dance across the folds, shimmering like stardust in the candlelight. The air around them appears to vibrate with an almost tangible energy, as if they are a conduit for the unseen forces that reside beyond the veil.
+
+The atmosphere is heavy with anticipation, as if the very boundaries between reality and the unknown are about to be breached. The wind whispers secrets through the cracks in the stone walls, carrying the faint scent of sandalwood and smoke on its gentle caress.
+
+Textures and materials abound, from the rough-hewn stones to the supple leather of the figure's cloak. Candles flicker with a mesmerizing rhythm, casting shadows that writhe like living things across the floor.
+
+STYLE: [Mystical Realism]
+COLORS: [Crimson, Burnt Sienna, Cerulean Blue, Dark Grey]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

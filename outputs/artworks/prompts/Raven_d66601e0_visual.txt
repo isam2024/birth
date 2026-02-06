@@ -1,0 +1,18 @@
+# Visual companion for: [The Shattered Veil]
+# by Raven
+# ID: d66601e0-790e-49d8-a1f2-84aeba06577f
+
+## Image Prompt
+The scene unfolds like a tapestry of forgotten lore, woven from threads of mist and twilight. A shattered veil hangs suspended, its edges frayed and worn, as if the very fabric of reality has been rent apart. The whispering voices of secrets and tides of time converge upon this forsaken site, their presence palpable in the heavy air.
+
+Soft, ethereal light seeps from an unknown source, casting an otherworldly glow upon the ruin. Crimson hues bleed into burnt sienna, as if the very earth itself has been set aflame by the whispers. Cerulean skies above are shrouded, a deep, foreboding grey that seems to press down upon the scene like a physical weight.
+
+The surface beneath is rough and cracked, like the fractured skin of an ancient being. Weathered stone and worn wood lie scattered, evidence of eons past, when secrets lay hidden beneath the earth's surface. Shards of light pierce the gloom, casting eerie silhouettes upon the desolate ground.
+
+In the distance, the wind whispers through a labyrinthine passageway, its mournful sighs echoing off the crumbling stones. The atmosphere is heavy with foreboding and longing, as if the very essence of the unknown lingers just beyond reach.
+
+STYLE: Symbolic Expressionism
+COLORS: Muted earth tones (crimson, burnt sienna, ochre), cerulean grey, and splashes of eerie blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

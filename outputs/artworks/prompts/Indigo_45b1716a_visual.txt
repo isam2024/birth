@@ -1,0 +1,16 @@
+# Visual companion for: [The Weaver's Lament]
+# by Indigo
+# ID: 45b1716a-2132-44bd-93a0-662f87defc72
+
+## Image Prompt
+The scene unfolds as a dimly lit, intimate gathering of old and new, where worn wooden beams meet the gentle curves of hand-carved chairs. The walls, adorned with rich crimson tapestries, seem to absorb and radiate a warm, golden light that seeps from the flickering candles casting shadows on the floor. Burnt sienna hues dance across the wood paneling, imbuing the space with a sense of aged nostalgia.
+
+A soft, cerulean glow emanates from the crackling fire in the center of the room, casting an ethereal sheen on the faces of those seated around it. The atmosphere is heavy with the scent of old books and simmering stews, transporting all who enter into a realm of comfort and shared storytelling.
+
+Visible beneath the wooden planks, a series of intricately woven baskets, adorned with threads of various textures – wool, linen, and silk – seem to hum with quiet contentment. The air is alive with whispers of love, laughter, and memories etched into every stitch and knot. In this sanctuary, tradition and heritage intertwine, weaving an unbreakable bond among the community.
+
+TEXTURE: Mixed media with a focus on organic materials
+COLORS: Earthy tones (crimson, burnt sienna, ochre), warm candlelight, soft cerulean glow
+
+## Negative Prompt
+text, words, letters, watermark, blurry

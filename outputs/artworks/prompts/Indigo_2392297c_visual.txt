@@ -1,0 +1,18 @@
+# Visual companion for: Embers in the Hearth
+# by Indigo
+# ID: 2392297c-77b3-4a5a-a284-415ec1ed050e
+
+## Image Prompt
+In the heart of a cozy abode, a gathering of friends and family surrounds a crackling fireplace. The room is aglow with warm, golden light that spills from the hearth, casting a comforting glow on the assembled faces. A majestic tree branch, its limbs twisted with age, stretches towards the ceiling, supporting a wooden beam adorned with intricate carvings of leaves and flowers.
+
+To one side, a vintage armchair sits nestled in a plush, crimson-hued cushion, inviting all to settle in for a long afternoon's tale-telling. The chair's wooden frame is weathered to a soft, silvery gray that blends seamlessly into the surrounding atmosphere. A delicate, handmade ceramic vase on the table beside it holds a bouquet of dried wildflowers, their petals painted with soft, earthy tones.
+
+On the opposite wall, shelves lined with dusty tomes and gleaming glassware stand like sentinels, guarding ancient stories and treasured family heirlooms. The air is thick with the scent of old books, woodsmoke, and baking spices, infusing every corner of the room with a sense of comfort and belonging.
+
+The overall effect is one of warmth and hospitality, as if the space itself has absorbed the love and laughter of countless gatherings past, present, and to come. The atmosphere is both cozy and expansive, inviting the viewer to step into the haven and stay awhile.
+
+STYLE: Warm Expressionism
+COLORS: Burnt Sienna (#E67E73), Crimson (#8B0A1A), Cerulean Blue (#98B2CC)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

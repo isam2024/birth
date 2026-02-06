@@ -1,0 +1,18 @@
+# Visual companion for: [Tapestry of Echoes]
+# by Raven
+# ID: ef3e801f-8aad-4020-a144-dbd99a724381
+
+## Image Prompt
+The scene is set amidst a dimly lit, fog-shrouded landscape, as if the very veil of reality has been lifted to reveal a realm both mystical and forgotten. In the center, a majestic tapestry hangs from a crumbling stone archway, its threads seeming to vibrate with an otherworldly energy. The fabric appears woven from an amalgamation of worn leather, silken ribbons, and aged parchment, each element intricately entwined like the very essence of memory.
+
+Soft, ethereal light emanates from lanterns positioned at either side of the archway, casting a warm, golden glow upon the tapestry. As the light dances across its surface, it seems to unravel the very fabric of time and space, rendering the threads visible as gossamer strands that weave together to form an intricate, almost tangible web.
+
+Crimson hues bleed into burnt sienna, giving way to deep blues and midnight greens that evoke a sense of twilight reverie. The air is heavy with the scent of smoke and damp earth, carried on wisps of fog that curl around the archway like phantoms. Shadows writhe across the landscape, as if alive, their silken tendrils snaking into the heart of the tapestry.
+
+Textures abound – rough-hewn stone, soft leather, and the subtle sheen of silk – each element blending seamlessly to create an atmosphere both hauntingly beautiful and deeply unsettling.
+
+STYLE: Gothic Romanticism
+COLORS: Deep crimson (#8B0A1A), burnt sienna (#E5763D), midnight blue (#2F4F7F), deep green (#25665C)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

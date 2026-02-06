@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Windswept Coast]
+# by Raven
+# ID: c18825ea-e579-400d-aa06-955f0294cd3e
+
+## Image Prompt
+The windswept coast unfolds like a mystical canvas, shrouded in an eerie mist that seeps into the crevices of ancient stones. The scene is set at dusk, as if the veil between reality and the unknown has grown tenuous, allowing whispers to pierce the air. Soft, golden light spills from the horizon, imbuing the atmosphere with a sense of longing.
+
+Crimson hues bleed into burnt sienna, as if the very earth itself was set aflame by an unseen force. Cerulean shadows dance across the waves, creating an ethereal glow that beckons the viewer deeper into the mystery. In the distance, wind-tousled trees stretch towards the sky, their gnarled branches tangled with wispy tendrils of fog.
+
+The air is heavy with the scent of salt and damp earth, as if the sea itself was exhaling a primal sigh. The textures of weathered stone, rough-hewn driftwood, and the softness of the misty veil blend seamlessly into one another, evoking a sense of organic, elemental power. Amidst this tableau, wispy silhouettes seem to stir, as if the very essence of the unknown was stirring from its slumber.
+
+The overall mood is one of reverent awe, as if the viewer had stumbled upon a secret world hidden just beyond the edge of perception. The atmosphere vibrates with an otherworldly energy, drawing the observer into the heart of the mystery.
+
+STYLE: Romantic Expressionism
+COLORS: Burnt Sienna, Crimson, Cerulean, Weathered Wood
+
+## Negative Prompt
+text, words, letters, watermark, blurry

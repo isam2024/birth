@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Shadow of Bloom]
+# by Blossom the Dancing
+# ID: 3994cf2e-d8ec-4d46-a801-5a94bbfa11b2
+
+## Image Prompt
+In the hush of twilight, a lone figure sits amidst a tapestry of whispers. The subject is shrouded in shadows, their form delicate and ethereal as they gaze into the distance. Petals of remembrance unfold like translucent wings, suspended from an unseen force that draws them to the heart of the scene.
+
+Soft, golden light seeps through the veil of twilight, casting a warm glow upon the figure's face. The source of this luminescence is uncertain, but it seems to emanate from within the petals themselves, as if the very essence of memory has been distilled into an otherworldly radiance.
+
+Crimson hues bleed into the sky, deepening to burnt sienna and umber, casting long shadows across the figure's form. The air is heavy with an almost palpable melancholy, yet there's a sense of longing that lingers just beneath the surface.
+
+The background dissolves into a dreamlike expanse of cerulean and indigo, swirling with wispy tendrils of fog that seem to writhe and twist like living vines. Texture and materiality are everywhere apparent – the soft rustle of petals, the roughness of tree bark, the gentle sheen of water droplets on a forgotten leaf.
+
+The mood is one of haunting serenity, as if the very fabric of time has been suspended in a state of limbo. The atmosphere vibrates with an almost imperceptible thrum, like the beating of a heart that's long since stopped.
+
+STYLE: Whimsical Realism
+COLORS: Earthy tones (crimson, burnt sienna, umber), soft blues and greens (cerulean, indigo)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

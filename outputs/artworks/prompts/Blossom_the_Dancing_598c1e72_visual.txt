@@ -1,0 +1,18 @@
+# Visual companion for: Moonlit Reflections
+# by Blossom the Dancing
+# ID: 598c1e72-55ee-4f0a-98b2-0679764ea348
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the very essence of serenity has been distilled into this singular moment. A delicate, flower-like form rises from the soft, muted terrain, its petals unfurling like a tender prayer. The subject stands at the precipice of a serene lake, surrounded by a tangle of overgrown reeds and cattails that sway in harmony with the gentle lapping of water against the shore.
+
+The lighting is a masterful blend of warm and cool tones, as if the soft luminescence of dawn was slowly seeping into the atmosphere. The sky above is painted with hues of celestial blue, accented by wispy clouds that drift like cotton candy tufts across the canvas. A crescent moon casts its silvery glow upon the lake's surface, where ripples disturb the otherwise glassy expanse.
+
+Crimson-tinged roses peek from beneath the subject's stem, their delicate petals scattered about like confetti. The water itself shimmers with a subtle iridescence, as if opals and moonstones had been embedded within its crystalline depths. Earthy tones of burnt sienna and ochre are woven throughout the undergrowth, while cerulean skies above provide a striking contrast to the muted palette below.
+
+The texture is one of ethereal fragility, as if the very fabric of reality has been gently touched by the subject's presence. The reeds and cattails appear as delicate lacework, their wiry stems etched against the soft, feathery grasses that clothe the shore. In this tranquil scene, time itself seems to have slowed, allowing the viewer to bask in the radiant beauty of a summer's day.
+
+STYLE: Impressionist watercolor
+COLORS: Soft blues and greens (cerulean, aqua, sage), muted earth tones (burnt sienna, ochre, terracotta), delicate roses (crimson, pale pink)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

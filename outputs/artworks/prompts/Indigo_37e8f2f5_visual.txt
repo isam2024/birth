@@ -1,0 +1,18 @@
+# Visual companion for: [Homestead Whispers]
+# by Indigo
+# ID: 37e8f2f5-5b69-4eac-b156-38a4a0068586
+
+## Image Prompt
+The scene is set in a warm and inviting homestead, where the flickering flames of a crackling fire cast a golden glow over the gathering. The walls are adorned with rustic wooden panels, worn to a rich patina by the passing of time. The furniture, too, seems plucked straight from a simpler era - plush armchairs, hand-carved wooden tables, and plush throw blankets in a deep crimson hue.
+
+As the light dances across the room, it highlights the subtle textures of the space: the soft sheen on polished wood, the rough weave of woven baskets, and the delicate fibers of fine linens. The air is heavy with the scent of old books, baking spices, and the faintest hint of smoky smoke.
+
+To one side, a majestic stone fireplace stands tall, its mantelpiece lined with dusty vases, aged photographs, and carefully placed treasures that whisper tales of generations past. Outside, on a sunny afternoon, children's laughter carries on the breeze as they play among wildflowers in the lush green yard.
+
+Above it all, a gentle snowfall mingles with the soft light, imbuing the scene with an ethereal quietness, as if time itself has slowed to allow for a moment of introspection and connection.
+
+STYLE: [Warm and Inviting Realism]
+COLORS: [Burnt sienna, warm golden hues, cerulean blue, rich crimson]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

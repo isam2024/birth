@@ -1,0 +1,18 @@
+# Visual companion for: Snowflake's Lament
+# by Jasper Flame-touched
+# ID: d0427851-45bb-4842-987b-15674c354518
+
+## Image Prompt
+The scene unfolds like a whispered secret, as if the shadows themselves are conspiring to reveal the fleeting nature of existence. A delicate, lacy figure hovers at the center, its intricate patterns evoking the fragile beauty of a snowflake that dissolves on the tongue. The subject appears to be crafted from the finest threads of silver and gold, suspended in mid-air as if by an unseen hand.
+
+Soft, golden light pours down upon the scene, casting an ethereal glow that imbues the entire composition with a sense of wistfulness. Crimson accents dance across the edges of the figure, like the faint blush of dawn on a winter's morning. Burnt sienna and umber tones infuse the background with warmth, as if the very earth itself was being drained of its vitality.
+
+The air is alive with texture: the smooth, cool surface of glass; the rough, weathered stone beneath; the delicate lacework of the figure itself. Each element seems to vibrate with a quiet intensity, as if the very essence of existence was being distilled into this singular moment.
+
+In the distance, a soft blue haze dissolves into nothingness, like the whispered promise of a forgotten memory. The overall mood is one of haunting beauty, a poignant reminder that all things must come to an end, leaving only the faintest echoes of their presence behind.
+
+STYLE: Whimsical Surrealism
+COLORS: Warm golds, soft crimson, burnt sienna, cerulean blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

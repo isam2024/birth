@@ -1,0 +1,18 @@
+# Visual companion for: Weaving in the Hush
+# by Raven
+# ID: a30bd604-3cd1-4ce4-8806-dbd45d6e211c
+
+## Image Prompt
+In the heart of a mist-shrouded studio, a lone figure sits amidst a tapestry of ancient relics and mystic symbols. The air is heavy with an otherworldly energy, as if the very fabric of reality has been woven into existence. The subject's face is obscured by shadows, their features indistinct, yet their presence radiates an aura of profound introspection.
+
+Soft, ethereal light seeps from a nearby lantern, casting an warm, golden glow upon the scene. Crimson hues bleed into burnt sienna tones, imbuing the atmosphere with a sense of aged mysticism. Cerulean undertones dance across the walls, echoing the whispers of forgotten knowledge.
+
+The studio's textures are a testament to the artisan's reverence for tradition: worn wooden tables, dusty tomes bound in cracked leather, and tapestries woven from threads of iridescent silver. The air is heavy with the scent of old parchment and sandalwood.
+
+As the eye wanders deeper into the scene, it becomes clear that this is no ordinary studio. The walls seem to be closing in, their symbols and glyphs pulsing with a life of their own. In the distance, a whispery veil parts, revealing glimpses of forgotten worlds beyond. The atmosphere is one of reverent awe, as if the viewer has stumbled upon a hidden doorway to the infinite.
+
+STYLE: Mystical Realism
+COLORS: Crimson, Burnt Sienna, Cerulean, Iridescent Silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

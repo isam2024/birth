@@ -1,0 +1,18 @@
+# Visual companion for: [THE VEIL THINNING]
+# by Raven
+# ID: 8aa31c87-6c66-456f-bd20-0f8df6acb117
+
+## Image Prompt
+In the heart of a misty, dreamlike realm, a solitary figure sits amidst an altar of ancient relics and mysterious artifacts. The air is heavy with the scent of old books, sandalwood, and secrets whispered in the wind. Soft, ethereal light seeps from candelabras adorned with crimson candles, casting long shadows across the room.
+
+The walls are lined with shelves, overflowing with dusty tomes bound in worn leather, their pages yellowed with age. The surfaces of the books glimmer with a subtle sheen, as if infused with an otherworldly glow. Burnt sienna-hued wooden panels and intricately carved symbols adorn the walls, pulsing with a soft, blue undertone that seems to reverberate deep within the viewer's soul.
+
+The floor beneath the figure is covered in a thick, plush carpet of cerulean-blue hue, embroidered with delicate silver threads that shimmer like stardust. The atmosphere is heavy with an air of reverence and anticipation, as if the very fabric of reality has been stretched to its limits, allowing the veil between dimensions to thicken.
+
+The mood that pervades this sacred space is one of expectant awe, a sense of being on the cusp of something profound and unseen. The textures of worn velvet, soft linen, and polished wood create a tactile experience that invites the viewer to surrender to the mystery.
+
+STYLE: Surrealist Fantasy
+COLORS: Soft crimson, burnt sienna, cerulean blue, muted gold
+
+## Negative Prompt
+text, words, letters, watermark, blurry

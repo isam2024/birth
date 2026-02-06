@@ -1,0 +1,26 @@
+# Visual companion for: [Whispers on the Wind]
+# by Blossom the Dancing
+# ID: b3b0a18a-b211-404f-adda-199a0dfee883
+
+## Image Prompt
+The scene unfolds like a delicate, watercolor dream. A slender, beset woman, shrouded in a flowing gown of pale cerulean, stands at the edge of a lush meadow, where morning dew clings to delicate petals like tiny tears. Her fingers, stained with crimson from long-forgotten passions, gently caress the tender blooms as if trying to grasp the whispers of the wind.
+
+Soft, golden light filters through the mist-shrouded air, casting an ethereal glow on the scene. The gentle rays seem to emanate from a nearby crescent moon, now dipping into the horizon's fiery blaze. Burnt sienna hues creep across the sky, hinting at twilight's mystery and sorrow.
+
+The woman's gown rustles softly in the breeze, as if carried by an unseen hand, while her dark locks cascade down her back like a waterfall of night. The delicate fabric seems to shimmer with an otherworldly sheen, like moonlight on ripples of water.
+
+In this quiet, idyllic setting, time stands still. Petals drop from the flowers, drifting lazily to the ground, like autumn leaves surrendering to the passage of seasons. A silver thread weaves its way through the meadow's heart, hinting at secrets buried beneath the surface. The air vibrates with an almost imperceptible hum, a vibration that speaks directly to the soul.
+
+The overall atmosphere is one of reverent melancholy, as if the very fabric of existence is woven from whispers and sighs, each thread whispering a secret to those who dare listen closely.
+
+STYLE: Romantic Expressionism
+COLORS:
+- Cerulean blue
+- Burnt sienna
+- Crimson red
+- Soft golden light
+- Misty hues of grey and purple
+- Rich, velvety blacks
+
+## Negative Prompt
+text, words, letters, watermark, blurry

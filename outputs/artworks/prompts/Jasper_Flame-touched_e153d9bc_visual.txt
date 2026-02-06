@@ -1,0 +1,18 @@
+# Visual companion for: [ Whispering Snowflakes ]
+# by Jasper Flame-touched
+# ID: e153d9bc-abed-49fc-8b5e-17868a7bec29
+
+## Image Prompt
+The scene unfolds like a whispered secret, frozen in time. A lone snowflake clings to the skin of a delicate, porcelain-like hand, suspended amidst a tapestry of frosty silence. The hand is veiled by a sheer veil of gossamer-thin fabric, woven from threads of moonlight and stardust.
+
+The surroundings are bathed in an ethereal, soft crimson glow, as if embers of a dying fire have seeped into the crevices of the frozen world. Burnt sienna hues bleed across the edges of the frame, evoking the rich scent of autumnal leaves long past their prime. The cerulean hue of a distant winter sky whispers secrets to the snowflake, as if beckoning it closer.
+
+The air is heavy with the scent of crystalline ice and the faintest whisper of woodsmoke. A sprinkle of powdered silver dust coats every surface, imbuing the scene with an otherworldly sheen. The delicate curves of a silver-tipped quill lie across the palm of the hand, as if poised to capture the fleeting essence of the snowflake.
+
+In this serene tableau, time stands still, and the world holds its breath in anticipation of the ephemeral beauty that will soon vanish into thin air. The only movement is the gentle flutter of a tiny, delicate wing, as if the snowflake itself were alive and beating its own path to oblivion.
+
+STYLE: [Whispering Snowflakes]
+COLORS: [crimson, burnt sienna, cerulean, silver]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

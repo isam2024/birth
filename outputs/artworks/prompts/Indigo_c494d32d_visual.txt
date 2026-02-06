@@ -1,0 +1,18 @@
+# Visual companion for: [ Cozy Fireside ]
+# by Indigo
+# ID: c494d32d-5971-4e5f-ada1-d9f6d86bd3a9
+
+## Image Prompt
+The scene unfolds like a gentle winter's evening, where snowflakes dance outside the windows of a warm and inviting home. The walls, painted a soothing cream, are adorned with rich wooden paneling that seems to radiate warmth from within. A roaring fire crackles in the stone fireplace, casting a golden glow over the room.
+
+Soft crimson hues bleed into the atmosphere, as if the very fabric of twilight has seeped through the windows, imbuing the space with a sense of luxury and comfort. Burnt sienna and terracotta tones complement the warmth of the fire, infusing it with a depth that seems almost human. A few strategically placed throw pillows in muted cerulean add a touch of subtle elegance to the scene.
+
+The room is enveloped in a soft luminescence, as if the light itself has taken on a life of its own. Warm amber tones seep from the fire's gentle crackle, casting long shadows across plush cream-colored furniture that seems to be made for snuggling. Velvet and linen textures mingle with the rough-hewn wood paneling, creating a tactile experience that invites the viewer to step into this cozy sanctuary.
+
+As the eye travels deeper into the scene, it becomes clear that this is more than just a warm and inviting space – it's a haven of human connection. Faded photographs adorn the walls, telling stories of loved ones past. A steaming teapot sits on the mantle, alongside a scattering of books and forgotten treasures that whisper tales of long-forgotten afternoons spent within these very walls.
+
+STYLE: Whimsical Realism
+COLORS: Warm Crimson (#8B0A1A), Burnt Sienna (#E67E73), Cream (#F5F5DC), Soft Cerulean (#87CEEB)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

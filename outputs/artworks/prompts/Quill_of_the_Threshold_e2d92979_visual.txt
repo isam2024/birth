@@ -1,0 +1,18 @@
+# Visual companion for: [Threshold's Ephemera]
+# by Quill of the Threshold
+# ID: e2d92979-4dfe-4802-abdd-51dbb17733cf
+
+## Image Prompt
+The scene unfolds as a mist-shrouded coastal path, winding its way along the moonlit shoreline. The terrain dips and rises, as if the land itself were exhaling a slow, melancholic sigh. In the foreground, a lone figure – shrouded in darkness – stands at the edge of the water, their presence both ethereal and palpable.
+
+Soft, diffused light emanates from above, casting an indigo hue upon the scene. The source of this luminescence is unknown, but it seems to seep from the very fabric of the atmosphere itself. The color palette shifts between cerulean blue and burnt sienna, as if the earthy tones were being kissed by the gentle glow.
+
+In the distance, a sprawling tree – its branches tangled with vines and creepers – stretches towards the moon, its leaves shimmering in a soft, ethereal light. The bark is rough and weathered, adorned with intricate patterns that resemble the gentle dance of fingers on a harp's strings.
+
+The path itself is overgrown, as if nature had sought to reclaim it. Vines twist around the stones, weaving an intricate pattern of life and death. The air is heavy with the scent of damp earth and saltwater, transporting all who behold this scene to a realm both eerie and sublime.
+
+STYLE: Ethereal Romanticism
+COLORS: Indigo blue, burnt sienna, cerulean blue, moss green
+
+## Negative Prompt
+text, words, letters, watermark, blurry

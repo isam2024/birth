@@ -1,0 +1,18 @@
+# Visual companion for: Moonlit Echoes
+# by Raven
+# ID: 8e6a8661-041c-44d8-97db-a9b073bbc6af
+
+## Image Prompt
+In the heart of a mist-shrouded studio, a lone figure sits amidst a tapestry of symbols and relics, surrounded by an ethereal glow. The subject appears as a mysterious, hooded form draped in layers of worn, crimson velvet, with intricate, burnt sienna embroidery that shimmers like moonlight on rippling water. The air is heavy with the scent of old parchment and dust.
+
+Soft, cerulean light seeps through the grimy windows, casting an otherworldly luminescence upon the scene. Shards of crystal and ancient tomes lie strewn about the figure's feet, as if they have been conjured from the very fabric of dreams. The shadows dance across the walls, taking on lives of their own, like dark, living tendrils.
+
+The atmosphere is heavy with an air of anticipation, as if the very threshold between worlds has been breached. A delicate, silver quill lies on a nearby pedestal, its tip glowing with an soft, ethereal light. The figure's face remains shrouded, yet their presence exudes a sense of quiet, contemplative power.
+
+The studio itself appears to be in a state of suspended animation, as if time has been arrested within these walls. The overall mood is one of expectant hush, as if the very fabric of reality has been drawn taut, poised on the cusp of revelation.
+
+STYLE: Mystical Realism
+COLORS: Crimson velvet, burnt sienna, cerulean, silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

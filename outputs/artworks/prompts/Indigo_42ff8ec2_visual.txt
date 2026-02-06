@@ -1,0 +1,22 @@
+# Visual companion for: Threads of Remembrance
+# by Indigo
+# ID: 42ff8ec2-6fcb-400b-b211-2ae955b2648e
+
+## Image Prompt
+The scene unfolds like a warm, golden hour, as if the sun's gentle rays have seeped into the crevices of memory and time. A plush, crimson-hued sofa sits at the center, its worn velvet surfaces inviting all who enter to sit awhile and share in the quiet hours of dawn. The sofa is surrounded by scattered, antique books, their covers adorned with intricate, burnt sienna-colored patterns that seem to dance across the surface.
+
+The walls are painted a soft, creamy white, allowing the flickering candles that dot the space to take center stage. The candlelight casts a warm, cerulean glow over the scene, casting long shadows that stretch and twist like the threads of memory itself. A delicate, hand-woven basket sits beside the sofa, overflowing with an assortment of curious objects: a child's wooden toy, a sprig of dried lavender, a yellowed photograph.
+
+The atmosphere is one of deep contemplation, as if the very fabric of time has been woven into the space. The air is heavy with the scent of old books and fresh dawn, a heady mixture that intoxicates the senses. In this peaceful sanctuary, all is stillness and repose, the world outside receding like the gentle lapping of waves on a summer shore.
+
+STYLE: Intimate Realism
+COLORS:
+- Warm crimson
+- Burnt sienna
+- Soft creamy white
+- Cerulean blue
+- Earthy browns and tans
+- Gentle golds
+
+## Negative Prompt
+text, words, letters, watermark, blurry

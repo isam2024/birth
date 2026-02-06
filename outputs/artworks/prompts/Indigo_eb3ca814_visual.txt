@@ -1,0 +1,18 @@
+# Visual companion for: [Threads of Memory]
+# by Indigo
+# ID: eb3ca814-581d-4d62-ad6d-0e7125951b0d
+
+## Image Prompt
+The scene unfolds like a warm, golden tapestry, woven from threads of nostalgia and remembrance. In the center of the composition, a delicate wooden loom stands proudly, its frame adorned with intricate carvings that evoke a sense of tradition and heritage. The loom's surface is worn smooth by the gentle touch of countless hands, each one leaving behind a faint scar of love and storytelling.
+
+Soft, golden light pours in from the left side, casting a warm glow on the scene and imbuing it with a sense of comfort and security. As the rays dance across the wooden beams, they reveal the patina of aged wood, its surface transformed by time and use into a rich, burnished burnt sienna. The air is thick with the scent of old books, wood smoke, and dried herbs, transporting the viewer to a bygone era.
+
+The surrounding space is cluttered with an assortment of treasures: yellowed manuscripts, frayed bookmarks, and tattered photographs, each one telling a story that refuses to be silenced. A vintage armchair sits in the corner, its upholstery worn and faded, yet still exuding an aura of warmth and familiarity. The entire scene is set against a soft, cerulean blue background, like a clear summer sky on a tranquil afternoon.
+
+Textures abound: the roughness of wooden beams, the softness of worn leather, and the tactile roughness of old paper. In the distance, a gentle haze of candlelight flickers, casting shadows that seem to dance with the whispers of forgotten tales.
+
+STYLE: Whimsical Realism
+COLORS: Burnt Sienna, Cerulean Blue, Golden Honey, Soft Sage
+
+## Negative Prompt
+text, words, letters, watermark, blurry

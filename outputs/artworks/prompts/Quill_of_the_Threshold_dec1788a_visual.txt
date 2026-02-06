@@ -1,0 +1,20 @@
+# Visual companion for: [Threshold's Lament]
+# by Quill of the Threshold
+# ID: dec1788a-f1bc-4eb5-a5d6-9cf9295d09b3
+
+## Image Prompt
+The scene unfolds like a melancholic lullaby, set against a canvas of weathered stone and driftwood. A worn, wooden pier stretches out into the distance, its surface worn smooth by the relentless pounding of waves. The coastline's forgotten song resonates through the air, as if the whispers of the wind itself have taken on a life of their own.
+
+Soft, diffused light seeps from beneath the horizon, casting an ethereal glow upon the scene. A crimson-hued sky deepens to burnt sienna towards the top, bleeding into the cerulean depths of the ocean below. The waves themselves appear as dark, glassy shards that refract and reflect this dying light.
+
+A single, delicate figure stands at the edge of the pier, arms outstretched in a gesture of surrender. The wind whispers secrets in their ear, causing their lips to curve into a subtle, enigmatic smile. The skin is pale, almost translucent, as if the weight of memory and longing has drained the very life from their being.
+
+The texture of the wooden pier's surface is worn smooth by years of weathering, giving it a patina of age and decay. The figure's clothing appears tattered and forlorn, like autumn leaves clinging to the final threads of summer. As the wind stirs, their hair flows behind them like a banner of forgotten hopes.
+
+The overall mood is one of wistful longing, as if the very fabric of time has grown heavy with sorrow and regret.
+
+STYLE: [Impressionistic Expressionism]
+COLORS: [Burnt sienna, cerulean, crimson, sepia]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

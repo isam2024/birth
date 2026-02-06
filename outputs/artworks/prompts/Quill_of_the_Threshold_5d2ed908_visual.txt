@@ -1,0 +1,20 @@
+# Visual companion for: [The Weight of Tides]
+# by Quill of the Threshold
+# ID: 5d2ed908-b872-4b23-ab75-9d7e57857feb
+
+## Image Prompt
+The canvas depicts a hauntingly beautiful landscape, shrouded in a soft, ethereal glow. The subject is set against a velvety blackness, as if the very fabric of night has been woven into its being. A crescent moon casts an otherworldly light upon the scene, bathing the surroundings in a pale silver radiance.
+
+Soft crimson hues bleed across the horizon, bleeding into a burnt sienna terrain that stretches towards the sea's edge like a desolate, windswept plain. The sky above is a deep cerulean, gradating to a soft misty grey at the top, as if the heavens themselves are veiling their secrets.
+
+In this mystical realm, delicate brushstrokes have captured the ephemeral dance of sea spray and wind-blown seaweed, weaving an intricate web of movement and decay. Delicate whispers seem to emanate from the fronds of kelp, as if the gentle caress of love and loss has awakened a soft susurration.
+
+Textures weave throughout the image – the weathered driftwood, the silken strands of spider's silk, the supple skin of seashells. In the foreground, the delicate tendrils of what appears to be Sea Spray unfurl like ethereal fingers, beckoning the viewer into this mystical world.
+
+The atmosphere is one of wistful longing and melancholy beauty, as if the very essence of nature has been distilled onto this canvas.
+
+STYLE: Dreamlike Expressionism
+COLORS: Soft Crimson (#E4C5C9), Burnt Sienna (#A52A2A), Cerulean Blue (#4567B7), Whispering Grey (#959697)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

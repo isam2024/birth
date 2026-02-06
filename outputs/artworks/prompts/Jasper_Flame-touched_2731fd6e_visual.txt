@@ -1,0 +1,23 @@
+# Visual companion for: [Echoes in the Fade]
+# by Jasper Flame-touched
+# ID: 2731fd6e-4231-4872-9c7b-3c568d79c802
+
+## Image Prompt
+The scene unfolds like a still life, set against a soft, creamy backdrop that evokes the gentle hush of a winter's day. A delicate, crystalline form – the snowflake – lies suspended in mid-air, its translucent beauty illuminated from within by an ethereal, pulsing light. This luminescent glow emanates from the heart of the flake, casting an otherworldly aura across the surrounding space.
+
+The color palette is muted and serene, with hints of icy blue (cerulean) that seem to deepen into velvety black at the edges, as if the shadows themselves are alive. A delicate rim of frost-kissed gold lines the edge of the flake, like a whispered promise of secrets shared. The snowflake's intricate patterns – etched into its fragile form like the lines on a wise elder's face – begin to blur and fade as it begins to thaw, leaving behind only the faintest hint of crystalline structure.
+
+The surrounding space is bathed in a warm, golden light, as if the very essence of the sun had seeped into this quiet moment. The textures are tactile – the rough, natural fibers of a worn leather satchel sit at the base of the scene, like a comforting anchor; the delicate lace of a forgotten veil hangs suspended above, its intricate patterns shimmering with a hint of moonlight.
+
+In this tranquil atmosphere, time itself seems to bend and warp, like the fragile membrane that separates reality from the whispers of the past. The air is heavy with anticipation, as if the very breath of existence holds its collective pause, waiting for the next moment's revelation.
+
+STYLE: Expressionist Realism
+COLORS:
+- Icy Blue (Cerulean)
+- Velvety Black
+- Frost-kissed Gold
+- Creamy White
+- Warm Golden Light ( Burnt Sienna, Cream)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

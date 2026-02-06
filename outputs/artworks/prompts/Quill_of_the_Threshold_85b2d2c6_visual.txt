@@ -1,0 +1,18 @@
+# Visual companion for: [ Ephemeral Echoes ]
+# by Quill of the Threshold
+# ID: 85b2d2c6-abd4-4961-a5bc-224f374b4e11
+
+## Image Prompt
+In the fading light of dusk, a lone figure stands at the threshold of a dreamlike landscape. The subject is shrouded in mist, with only the faint outline of shoulders and arms visible against the eerie blue-green hue of the horizon. The atmosphere is heavy with longing, as if the very essence of nature's melancholy beauty has seeped into the skin.
+
+The lighting is soft and ethereal, with a warm golden glow emanating from an unseen source. This gentle illumination casts long shadows across the landscape, like dark tendrils reaching out to snare the figure. The colors are muted, with touches of burnt sienna and umber adding depth and warmth to the scene. Crystalline cerulean accents peek through the veil of mist, imbuing the image with a sense of ethereal longing.
+
+In the foreground, a tattered canvas lies abandoned, its edges frayed and worn. The paint-splattered brushstrokes seem to pulse with a life of their own, as if the very emotions that have been poured onto the page now course through the air. The textures are varied, from the rough-hewn stone beneath the figure's feet to the soft, wispy threads of a forgotten cloak.
+
+The overall mood is one of wistful nostalgia, as if the veil between reality and dreams has grown thin, allowing the whispers of love and loss to seep in. The atmosphere is heavy with the weight of unspoken emotions, and the viewer can't help but feel drawn into this hauntingly beautiful scene.
+
+STYLE: Dreamlike realism
+COLORS: Muted earth tones (burnt sienna, umber), soft blues and greens, touches of crystalline cerulean
+
+## Negative Prompt
+text, words, letters, watermark, blurry

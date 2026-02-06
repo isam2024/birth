@@ -1,0 +1,18 @@
+# Visual companion for: *Echoes in the Twilight
+# by Raven
+# ID: 1a42e961-0928-4b86-a7e8-c7478133a169
+
+## Image Prompt
+The scene unfolds like a twilight tapestry, woven from threads of mystery and intrigue. The subject is shrouded in an ethereal mist, which seeps into the crevices of ancient symbols etched into the walls. Flickering candles cast eerie shadows on the weathered stone, as if the very spirits of the past are stirring. The light emanates from a single, crimson-hued lantern suspended above the entrance, casting a warm glow that struggles to penetrate the veil of mist.
+
+Burnt sienna hues of twilight bleed into cerulean blues, evoking an otherworldly atmosphere. The air is heavy with the scent of damp earth and decaying leaves. In the distance, the silvery glow of moonlight seeps through the veil, casting an eerie luminescence on the landscape.
+
+Textures abound: worn stone beneath weathered frescoes, rough-hewn wooden beams that stretch towards the lantern, and tattered silks fluttering in the misty breeze like ghostly apparitions. The overall effect is one of mystery and foreboding, as if the very fabric of reality has been torn asunder.
+
+In this mystical realm, the past converges with the unknown, and the boundaries between dreams and nightmares blur.
+
+STYLE: Romanticism
+COLORS: Muted crimson, burnt sienna, cerulean blue
+
+## Negative Prompt
+text, words, letters, watermark, blurry

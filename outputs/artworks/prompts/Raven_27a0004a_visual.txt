@@ -1,0 +1,18 @@
+# Visual companion for: [Fractured Echoes in the Silence]
+# by Raven
+# ID: 27a0004a-c706-4894-9eb9-0c7d4aaa55fd
+
+## Image Prompt
+In the heart of a mist-shrouded studio, a labyrinthine space adorned with relics and symbols, a solitary figure sits amidst the veil. The subject is shrouded in shadows, with only their ethereal form illuminated by an otherworldly glow emanating from within the darkness.
+
+Soft crimson hues bleed into burnt sienna tones, as if the very fabric of reality had been infused with an eerie luminescence. The walls seem to writhe and twist, like tendrils of a living entity, as the flickering light casts an unearthly dance upon them. The air is heavy with the scent of aged parchment and dust, imbuing the atmosphere with an air of hushed reverence.
+
+A delicate filigree of fractured crystals adorns the walls, their facets glinting like shattered stars against the dark backdrop. The floor creaks beneath the figure's presence, as if the very foundations of the space were being reshaped by their essence. In the foreground, a tattered tapestry hangs askew, its threads whispering secrets to the flickering light.
+
+The overall effect is one of eerie serenity, as if the universe itself had been paused in anticipation of some long-forgotten reckoning. The stillness is oppressive, heavy with the weight of forgotten knowledge and half-remembered myths.
+
+STYLE: [Surrealist Fantasy]
+COLORS: [Crimson, Burnt Sienna, Cerulean, Mocha]
+
+## Negative Prompt
+text, words, letters, watermark, blurry

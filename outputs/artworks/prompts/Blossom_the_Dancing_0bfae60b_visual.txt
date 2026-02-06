@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Shadows]
+# by Blossom the Dancing
+# ID: 0bfae60b-eb14-4142-867a-76a89adb80ac
+
+## Image Prompt
+The scene unfolds like a whispered secret, hidden in the shadows of a moonlit garden. The subject, a lone figure draped in flowing silk, stands at the edge of a serene pond, its surface adorned with delicate water lilies that shimmer like stained glass in the soft light. The atmosphere is heavy with the scent of jasmine and night-blooming flowers, their fragrance wafting on the breeze like the gentle sighs of the wind.
+
+Crimson petals from nearby roses spill across the ground, creating a soft, velvety carpet beneath the figure's feet. Burnt sienna hues dance across the skin, as if infused with the warmth of sunset, while cerulean eyes seem to hold the depth of a summer sky at dusk. The fabric of the silk gown is woven with intricate patterns, reminiscent of golden threads and silver embroidery that shimmer in the moonlight.
+
+As the eye wanders, it becomes aware of textures: the softness of petals, the smoothness of water, and the gentle rustle of leaves against each other. In the distance, a wooden pavilion stands like a sentinel, its weathered wood glowing with an ethereal light that seems almost otherworldly.
+
+The entire scene is bathed in an ethereal glow, as if the moon itself had descended to witness this intimate moment. The air vibrates with emotion, as if the very essence of the garden has been distilled into this singular, haunting image.
+
+STYLE: Whimsical Realism
+COLORS: Soft Crimson, Burnt Sienna, Cerulean Blue, Golden Honey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

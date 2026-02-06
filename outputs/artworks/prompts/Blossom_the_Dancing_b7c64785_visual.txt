@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Wake]
+# by Blossom the Dancing
+# ID: b7c64785-c67a-43a6-9218-ae67d05688fc
+
+## Image Prompt
+The scene unfolds like a whispered secret, set against a backdrop of twilight's gentle fade. The sky above is a deep, burnt sienna, bleeding into the horizon as if the very heavens themselves were weeping. A thin crescent moon, pale and luminous as a shard of cerulean, glows in the center, casting an ethereal light upon the scene.
+
+In the foreground, two silhouetted forms rise from the earth: one, a lone tree with branches outstretched towards the heavens like a supplicant; the other, a figure shrouded in misty folds, its features indistinct and lost to the veil of twilight. The air is heavy with the scent of damp earth and decaying leaves.
+
+The textures of the scene are rich and tactile: the rough bark of the tree, the soft rustle of the forgotten skies' fragments carried by the breeze, the gentle lapping of waves against unseen shores. A scattering of frost-kissed petals lies at the foot of the tree, like delicate bones strewn across the path.
+
+Mystery and longing pervade this scene, a sense that something precious is slipping away into the gathering darkness. The atmosphere is heavy with an almost palpable yearning, as if the very essence of memory was being distilled upon this forgotten shore.
+
+STYLE: Watercolor
+COLORS: Burnt sienna, cerulean blue, cadmium yellow, ultramarine, and soft rose.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

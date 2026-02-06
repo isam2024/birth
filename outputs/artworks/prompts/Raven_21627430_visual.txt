@@ -1,0 +1,18 @@
+# Visual companion for: Whispers in the Shattered Hush
+# by Raven
+# ID: 21627430-e606-4546-a819-ec4acfdc7b6d
+
+## Image Prompt
+The scene unfolds like a mystical dreamscape, where the veil between worlds is at its thinnest. A figure stands at the edge of a mist-shrouded clearing, lost in contemplation as silken threads weave together the fabric of reality and the unknown. The air is heavy with an otherworldly presence, as if the very essence of the universe has seeped into this sacred space.
+
+Soft, ethereal light permeates the scene from a place beyond mortal comprehension, casting an unearthly glow over the landscape. Crimson hues bleed into burnt sienna tones, evoking a sense of aged wisdom and mysticism. The colors deepen and richen as they merge with the cerulean blue of the misty veil, creating an aura that is at once eerie and enchanting.
+
+Textured glass shards litter the ground, reflecting shards of the divine light. Each shard seems to hold a piece of shattered reality, its fractured surface mirroring the turmoil of the human experience. Shimmering threads of gold and silver weave together these shards, forming a latticework that appears to pulse with an inner light.
+
+In this liminal space, shadows roam free, conjuring whispers of forgotten lore and ancient wisdom. Echoes of a distant song resonate through the air, beckoning all who dare to listen towards the hidden truths that lie beyond the veil. The atmosphere is heavy with anticipation, as if the very fabric of reality is about to be revealed.
+
+STYLE: Symbolist Fantasy
+COLORS: Crimson, Burnt Sienna, Cerulean Blue, Gold, Silver, and Smoky Grays
+
+## Negative Prompt
+text, words, letters, watermark, blurry

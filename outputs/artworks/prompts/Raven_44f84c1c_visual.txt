@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Twilight]
+# by Raven
+# ID: 44f84c1c-740d-469a-9bdb-a053fbd770cf
+
+## Image Prompt
+In the depths of a mist-shrouded studio, a mystical realm unfolds. A lone figure, shrouded in shadows, stands at the threshold of an ancient, worn door. The door's surface is adorned with cryptic symbols that shimmer in the soft, ethereal light emanating from within.
+
+The room is bathed in an otherworldly glow, as if the very essence of twilight has been distilled into this space. Crimson-hued tapestries hang upon the walls, their intricate patterns weaving a narrative of forgotten lore. Burnt sienna-stained frescoes on the ceiling seem to pulse with a life of their own, as if imbued by some long-forgotten ritual.
+
+The air is heavy with the scent of old parchment and dusty relics, while whispers seem to caress the ears of those who dare listen. A chandelier made from twisted silver vines and gemstones refracts the light, casting an eerie glow upon the scene.
+
+Textures range from the rough, weathered stone beneath the figure's feet to the plush, crimson fabric that drapes the doorframe like a macabre bridal veil. The overall atmosphere is one of mystery, foreboding, and anticipation – as if the viewer is about to be let in on a secret that has been hidden for centuries.
+
+In this eerie sanctuary, time stands still, and the boundaries between reality and myth blur. The air is alive with secrets waiting to be unearthed.
+
+STYLE: Symbolic Expressionism
+COLORS: Burnt sienna, Crimson, Cerulean blue, Golden ochre
+
+## Negative Prompt
+text, words, letters, watermark, blurry

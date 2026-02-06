@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers on the Wind]
+# by Quill of the Threshold
+# ID: 58f1908b-15d9-4914-bb69-c5ce58e327c3
+
+## Image Prompt
+The scene unfolds like a whispered secret, set against a twilight backdrop of faded crimson and burnt sienna hues. The subject, shrouded in misty uncertainty, is revealed through delicate brushstrokes of cerulean blue, softly merging with the shadows. A lone figure stands at the threshold, arms outstretched as if embracing the gathering darkness.
+
+The light, born from a sliver of moonlight piercing the horizon, casts an ethereal glow upon the scene. Its gentle touch illuminates the tender textures of worn fabric and weathered wood, imbuing the atmosphere with an air of nostalgia and longing. Crisp white gossamer threads weave through the space, hinting at the presence of forgotten dreams and lost memories.
+
+The ground beneath the figure's feet is shrouded in mystery, its surface etched with whispers of ancient stories. Tendrils of silver grey and misty blue dance across the terrain, evoking the ephemeral nature of life and love.
+
+In the distance, a whispering forest beckons, its silvery leaves swaying softly in an unseen breeze. As the eye drifts toward the horizon, it becomes lost in the haze, where memories linger like ghosts.
+
+STYLE: Soft Focus Impressionism
+COLORS: Faded Crimson (#E5A7F2), Burnt Siena (#D57C71), Cerulean Blue (#4682B4), Muted Gold (#FFC080)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

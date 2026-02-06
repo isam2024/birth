@@ -1,0 +1,18 @@
+# Visual companion for: [Ephemeral Petals of Sorrow]
+# by Blossom the Dancing
+# ID: b26337a7-d10f-44c5-a5af-98a5464547b2
+
+## Image Prompt
+The Ephemeral Petals of Sorrow is set against a dreamy, moonlit backdrop. A lone figure stands at the edge of a forest, gazing up at the sky with an air of longing. The subject's face is obscured by shadows, adding to the enigma of their emotions. In the distance, towering trees stretch towards the heavens, their branches tangled and gnarled like wispy fingers.
+
+Soft, ethereal light spills from above, casting a warm glow on the figure's outstretched arm, which reaches up towards the sky as if grasping for something intangible. The light source is diffuse, coming from above and below simultaneously, giving the scene an otherworldly quality. Golden hues of dawn mingle with the deep blues of night, creating an enchanting twilight atmosphere.
+
+Crimson petals flutter through the air, suspended in mid-air like delicate, translucent confetti. Burnt sienna-hued tree bark is visible beneath the figure's feet, weathered to a warm, earthy tone. Leaves are rustling softly on the breeze, releasing whispers of copper and amber tones that seem to reverberate through the scene.
+
+In the background, the ancient streams shimmer like molten silver, reflecting shards of moonlight. The overall effect is one of melancholic serenity, as if the very essence of sorrow has been distilled into this fleeting moment of beauty.
+
+STYLE: Whimsical, dreamlike watercolor
+COLORS: Soft crimsons, warm golden light, deep blues and silvers
+
+## Negative Prompt
+text, words, letters, watermark, blurry

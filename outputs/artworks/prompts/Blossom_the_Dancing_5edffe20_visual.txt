@@ -1,0 +1,18 @@
+# Visual companion for: [Whispers in the Petals]
+# by Blossom the Dancing
+# ID: 5edffe20-d82d-4c42-84d9-89127564bba4
+
+## Image Prompt
+In the heart of a forgotten garden, where wildflowers bloom with reckless abandon, a delicate, porcelain-like watercolor painting appears to be unfolding like a ghostly whisper. The subject is shrouded in an ethereal mist that seeps from the petals themselves, imbuing the air around it with a sense of longing and yearning.
+
+Soft, candlelit lanterns, their glassy surfaces reflecting the faintest hint of moonlight, cast a warm, golden glow upon the scene. This luminescent light dances across the watercolor's translucent surface, highlighting the subtle play of colors beneath. The dominant hue is a soft, serene blue, reminiscent of a still pond on a summer's day, punctuated by delicate strokes of burnt sienna and umber that evoke the gentle, weathered bark of ancient trees.
+
+As the viewer's gaze lingers upon this ephemeral masterpiece, the tactile quality of the watercolor becomes apparent. The textures of the petals, leaves, and stems appear almost three-dimensional, as if the artist has captured the very essence of nature's beauty in the delicate folds of their brushstrokes. The entire scene seems to vibrate with an otherworldly energy, as if the whispers hidden within its delicate petals are about to be set free.
+
+The overall mood of the image is one of bittersweet melancholy, a poignant reminder that beauty and sorrow are forever intertwined.
+
+STYLE: Watercolor
+COLORS: Soft blues (cerulean, azure), warm golden light on soft siennas and umbers.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

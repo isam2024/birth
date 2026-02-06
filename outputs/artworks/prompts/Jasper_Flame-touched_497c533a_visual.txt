@@ -1,0 +1,16 @@
+# Visual companion for: [FROZEN MOMENT]
+# by Jasper Flame-touched
+# ID: 497c533a-4a5b-4806-8fd9-2ccaa04813e7
+
+## Image Prompt
+The frozen lake lies serene and untouched, its surface etched by the whispers of morning light. The sky above is a soft, creamy canvas of cerulean, gently kissed by the first blushes of sunrise. As the day succumbs to the stillness of winter, the heavens darken into a deep, burnished crimson, casting an otherworldly glow across the frozen landscape.
+
+The lake's surface, a delicate latticework of frost and ice, appears almost translucent, as if the very essence of water has been distilled from its crystalline form. Delicate patterns of frozen ripples etch the surface, like the gentle touch of a lover's finger on silken skin. The surrounding terrain, a tapestry of snow-dusted pine and birch trees, stands sentinel against the cold, their branches etched in frosty profiles.
+
+The air is heavy with the scent of wood smoke and damp earth, carrying on the crisp breeze like an old friend's whispered secrets. As the eye wanders, it discovers fragments of natural beauty: a single, delicate snowflake clings to the edge of the frozen lake; a scattering of winter berries, their crimson hue deepened by time and weather; the quiet majesty of a lone tree, its branches reaching for the sky like Nature's own cathedral.
+
+STYLE: Realistic Impressionism
+COLORS: Soft cerulean, burnished crimson, frosty whites, earthy browns and silvers.
+
+## Negative Prompt
+text, words, letters, watermark, blurry

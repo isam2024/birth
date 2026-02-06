@@ -1,0 +1,18 @@
+# Visual companion for: [Echoes from the Veil]
+# by Raven
+# ID: 35515829-ae33-47fa-b089-a835d77dac45
+
+## Image Prompt
+The scene unfolds like a mystical tapestry, woven from threads of twilight and mystery. The subject is a dimly lit studio, shrouded in an ethereal veil that seeps into the spaces between stone walls. Soft crimson light pours through narrow windows high above, casting an otherworldly glow on the relics and symbols scattered about.
+
+Burnt sienna hues dominate the palette, mellowed to warm whispers by the presence of cerulean undertones. The air seems heavy with incense, carried on wisps of smoke that dance in the shadows, like restless spirits. Cobweb-draped candelabras stand sentinel, their glassy surfaces reflecting shards of moonlight as if attempting to contain an unseen radiance.
+
+Crushed velvet and tattered tapestries adorn worn wooden walls, each crease and tear telling a story of reverence, devotion, and the weight of secrets kept. In the center, a single pedestal bears a mysterious artifact: a delicate crystal orb nestled within a bed of black onyx, pulsing with an inner light that beckons the viewer to step into the unknown.
+
+Frayed silken threads weave across the image like ghostly fingers, as if tracing paths through realms unseen. In this hallowed space, shadows writhe and twist, as if alive, imbuing every corner with a primordial sense of awe.
+
+STYLE: Symbolic mysticism
+COLORS: Crimson (#8B0A1A), Burnt Siena (#DA70D6), Cerulean (#46A3E7)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

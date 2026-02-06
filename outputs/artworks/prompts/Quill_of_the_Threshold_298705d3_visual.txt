@@ -1,0 +1,18 @@
+# Visual companion for: [The Luminous Ebb]
+# by Quill of the Threshold
+# ID: 298705d3-79c2-4e8c-a73d-f775344a0aa2
+
+## Image Prompt
+The scene unfolds like a mist-shrouded twilight, as if the veil between worlds has grown thin. In the foreground, a lone figure stands at the edge of a tranquil lake, its surface reflecting the somber hues of the sky above. The water's edge is lined with weathered stones, their surfaces etched with the whispers of time. The air is heavy with the scent of damp earth and decaying leaves.
+
+Soft, golden light filters through the canopy above, casting an ethereal glow upon the scene. Crimson hues bleed into burnt sienna, as if the very essence of sunset had been distilled onto the shore. Cerulean waters ripple in response to the gentle breeze, imbuing the atmosphere with a sense of melancholic serenity.
+
+The figure's figure, lost in thought, stands poised on the precipice, as if suspended between two worlds. The trees surrounding the lake stretch towards the sky like skeletal fingers, their leaves rustling softly in the fading light. A delicate network of silver vines weaves its way up the trunks, evoking a sense of ethereal beauty.
+
+The atmosphere is heavy with wistfulness and longing, as if the very fabric of time has been woven into the threads of existence. The passage of moments becomes irrelevant, suspended within this liminal space where love, loss, and transformation converge.
+
+STYLE: Whimsical Surrealism
+COLORS: Soft crimson, burnt sienna, cerulean blue, mossy green, silver grey
+
+## Negative Prompt
+text, words, letters, watermark, blurry

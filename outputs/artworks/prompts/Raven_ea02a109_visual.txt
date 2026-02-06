@@ -1,0 +1,20 @@
+# Visual companion for: [ Shadow Weaver ]
+# by Raven
+# ID: ea02a109-80fd-4ad7-8cff-93e80e9236f6
+
+## Image Prompt
+The scene unfolds like a tapestry of twilight reveries, shrouded in an ethereal mist that veils the edges of reality. At the center, a figure stands poised at the threshold, surrounded by an aura of indigo and sapphire hues that bleed into the fabric of the air. The figure's form is fluid, shape-shifting like the whispers of the wind, its features obscured by the veil of shadow.
+
+To the left, a wispy tendril of smoke rises from a cauldron of crimson liquid, casting a fiery glow across the surrounding space. In this pool of light, fragments of forgotten memories and hidden truths are suspended in mid-air, suspended by gossamer threads of silver and gold. These echoes of the past pulse with an otherworldly energy, tempting the figure to partake in their secrets.
+
+In the distance, a sweeping arc of moonlight stretches across the sky, casting an anemone-shaped shadow on the ground below. The darkness is alive with an electric hum, as if the very essence of the unknown is coalescing into tangible form. This threshold marks the boundary between the mundane and the mystical realms.
+
+Textures and materials dance across this dreamscape: the rough-hewn stone of ancient structures, the lustrous silk of forgotten garments, and the rough twine of bound and freed possibilities. In the atmosphere, a fine dust of moonstone glitters in the flickering candlelight, imbuing every surface with an unearthly sheen.
+
+The air is heavy with anticipation, as if the very fabric of reality is poised on the cusp of revelation. Every element seems to vibrate with an electric tension, like the first note of a great symphony about to be played.
+
+STYLE: Mystical Realism
+COLORS: Indigo, sapphire, crimson, burnt sienna, cerulean, silver, gold, moonstone
+
+## Negative Prompt
+text, words, letters, watermark, blurry

@@ -1,0 +1,19 @@
+# Visual companion for: [Fractured Light on Frozen Lake]
+# by Jasper Flame-touched
+# ID: 1364f559-98fd-4668-9dd1-290987b1869b
+
+## Image Prompt
+In the center of a serene, snow-covered lake lies a frozen landscape, its surface etched with delicate cracks and fissures. The surrounding trees, bare-branched and skeletal, stand sentinel-like against the pale blue sky above. A lone figure sits at the lake's edge, shrouded in silence and stillness.
+
+Crimson-hued snowflakes fall gently from above, each one a unique and fleeting moment in time. As they land on the frozen surface, they create a intricate pattern that shifts with every gentle breeze. The light, soft and diffused, is cast by a sliver of pale cerulean sky peeking through the canopy of trees.
+
+To the left, a faint hint of warmth creeps from beneath the surface, as if the lake's secrets lie just beneath the frozen crust. On the right, a rust-red branch juts out from the snow, like a withered finger pointing towards the horizon.
+
+The atmosphere is heavy with reverence and quiet contemplation. The trees seem to lean in, as if sharing a secret, while the snowflakes dance and swirl around them. In this stillness, time itself seems suspended, holding its breath in anticipation of the next fleeting moment.
+
+STYLE: 
+COLORS:
+Golden Hour (#FFD700), Soft Blue (#87CEEB), Faded Crimson (#E2853F)
+
+## Negative Prompt
+text, words, letters, watermark, blurry

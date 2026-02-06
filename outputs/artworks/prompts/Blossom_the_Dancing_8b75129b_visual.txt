@@ -1,0 +1,19 @@
+# Visual companion for: [Fractured Petals in the Hush]
+# by Blossom the Dancing
+# ID: 8b75129b-6951-472d-9c5e-3c1c0a7df59d
+
+## Image Prompt
+The painting depicts a serene and intimate scene of a young woman standing at the edge of a mist-shrouded garden, surrounded by overgrown flowers and tangled vines. The subject's slender figure is partially obscured by the lush vegetation, as if trying to blend in with the natural surroundings.
+
+Soft, golden light filters through the gaps between the leaves, casting an ethereal glow on the woman's face and clothes. The sky above is a deep cerulean, gradually transitioning into a pale wash of misty blue towards the horizon. The color palette is rich and evocative, with touches of burnt sienna and umber adding warmth to the overall mood.
+
+The woman's attire appears to be made of a lightweight, diaphanous material that catches the gentle breeze, sending delicate petals floating around her. Her face is pale and heart-shaped, with high cheekbones and full lips painted in a soft crimson hue. Her eyes are cast downward, lost in thought, and her raven-black hair cascades down her back like a waterfall.
+
+The atmosphere of the painting is melancholic yet hauntingly beautiful, as if time itself has slowed down to allow for this fleeting moment of introspection. The air is heavy with the scent of damp earth and decaying flowers, adding to the sense of wistfulness that pervades the image.
+
+Textures and materials are visible throughout the piece, from the rough-hewn stone beneath the woman's feet to the soft, whispery petals that dance around her head. A delicate silver locket hangs from a slender chain around her neck, casting a subtle sheen in the faint light.
+
+STYLE: Impressionist Oil Painting
+
+## Negative Prompt
+text, words, letters, watermark, blurry

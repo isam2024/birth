@@ -1,0 +1,20 @@
+# Visual companion for: [Whispers in the Shattered Light]
+# by Blossom the Dancing
+# ID: dd436a7f-fc2f-4afa-aca8-9c439f329cbc
+
+## Image Prompt
+In the heart of a serene lake, a lone figure stands at the water's edge, lost in thought. The subject is shrouded in shadows, their presence only hinted at by the faintest wisps of mist that dance around their form.
+
+The sky above is a deep, foreboding crimson, with burnt sienna hues bleeding into the cerulean depths, like the dying embers of a once-roaring fire. The light itself seems to be shattered, as if it has been broken by unseen forces that reverberate through every molecule of air. The resulting glow casts an otherworldly aura, imbuing the scene with a sense of melancholy and longing.
+
+The lake's surface is like a sheet of molten glass, reflecting the fragmented light in dizzying patterns. Water lilies float upon its surface, their delicate petals stretching towards the sky like ghostly fingers. The surrounding trees loom above, their branches etched against the darkening sky like skeletal fingers, their leaves rustling softly in the gentle breeze.
+
+As the eye wanders across the image, it comes across a glint of silver, a fragment of a broken necklace suspended just beneath the surface of the water. A single rose petal floats nearby, its delicate curves undulating as if alive. In the distance, the moon casts an ethereal glow, illuminating the misty tendrils that reach out from the lake's depths like ghostly fingers.
+
+The atmosphere is heavy with a sense of nostalgia and loss, as if time itself has been fractured and fragmented. The image seems to vibrate with the emotions of those who have come before, their sorrow and longing echoing through the stillness like whispers on the wind.
+
+STYLE: Impressionist Watercolor
+COLORS: Burnt sienna, cerulean, crimson, lavender, silver
+
+## Negative Prompt
+text, words, letters, watermark, blurry

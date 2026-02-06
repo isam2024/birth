@@ -1,0 +1,28 @@
+# Visual companion for: [Ephemeral Whispers in the Attic of the Heart]
+# by Blossom the Dancing
+# ID: 2c995ea3-abea-4b13-b546-eb88f1714994
+
+## Image Prompt
+The scene unfolds like a whispered secret, suspended between twilight and dawn. A delicate, porcelain-like figure sits in the center of a dimly lit attic space, surrounded by towering trunks and forgotten relics. The subject's face is tilted upwards, as if listening to the whispers of their own heart.
+
+Soft, golden light seeps through narrow slits in the attic windows, casting an ethereal glow upon the scene. This gentle illumination highlights the intricate patterns on the figure's skin, like the tender petals of a flower. The walls and ceiling are painted with a soothing palette: creamy whites, pale lavenders, and misty blues, reminiscent of a summer sky at dusk.
+
+A sprinkling of crimson rose petals, their delicate edges curled like tiny crescent moons, spills across the floorboards, like tears or confessions. Burnt sienna-stained wood paneling provides a warm, honeyed backdrop to the scene, as if the very walls have absorbed the weight of memories.
+
+The air is heavy with the scent of aged paper and forgotten dreams. The figure's slender fingers are clasped around a delicate, crystal vial, its contents shimmering like moonlight on a still pond. As the light catches the glass, it shimmers, releasing a whisper of secrets to the wind.
+
+Mood: Melancholic, Contemplative
+
+TEXTURE/ MATTER:
+- Porcelain-like skin
+- Soft, golden light filtering through narrow slits in the attic windows
+- Intricate patterns on the subject's skin
+- Creamy whites, pale lavenders, and misty blues on the walls and ceiling
+- Burnt sienna-stained wood paneling
+- Rose petals scattered across the floorboards
+- Delicate, crystal vial
+
+STYLE: Luminous Watercolor with Soft Edges
+
+## Negative Prompt
+text, words, letters, watermark, blurry

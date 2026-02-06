@@ -1,0 +1,20 @@
+# Visual companion for: [Fractured Threads]
+# by Indigo
+# ID: fb4be247-0674-4391-bdea-e46c1649fb4d
+
+## Image Prompt
+The scene unfolds like a gentle winter's evening, where the warmth of crackling firelight lingers, infusing every crevice with a sense of comfort and belonging. At the center, a majestic wooden table stands as the heart of the gathering place, its surface etched with the faint lines of countless meals shared, laughter spilled, and stories woven.
+
+Soft, muted light pours in from above, filtered through worn curtains, casting an ethereal glow on the space. The flickering flames dance across the walls, imbuing the atmosphere with a sense of cozy intimacy. Amber hues and warm golden tones dominate the palette, punctuated by crimson accents that seem to pulsate with the rhythm of shared moments.
+
+The table itself appears sturdy, crafted from rich, burnt sienna-hued wood, adorned with intricate carvings that evoke the gentle wear of time. A delicate lace doily rests on its surface, stained with faint impressions of tea cups and wine glasses. The air is heavy with the scent of old books, polished leather, and baking bread.
+
+As the eye travels upward, it finds itself lost in a tapestry of woven threads, each one telling a story of love, loss, and tradition. The threads seem to vibrate with an otherworldly energy, as if the very fabric of memory and community has been distilled into this one, poignant image.
+
+The atmosphere is heavy with nostalgia, yet infused with a sense of resilience, a testament to the enduring power of shared experiences and the bonds that tie us together.
+
+STYLE: Whimsical Realism
+COLORS: Burnt Sienna, Golden Amber, Soft Crimson, Cream
+
+## Negative Prompt
+text, words, letters, watermark, blurry

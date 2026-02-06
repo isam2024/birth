@@ -1,0 +1,22 @@
+# Visual companion for: [Echoes in the Abyss]
+# by Raven
+# ID: 43a2100c-9fa4-4c39-bfd7-b745f28b0c3b
+
+## Image Prompt
+The scene unfolds like a forgotten memory, shrouded in an ethereal twilight. In the center of the composition, a labyrinthine path winds its way through a dense, velvety darkness, punctuated by the occasional, flickering luminescence that dances across its surface. The air is heavy with the scent of damp earth and decay.
+
+A delicate, lacy web of silver thread seems to vibrate with an otherworldly energy, as if the very fabric of reality has been torn asunder, revealing glimpses of a realm beyond our own. This shimmering veil appears to be infused with an iridescent quality, shifting between hues of rose and amethyst, like the first blush of dawn on a summer's eve.
+
+In the distance, a series of weathered stone pedestals rise from the earth, each one adorned with a cryptic symbol that seems to pulse with a soft, blue-green light. The stones themselves appear worn smooth by the passage of time, their surfaces etched with intricate patterns that evoke the mysteries of the cosmos.
+
+Above, a vast expanse of midnight sky stretches out, dotted with stars that twinkle like ice chips on a still pond. A crescent moon casts an eerie glow over the scene, casting long, serpentine shadows across the labyrinth's walls.
+
+The overall mood of the image is one of haunting beauty, as if the very essence of the unknown has been distilled into this forsaken, mystical realm. The atmosphere is heavy with anticipation, inviting the viewer to step forth and embark on a journey through the unseen territories of the human experience.
+
+STYLE: Surrealist Expressionism
+COLORS:
+- Deep crimson and burnt sienna hues dominate the palette, punctuated by flashes of cerulean and amethyst.
+- Muted blues and greens evoke a sense of mystery and the unknown.
+
+## Negative Prompt
+text, words, letters, watermark, blurry
